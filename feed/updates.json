@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-07T16:02:02Z",
+  "updated": "2026-09-07T21:45:08Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,22 +13,22 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-07T16:02:02Z",
-    "amd.chipset": "2026-09-07T16:02:03Z",
-    "windowsBuilds": "2026-09-07T16:02:04Z",
-    "windows10": "2026-09-07T16:02:05Z",
+    "amd.windows": "2026-09-07T21:45:09Z",
+    "amd.chipset": "2026-09-07T21:45:10Z",
+    "windowsBuilds": "2026-09-07T21:45:10Z",
+    "windows10": "2026-09-07T21:45:11Z",
     "motherboards.msi": "2026-09-07T17:36:44Z",
     "motherboards.gigabyte": "2026-09-07T17:36:44Z",
     "motherboards.asrock": "2026-09-07T17:36:44Z",
     "motherboards.asus": "2026-09-07T17:36:44Z",
-    "dell": "2026-09-07T17:36:47Z",
-    "intel.chipset": "2026-09-07T17:36:59Z",
-    "intel.arc": "2026-09-07T17:36:59Z",
-    "intel.xe": "2026-09-07T17:36:59Z",
-    "intel.rst20": "2026-09-07T17:36:59Z",
-    "intel.rst21": "2026-09-07T17:36:59Z",
-    "intel.chipsetInf": "2026-09-07T17:36:59Z",
-    "nvidia": "2026-09-07T17:37:00Z"
+    "dell": "2026-09-07T21:45:17Z",
+    "intel.chipset": "2026-09-07T21:45:35Z",
+    "intel.arc": "2026-09-07T21:45:35Z",
+    "intel.xe": "2026-09-07T21:45:35Z",
+    "intel.rst20": "2026-09-07T21:45:35Z",
+    "intel.rst21": "2026-09-07T21:45:35Z",
+    "intel.chipsetInf": "2026-09-07T21:45:35Z",
+    "nvidia": "2026-09-07T21:45:36Z"
   },
   "amd": {
     "windows": {
@@ -6964,6 +6964,11 @@
     "MAG X870E TOMAHAWK WIFI": {
       "bios": "7E59v2AC4",
       "date": "2026-09-07",
+      "vendor": "msi"
+    },
+    "MAG X999 TOMAHAWK WIFI": {
+      "bios": "7E99v1A",
+      "date": "2026-03-11",
       "vendor": "msi"
     },
     "MAG Z490 TOMAHAWK": {
@@ -13931,6 +13936,18 @@
       "url": "https://www.gigabyte.com/Motherboard/X870M-AORUS-ELITE-WIFI7-ICE/support#support-dl-bios",
       "vendor": "gigabyte"
     },
+    "X999 AORUS ELITE AX": {
+      "bios": "F4c",
+      "date": "2026-02-24",
+      "url": "https://www.gigabyte.com/Motherboard/X999-AORUS-ELITE-AX/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
+    "X999 Steel Legend WiFi": {
+      "bios": "3.08",
+      "date": "2026-01-29",
+      "url": "https://www.asrock.com/mb/AMD/X999%20Steel%20Legend%20WiFi/BIOS.html",
+      "vendor": "asrock"
+    },
     "Z270-WS": {
       "bios": "0801",
       "date": "2024-04-03",
@@ -15291,23 +15308,6 @@
       "bios": "3.31",
       "date": "2026-07-15",
       "url": "https://pg.asrock.com/mb/Intel/Z890M%20Riptide%20WiFi/BIOS.html",
-      "vendor": "asrock"
-    },
-    "MAG X999 TOMAHAWK WIFI": {
-      "bios": "7E99v1A",
-      "date": "2026-03-11",
-      "vendor": "msi"
-    },
-    "X999 AORUS ELITE AX": {
-      "bios": "F4c",
-      "date": "2026-02-24",
-      "url": "https://www.gigabyte.com/Motherboard/X999-AORUS-ELITE-AX/support#support-dl-bios",
-      "vendor": "gigabyte"
-    },
-    "X999 Steel Legend WiFi": {
-      "bios": "3.08",
-      "date": "2026-01-29",
-      "url": "https://www.asrock.com/mb/AMD/X999%20Steel%20Legend%20WiFi/BIOS.html",
       "vendor": "asrock"
     }
   },
