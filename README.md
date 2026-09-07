@@ -11,11 +11,26 @@ repository that publishes here.
 This README is the exception: the mirror step copies only the `feed/`
 artifacts, so documentation here is maintained by hand and survives every run.
 
+- [Terms of use](#terms-of-use)
 - [Files](#files)
 - [Verifying a copy](#verifying-a-copy)
 - [Feed format](#feed-format)
 - [Freshness](#freshness)
 - [Where the data comes from](#where-the-data-comes-from)
+
+## Terms of use
+
+**This data is public so that the app can read it, not so that it can be
+reused.** The individual facts — a BIOS version, a driver date — belong to
+their vendors and are not claimed. The compilation is: the scraping,
+normalisation and continuous verification of several thousand entries across a
+dozen sources, none of which offers a stable public API for this.
+
+Redistributing it, or building it into another application, product, dataset
+or model, needs permission. Re-deriving the same facts from the vendors' own
+pages is expressly not restricted. Full terms in [LICENSE.md](LICENSE.md), and
+`updates.json` carries a `license` field saying the same thing, so the terms
+travel with any copy of the data.
 
 ## Files
 
@@ -83,6 +98,7 @@ fetched key alone can never move a machine's trust root.
 ```jsonc
 {
   "schemaVersion": 1,
+  "license": "Compilation (c) 2026 Matt North. ...",
   "updated": "2026-08-05T13:06:09Z",
   "freshness":   { "amd.windows": "...", "motherboards.gigabyte": "..." },
   "communitySources": { "...": { "repository": "...", "commit": "..." } },
@@ -102,6 +118,8 @@ fetched key alone can never move a machine's trust root.
 }
 ```
 
+- `license` states the terms above inside the data itself, so a copy taken
+  without the repository still carries them. Consumers ignore it.
 - `schemaVersion` changes only for a consumer-facing breaking change.
   Additive fields stay within the current version, so a consumer that ignores
   unknown keys will not be broken by a new section appearing.
