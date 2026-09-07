@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-05T13:31:47Z",
+  "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
+  "updated": "2026-09-07T16:02:02Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -12,22 +13,22 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-05T13:31:47Z",
-    "amd.chipset": "2026-09-05T13:31:48Z",
-    "windowsBuilds": "2026-09-05T13:31:48Z",
-    "windows10": "2026-09-05T13:31:49Z",
-    "motherboards.msi": "2026-09-05T15:07:00Z",
-    "motherboards.gigabyte": "2026-09-05T15:07:00Z",
-    "motherboards.asrock": "2026-09-05T15:07:00Z",
-    "motherboards.asus": "2026-09-05T15:07:00Z",
-    "dell": "2026-09-05T15:07:03Z",
-    "intel.chipset": "2026-09-05T15:07:15Z",
-    "intel.arc": "2026-09-05T15:07:15Z",
-    "intel.xe": "2026-09-05T15:07:15Z",
-    "intel.rst20": "2026-09-05T15:07:15Z",
-    "intel.rst21": "2026-09-05T15:07:15Z",
-    "intel.chipsetInf": "2026-09-05T15:07:15Z",
-    "nvidia": "2026-09-05T15:07:16Z"
+    "amd.windows": "2026-09-07T16:02:02Z",
+    "amd.chipset": "2026-09-07T16:02:03Z",
+    "windowsBuilds": "2026-09-07T16:02:04Z",
+    "windows10": "2026-09-07T16:02:05Z",
+    "motherboards.msi": "2026-09-07T17:36:44Z",
+    "motherboards.gigabyte": "2026-09-07T17:36:44Z",
+    "motherboards.asrock": "2026-09-07T17:36:44Z",
+    "motherboards.asus": "2026-09-07T17:36:44Z",
+    "dell": "2026-09-07T17:36:47Z",
+    "intel.chipset": "2026-09-07T17:36:59Z",
+    "intel.arc": "2026-09-07T17:36:59Z",
+    "intel.xe": "2026-09-07T17:36:59Z",
+    "intel.rst20": "2026-09-07T17:36:59Z",
+    "intel.rst21": "2026-09-07T17:36:59Z",
+    "intel.chipsetInf": "2026-09-07T17:36:59Z",
+    "nvidia": "2026-09-07T17:37:00Z"
   },
   "amd": {
     "windows": {
@@ -2448,8 +2449,8 @@
       "vendor": "gigabyte"
     },
     "B760 GAMING PLUS WIFI": {
-      "bios": "7D98vHD",
-      "date": "2026-04-09",
+      "bios": "7D98vHE",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B760 GAMING PLUS WIFI DDR4": {
@@ -3139,8 +3140,8 @@
       "vendor": "gigabyte"
     },
     "B840 GAMING PLUS WIFI": {
-      "bios": "7E57v2A72",
-      "date": "2026-06-26",
+      "bios": "7E57v2A73",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B840 GAMING X WIFI6E": {
@@ -3209,13 +3210,13 @@
       "vendor": "gigabyte"
     },
     "B840M GAMING PLUS WIFI6E": {
-      "bios": "7E77v1A42",
-      "date": "2026-06-26",
+      "bios": "7E77v1A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B840M GAMING WIFI6E": {
-      "bios": "7E76v1A42",
-      "date": "2026-07-01",
+      "bios": "7E76v1A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B840M GAMING X WIFI6E": {
@@ -3373,8 +3374,8 @@
       "vendor": "asus"
     },
     "B850 MLG EDITION": {
-      "bios": "7E62v3A32",
-      "date": "2026-06-30",
+      "bios": "7E62v3A34",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B850 Pro RS": {
@@ -3584,8 +3585,8 @@
       "vendor": "msi"
     },
     "B850M GAMING PLUS WIFI6E": {
-      "bios": "7E81v1A42",
-      "date": "2026-06-26",
+      "bios": "7E81v1A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B850M GAMING PRO WIFI6E": {
@@ -3599,8 +3600,8 @@
       "vendor": "msi"
     },
     "B850M GAMING WIFI6E": {
-      "bios": "7E87v1A33",
-      "date": "2026-06-26",
+      "bios": "7E87v1A34",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "B850M GAMING X WIFI6E": {
@@ -6737,18 +6738,18 @@
       "vendor": "msi"
     },
     "MAG B660 TOMAHAWK EVA e-PROJECT": {
-      "bios": "7D41vHN",
-      "date": "2026-03-27",
+      "bios": "7D41vHO",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B660 TOMAHAWK WIFI": {
-      "bios": "7D41vAN",
-      "date": "2026-03-27",
+      "bios": "7D41vAO",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B660 TOMAHAWK WIFI DDR4": {
-      "bios": "7D41v2N",
-      "date": "2026-03-27",
+      "bios": "7D41v2O",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B660M BAZOOKA": {
@@ -6757,8 +6758,8 @@
       "vendor": "msi"
     },
     "MAG B660M BAZOOKA DDR4": {
-      "bios": "7D43vHO",
-      "date": "2026-03-27",
+      "bios": "7D43vHP",
+      "date": "2026-09-04",
       "vendor": "msi"
     },
     "MAG B660M MORTAR": {
@@ -6837,8 +6838,8 @@
       "vendor": "msi"
     },
     "MAG B840 GAMING EVO WIFI6E": {
-      "bios": "7E93v2A22",
-      "date": "2026-06-26",
+      "bios": "7E93v2A23",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B850 GAMING PLUS MAX WIFI": {
@@ -6862,8 +6863,8 @@
       "vendor": "msi"
     },
     "MAG B850M GAMING PLUS MAX WIFI": {
-      "bios": "7F04v1A21",
-      "date": "2026-07-03",
+      "bios": "7F04v1A22",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B850M GAMING PRO MAX WIFI": {
@@ -6872,8 +6873,8 @@
       "vendor": "msi"
     },
     "MAG B850M MORTAR": {
-      "bios": "7E61v1A66",
-      "date": "2026-08-20",
+      "bios": "7E61v1A68",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B850M MORTAR MAX WIFI": {
@@ -6881,8 +6882,8 @@
       "date": "2026-07-02"
     },
     "MAG B850M MORTAR MAX WIFI (Rev 1)": {
-      "bios": "7E92v2A33",
-      "date": "2026-08-20",
+      "bios": "7E92v2A34",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B850M MORTAR MAX WIFI (Rev 2)": {
@@ -6891,8 +6892,8 @@
       "vendor": "msi"
     },
     "MAG B850M MORTAR WIFI": {
-      "bios": "7E61v1A66",
-      "date": "2026-08-20",
+      "bios": "7E61v1A68",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG B860 TOMAHAWK WIFI": {
@@ -6941,8 +6942,8 @@
       "vendor": "msi"
     },
     "MAG X870E GAMING MAX WIFI": {
-      "bios": "7E86v1A40",
-      "date": "2026-09-03",
+      "bios": "7E86v1A41",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG X870E GAMING PLUS MAX WIFI": {
@@ -6951,8 +6952,8 @@
       "vendor": "msi"
     },
     "MAG X870E TOMAHAWK MAX WIFI": {
-      "bios": "7E59v5A32",
-      "date": "2026-06-26",
+      "bios": "7E59v5A33",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG X870E TOMAHAWK MAX WIFI PZ": {
@@ -6961,8 +6962,8 @@
       "vendor": "msi"
     },
     "MAG X870E TOMAHAWK WIFI": {
-      "bios": "7E59v2AC3",
-      "date": "2026-06-26",
+      "bios": "7E59v2AC4",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MAG Z490 TOMAHAWK": {
@@ -7081,8 +7082,8 @@
       "vendor": "msi"
     },
     "MEG X870E ACE MAX": {
-      "bios": "7E85v1A50",
-      "date": "2026-08-28",
+      "bios": "7E85v1A51",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MEG X870E GODLIKE": {
@@ -7266,13 +7267,13 @@
       "vendor": "msi"
     },
     "MPG B760I EDGE WIFI": {
-      "bios": "7D40vAF",
-      "date": "2026-04-07",
+      "bios": "7D40vAG",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MPG B760I EDGE WIFI DDR4": {
-      "bios": "7D40v1H",
-      "date": "2026-03-18",
+      "bios": "7D40v1I",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MPG B760M EDGE TI WIFI": {
@@ -7286,8 +7287,8 @@
       "vendor": "msi"
     },
     "MPG B850I EDGE TI WIFI": {
-      "bios": "7E79v1A42",
-      "date": "2026-06-26",
+      "bios": "7E79v1A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MPG B850M EDGE TI MAX WIFI": {
@@ -7296,8 +7297,8 @@
       "vendor": "msi"
     },
     "MPG B850M EDGE TI MAX WIFI (Rev 1)": {
-      "bios": "7E92v1A32",
-      "date": "2026-07-02",
+      "bios": "7E92v1A33",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MPG B850M EDGE TI MAX WIFI (Rev 2)": {
@@ -7346,13 +7347,13 @@
       "vendor": "msi"
     },
     "MPG X870E EDGE TI WIFI": {
-      "bios": "7E59v1A92",
-      "date": "2026-06-26",
+      "bios": "7E59v1A93",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MPG X870I EDGE TI EVO WIFI": {
-      "bios": "7E50v1A42",
-      "date": "2026-06-30",
+      "bios": "7E50v1A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "MPG Z490 CARBON EK X": {
@@ -9927,13 +9928,13 @@
       "vendor": "msi"
     },
     "PRO B660-A DDR4": {
-      "bios": "7D59v1N",
-      "date": "2026-04-07",
+      "bios": "7D59v1O",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B660M-A": {
-      "bios": "7D43vAO",
-      "date": "2026-03-30",
+      "bios": "7D43vAP",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B660M-A CEC WIFI DDR4": {
@@ -9947,18 +9948,18 @@
       "vendor": "msi"
     },
     "PRO B660M-A DDR4": {
-      "bios": "7D43v1O",
-      "date": "2026-03-27",
+      "bios": "7D43v1P",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B660M-A WIFI": {
-      "bios": "7D43vAO",
-      "date": "2026-03-30",
+      "bios": "7D43vAP",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B660M-A WIFI DDR4": {
-      "bios": "7D43v1O",
-      "date": "2026-03-27",
+      "bios": "7D43v1P",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B660M-B": {
@@ -10019,13 +10020,13 @@
       "vendor": "msi"
     },
     "PRO B760-P DDR4 II": {
-      "bios": "7E29v1B",
-      "date": "2026-04-07",
+      "bios": "7E29v1C",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B760-P II": {
-      "bios": "7E29vA9",
-      "date": "2026-04-07",
+      "bios": "7E29vAA",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B760-P WIFI": {
@@ -10079,8 +10080,8 @@
       "vendor": "msi"
     },
     "PRO B760M-B": {
-      "bios": "7D90vAG",
-      "date": "2026-05-22",
+      "bios": "7D90vAH",
+      "date": "2026-09-04",
       "vendor": "msi"
     },
     "Pro B760M-C-CSM": {
@@ -10106,8 +10107,8 @@
       "vendor": "msi"
     },
     "PRO B760M-G": {
-      "bios": "7D90vAG",
-      "date": "2026-05-22",
+      "bios": "7D90vAH",
+      "date": "2026-09-04",
       "vendor": "msi"
     },
     "PRO B760M-G DDR4": {
@@ -10131,33 +10132,33 @@
       "vendor": "msi"
     },
     "PRO B840-P WIFI": {
-      "bios": "7E57v1A80",
-      "date": "2026-08-04",
+      "bios": "7E57v1A81",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B840-S EVO WIFI6E": {
-      "bios": "7E93v1A32",
-      "date": "2026-06-26",
+      "bios": "7E93v1A33",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B840-VC WIFI": {
-      "bios": "7E57v1A80",
-      "date": "2026-08-04",
+      "bios": "7E57v1A81",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B840M-B": {
-      "bios": "7E76v2A42",
-      "date": "2026-07-01",
+      "bios": "7E76v2A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B840M-P EVO WIFI6E PZ": {
-      "bios": "7E90v1A31",
-      "date": "2026-06-09",
+      "bios": "7E90v1A33",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B840M-P WIFI6E": {
-      "bios": "7E77v2A42",
-      "date": "2026-06-26",
+      "bios": "7E77v2A43",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B850-P WIFI": {
@@ -10206,13 +10207,13 @@
       "vendor": "msi"
     },
     "PRO B850M-A WIFI PZ": {
-      "bios": "7E78v1A32",
-      "date": "2026-07-01",
+      "bios": "7E78v1A33",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B850M-B GEN4": {
-      "bios": "7E87v2A33",
-      "date": "2026-06-26",
+      "bios": "7E87v2A34",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO B850M-E EVO": {
@@ -10377,8 +10378,8 @@
       "vendor": "msi"
     },
     "PRO H610M VDHP DDR4": {
-      "bios": "7E04v1H",
-      "date": "2026-05-21",
+      "bios": "7E04v1I",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "PRO H610M-A DDR4": {
@@ -14742,8 +14743,8 @@
       "vendor": "msi"
     },
     "Z790 GAMING PRO WIFI": {
-      "bios": "7D93v1C",
-      "date": "2026-03-10",
+      "bios": "7D93v1D",
+      "date": "2026-09-07",
       "vendor": "msi"
     },
     "Z790 GAMING WIFI": {
@@ -15291,9 +15292,48 @@
       "date": "2026-07-15",
       "url": "https://pg.asrock.com/mb/Intel/Z890M%20Riptide%20WiFi/BIOS.html",
       "vendor": "asrock"
+    },
+    "MAG X999 TOMAHAWK WIFI": {
+      "bios": "7E99v1A",
+      "date": "2026-03-11",
+      "vendor": "msi"
+    },
+    "X999 AORUS ELITE AX": {
+      "bios": "F4c",
+      "date": "2026-02-24",
+      "url": "https://www.gigabyte.com/Motherboard/X999-AORUS-ELITE-AX/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
+    "X999 Steel Legend WiFi": {
+      "bios": "3.08",
+      "date": "2026-01-29",
+      "url": "https://www.asrock.com/mb/AMD/X999%20Steel%20Legend%20WiFi/BIOS.html",
+      "vendor": "asrock"
     }
   },
   "motherboardConflicts": {
+    "B760M GAMING WIFI": {
+      "msi": {
+        "bios": "7D90vH9",
+        "date": "2026-04-07"
+      },
+      "gigabyte": {
+        "bios": "F14",
+        "date": "2026-06-12",
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
+      }
+    },
+    "B840M GAMING PLUS WIFI6E": {
+      "msi": {
+        "bios": "7E77v1A43",
+        "date": "2026-09-07"
+      },
+      "gigabyte": {
+        "bios": "F6",
+        "date": "2026-05-21",
+        "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
+      }
+    },
     "B650M GAMING PLUS WIFI": {
       "msi": {
         "bios": "7E24v1E2",
@@ -15303,29 +15343,6 @@
         "bios": "F40",
         "date": "2026-05-21",
         "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
-        "revisionAmbiguous": true
-      }
-    },
-    "B840M GAMING PLUS WIFI6E": {
-      "msi": {
-        "bios": "7E77v1A42",
-        "date": "2026-06-26"
-      },
-      "gigabyte": {
-        "bios": "F6",
-        "date": "2026-05-21",
-        "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
-      }
-    },
-    "B760M GAMING PLUS WIFI DDR4": {
-      "msi": {
-        "bios": "7D99vM9",
-        "date": "2026-08-24"
-      },
-      "gigabyte": {
-        "bios": "F10",
-        "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-10/support#support-dl-bios",
         "revisionAmbiguous": true
       }
     },
@@ -15341,15 +15358,16 @@
         "revisionAmbiguous": true
       }
     },
-    "B760M GAMING WIFI": {
+    "B760M GAMING PLUS WIFI DDR4": {
       "msi": {
-        "bios": "7D90vH9",
-        "date": "2026-04-07"
+        "bios": "7D99vM9",
+        "date": "2026-08-24"
       },
       "gigabyte": {
-        "bios": "F14",
+        "bios": "F10",
         "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-10/support#support-dl-bios",
+        "revisionAmbiguous": true
       }
     }
   },
