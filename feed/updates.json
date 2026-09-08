@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-08T14:44:54Z",
+  "updated": "2026-09-08T16:49:46Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,22 +13,22 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-08T14:44:55Z",
-    "amd.chipset": "2026-09-08T14:44:56Z",
-    "windowsBuilds": "2026-09-08T14:44:56Z",
-    "windows10": "2026-09-08T14:44:56Z",
+    "amd.windows": "2026-09-08T16:49:46Z",
+    "amd.chipset": "2026-09-08T16:49:47Z",
+    "windowsBuilds": "2026-09-08T16:49:47Z",
+    "windows10": "2026-09-08T16:49:47Z",
     "motherboards.msi": "2026-09-07T17:36:44Z",
     "motherboards.gigabyte": "2026-09-07T17:36:44Z",
     "motherboards.asrock": "2026-09-07T17:36:44Z",
     "motherboards.asus": "2026-09-07T17:36:44Z",
-    "dell": "2026-09-08T14:45:04Z",
-    "intel.chipset": "2026-09-08T14:45:25Z",
-    "intel.arc": "2026-09-08T14:45:25Z",
-    "intel.xe": "2026-09-08T14:45:25Z",
-    "intel.rst20": "2026-09-08T14:45:25Z",
-    "intel.rst21": "2026-09-08T14:45:25Z",
-    "intel.chipsetInf": "2026-09-08T14:45:25Z",
-    "nvidia": "2026-09-08T14:45:25Z"
+    "dell": "2026-09-08T16:49:58Z",
+    "intel.chipset": "2026-09-08T16:50:23Z",
+    "intel.arc": "2026-09-08T16:50:23Z",
+    "intel.xe": "2026-09-08T16:50:23Z",
+    "intel.rst20": "2026-09-08T16:50:23Z",
+    "intel.rst21": "2026-09-08T16:50:23Z",
+    "intel.chipsetInf": "2026-09-08T16:50:23Z",
+    "nvidia": "2026-09-08T16:50:24Z"
   },
   "amd": {
     "windows": {
@@ -11893,6 +11893,12 @@
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-H%20GAMING%20WIFI7%20HATSUNE%20MIKU%20EDITION/helpdesk_bios/",
       "vendor": "asus"
     },
+    "ROG STRIX X999-E GAMING WIFI": {
+      "bios": "1402",
+      "date": "2026-04-16",
+      "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X999-E%20GAMING%20WIFI/helpdesk_bios/",
+      "vendor": "asus"
+    },
     "ROG STRIX Z370-E GAMING": {
       "bios": "3005",
       "date": "2021-11-22",
@@ -15309,12 +15315,6 @@
       "date": "2026-07-15",
       "url": "https://pg.asrock.com/mb/Intel/Z890M%20Riptide%20WiFi/BIOS.html",
       "vendor": "asrock"
-    },
-    "ROG STRIX X999-E GAMING WIFI": {
-      "bios": "1402",
-      "date": "2026-04-16",
-      "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X999-E%20GAMING%20WIFI/helpdesk_bios/",
-      "vendor": "asus"
     }
   },
   "motherboardConflicts": {
