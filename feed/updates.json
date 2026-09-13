@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-11T14:36:17Z",
+  "updated": "2026-09-13T14:41:27Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,22 +13,22 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-11T14:36:18Z",
-    "amd.chipset": "2026-09-11T14:36:18Z",
-    "windowsBuilds": "2026-09-11T14:36:18Z",
-    "windows10": "2026-09-11T14:36:18Z",
-    "motherboards.msi": "2026-09-11T16:05:22Z",
-    "motherboards.gigabyte": "2026-09-11T16:05:22Z",
-    "motherboards.asrock": "2026-09-11T16:05:22Z",
-    "motherboards.asus": "2026-09-11T16:05:22Z",
-    "dell": "2026-09-11T16:05:26Z",
-    "intel.chipset": "2026-09-11T16:05:38Z",
-    "intel.arc": "2026-09-11T16:05:38Z",
-    "intel.xe": "2026-09-11T16:05:38Z",
-    "intel.rst20": "2026-09-11T16:05:38Z",
-    "intel.rst21": "2026-09-11T16:05:38Z",
-    "intel.chipsetInf": "2026-09-11T16:05:38Z",
-    "nvidia": "2026-09-11T16:05:39Z"
+    "amd.windows": "2026-09-13T14:41:27Z",
+    "amd.chipset": "2026-09-13T14:41:28Z",
+    "windowsBuilds": "2026-09-13T14:41:28Z",
+    "windows10": "2026-09-13T14:41:28Z",
+    "motherboards.msi": "2026-09-13T16:09:50Z",
+    "motherboards.gigabyte": "2026-09-13T16:09:50Z",
+    "motherboards.asrock": "2026-09-13T16:09:50Z",
+    "motherboards.asus": "2026-09-13T16:09:50Z",
+    "dell": "2026-09-13T16:09:53Z",
+    "intel.chipset": "2026-09-13T16:10:04Z",
+    "intel.arc": "2026-09-13T16:10:04Z",
+    "intel.xe": "2026-09-13T16:10:04Z",
+    "intel.rst20": "2026-09-13T16:10:04Z",
+    "intel.rst21": "2026-09-13T16:10:04Z",
+    "intel.chipsetInf": "2026-09-13T16:10:04Z",
+    "nvidia": "2026-09-13T16:10:05Z"
   },
   "amd": {
     "windows": {
@@ -15340,27 +15340,15 @@
     }
   },
   "motherboardConflicts": {
-    "B650M GAMING PLUS WIFI": {
+    "B760M GAMING WIFI": {
       "msi": {
-        "bios": "7E24v1E3",
-        "date": "2026-09-09"
+        "bios": "7D90vH9",
+        "date": "2026-04-07"
       },
       "gigabyte": {
-        "bios": "F40",
-        "date": "2026-05-21",
-        "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
-        "revisionAmbiguous": true
-      }
-    },
-    "B840M GAMING PLUS WIFI6E": {
-      "msi": {
-        "bios": "7E77v1A43",
-        "date": "2026-09-07"
-      },
-      "gigabyte": {
-        "bios": "F6",
-        "date": "2026-05-21",
-        "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
+        "bios": "F14",
+        "date": "2026-06-12",
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
       }
     },
     "B650M GAMING WIFI": {
@@ -15372,6 +15360,18 @@
         "bios": "F40",
         "date": "2026-05-21",
         "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-WIFI-rev-10/support#support-dl-bios",
+        "revisionAmbiguous": true
+      }
+    },
+    "B650M GAMING PLUS WIFI": {
+      "msi": {
+        "bios": "7E24v1E3",
+        "date": "2026-09-09"
+      },
+      "gigabyte": {
+        "bios": "F40",
+        "date": "2026-05-21",
+        "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
         "revisionAmbiguous": true
       }
     },
@@ -15387,15 +15387,15 @@
         "revisionAmbiguous": true
       }
     },
-    "B760M GAMING WIFI": {
+    "B840M GAMING PLUS WIFI6E": {
       "msi": {
-        "bios": "7D90vH9",
-        "date": "2026-04-07"
+        "bios": "7E77v1A43",
+        "date": "2026-09-07"
       },
       "gigabyte": {
-        "bios": "F14",
-        "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
+        "bios": "F6",
+        "date": "2026-05-21",
+        "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
       }
     }
   },
