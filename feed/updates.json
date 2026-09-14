@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-13T14:41:27Z",
+  "updated": "2026-09-14T22:01:03Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,22 +13,22 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-13T14:41:27Z",
-    "amd.chipset": "2026-09-13T14:41:28Z",
-    "windowsBuilds": "2026-09-13T14:41:28Z",
-    "windows10": "2026-09-13T14:41:28Z",
+    "amd.windows": "2026-09-14T22:01:05Z",
+    "amd.chipset": "2026-09-14T22:01:05Z",
+    "windowsBuilds": "2026-09-14T22:01:06Z",
+    "windows10": "2026-09-14T22:01:07Z",
     "motherboards.msi": "2026-09-13T16:09:50Z",
     "motherboards.gigabyte": "2026-09-13T16:09:50Z",
     "motherboards.asrock": "2026-09-13T16:09:50Z",
     "motherboards.asus": "2026-09-13T16:09:50Z",
-    "dell": "2026-09-13T16:09:53Z",
-    "intel.chipset": "2026-09-13T16:10:04Z",
-    "intel.arc": "2026-09-13T16:10:04Z",
-    "intel.xe": "2026-09-13T16:10:04Z",
-    "intel.rst20": "2026-09-13T16:10:04Z",
-    "intel.rst21": "2026-09-13T16:10:04Z",
-    "intel.chipsetInf": "2026-09-13T16:10:04Z",
-    "nvidia": "2026-09-13T16:10:05Z"
+    "dell": "2026-09-14T22:01:13Z",
+    "intel.chipset": "2026-09-14T22:01:33Z",
+    "intel.arc": "2026-09-14T22:01:33Z",
+    "intel.xe": "2026-09-14T22:01:33Z",
+    "intel.rst20": "2026-09-14T22:01:33Z",
+    "intel.rst21": "2026-09-14T22:01:33Z",
+    "intel.chipsetInf": "2026-09-14T22:01:33Z",
+    "nvidia": "2026-09-14T22:01:33Z"
   },
   "amd": {
     "windows": {
@@ -66,24 +66,24 @@
   },
   "windowsBuilds": {
     "25H2": {
-      "build": "26200.9445",
-      "date": "2026-09-08",
-      "kb": "KB5124008"
+      "build": "26200.9457",
+      "date": "2026-09-14",
+      "kb": "KB5129195"
     },
     "26H1": {
-      "build": "28000.2954",
-      "date": "2026-09-08",
-      "kb": "KB5124012"
+      "build": "28000.2956",
+      "date": "2026-09-14",
+      "kb": "KB5129194"
     },
     "24H2": {
-      "build": "26100.9445",
-      "date": "2026-09-08",
-      "kb": "KB5124008"
+      "build": "26100.9457",
+      "date": "2026-09-14",
+      "kb": "KB5129195"
     },
     "23H2": {
-      "build": "22631.7582",
-      "date": "2026-09-08",
-      "kb": "KB5122880"
+      "build": "22631.7584",
+      "date": "2026-09-14",
+      "kb": "KB5129242"
     },
     "22H2": {
       "build": "22621.6060",
