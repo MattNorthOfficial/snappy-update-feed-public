@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-17T15:17:47Z",
+  "updated": "2026-09-18T16:42:00Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,22 +13,22 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-17T15:17:48Z",
-    "amd.chipset": "2026-09-17T15:17:48Z",
-    "windowsBuilds": "2026-09-17T15:17:48Z",
-    "windows10": "2026-09-17T15:17:49Z",
+    "amd.windows": "2026-09-18T16:42:00Z",
+    "amd.chipset": "2026-09-18T16:42:01Z",
+    "windowsBuilds": "2026-09-18T16:42:01Z",
+    "windows10": "2026-09-18T16:42:01Z",
     "motherboards.msi": "2026-09-17T16:50:06Z",
     "motherboards.gigabyte": "2026-09-17T16:50:06Z",
     "motherboards.asrock": "2026-09-17T16:50:06Z",
     "motherboards.asus": "2026-09-17T16:50:06Z",
-    "dell": "2026-09-17T16:50:10Z",
-    "intel.chipset": "2026-09-17T16:50:22Z",
-    "intel.arc": "2026-09-17T16:50:22Z",
-    "intel.xe": "2026-09-17T16:50:22Z",
-    "intel.rst20": "2026-09-17T16:50:22Z",
-    "intel.rst21": "2026-09-17T16:50:22Z",
-    "intel.chipsetInf": "2026-09-17T16:50:22Z",
-    "nvidia": "2026-09-17T16:50:23Z"
+    "dell": "2026-09-18T16:42:10Z",
+    "intel.chipset": "2026-09-18T16:42:31Z",
+    "intel.arc": "2026-09-18T16:42:31Z",
+    "intel.xe": "2026-09-18T16:42:31Z",
+    "intel.rst20": "2026-09-18T16:42:31Z",
+    "intel.rst21": "2026-09-18T16:42:31Z",
+    "intel.chipsetInf": "2026-09-18T16:42:31Z",
+    "nvidia": "2026-09-18T16:42:32Z"
   },
   "amd": {
     "windows": {
@@ -18975,9 +18975,9 @@
       "download": "https://downloadmirror.intel.com/925343/SetupChipset.exe"
     },
     "arc": {
-      "version": "32.0.101.8993",
+      "version": "32.0.101.9030",
       "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-      "download": "https://downloadmirror.intel.com/928294/gfx_win_101.8993.exe"
+      "download": "https://downloadmirror.intel.com/928977/gfx_win_101.9030.exe"
     },
     "xe": {
       "version": "32.0.101.7088",
