@@ -112,7 +112,6 @@ fetched key alone can never move a machine's trust root.
                      "rst20": {...}, "rst21": {...}, "chipsetInf": {...} },
   "windowsBuilds": { "25H2": { "build": "...", "date": "...", "kb": "...",
                                "eosHome": "...", "eosEnterprise": "..." } },
-  "windows10":     { "22H2": { "eosHome": "...", "eosEnterprise": "..." } },
   "motherboards":  { "B650 AORUS ELITE": { "bios": "F41", "date": "...",
                                            "url": "...", "vendor": "gigabyte" } },
   "motherboardConflicts": { "...": { "msi": {...}, "gigabyte": {...} } },
@@ -138,6 +137,9 @@ fetched key alone can never move a machine's trust root.
 - `windowsBuilds` maps each Windows 11 version to its latest *required*
   build. Patch Tuesday (B) and out-of-band releases count; optional D-week
   previews do not, so a fully patched machine is never flagged as outdated.
+  `eosHome` and `eosEnterprise` are the dates servicing ends for each edition
+  tier. A `windows10` section sat beside this one until 2026-09-21 and was
+  removed with the app's last use of it; a consumer should not expect it.
 - `motherboards` is keyed by the clean marketing name, without the
   "(MS-7E51)"-style suffix WMI appends, and holds the latest non-beta BIOS
   with a link to the vendor's own page. Where several board revisions share

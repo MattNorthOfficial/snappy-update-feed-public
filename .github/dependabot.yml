@@ -1,0 +1,8 @@
+# watch-feed.yml pins its one action to a commit, and a pin never moves by
+# itself. Monthly; a pull request here starts nothing.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
