@@ -1,0 +1,105 @@
+name: Watch the feed
+
+# Goes red when the feed stops being refreshed.
+#
+# Every other check on this data runs inside the producer's own run, so each
+# of them needs that run to happen. One that never starts - a schedule GitHub
+# has stopped firing, a disabled workflow, a spent Actions allowance, a run
+# that passes while unable to write here - fails nothing and tells nobody; the
+# data simply sits, correctly signed and getting older. This lives here rather
+# than beside the producer for that reason: it has to keep working when the
+# producer does not, and a public repository's runs cost it nothing.
+#
+# It reads the files in this repository, which is what the app reads.
+on:
+  schedule:
+    # Four times a day, between the producer's own slots. Odd minutes on
+    # purpose: GitHub delays, and sometimes drops, jobs scheduled on the hour.
+    - cron: "17 3,9,15,21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: watch-feed
+  cancel-in-progress: true
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: The feed was checked recently, and still verifies
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+
+          # The producer writes checked.json on every run, six hours apart.
+          # Measured over the 99 runs from 2026-09-01 to 2026-09-21 the gap
+          # between them had a median of 4.6 hours and never passed 8.4, so
+          # eighteen is more than twice the worst lateness seen: it cannot
+          # fire on a slow cron, and it fires within a day of a real stop.
+          $maxAgeHours = 18
+
+          function Test-Signature([string] $file, [string] $signatureFile) {
+            $ecdsa = [System.Security.Cryptography.ECDsa]::Create()
+            try {
+              $read = 0
+              $key = (Get-Content feed/public-key.txt -Raw).Trim()
+              $ecdsa.ImportSubjectPublicKeyInfo([Convert]::FromBase64String($key), [ref] $read)
+              return $ecdsa.VerifyData(
+                [System.IO.File]::ReadAllBytes((Resolve-Path $file)),
+                [Convert]::FromBase64String((Get-Content $signatureFile -Raw).Trim()),
+                [System.Security.Cryptography.HashAlgorithmName]::SHA256)
+            }
+            finally {
+              $ecdsa.Dispose()
+            }
+          }
+
+          $problems = @()
+
+          foreach ($pair in @(
+              @{ File = 'feed/updates.json'; Signature = 'feed/updates.sig' }
+              @{ File = 'feed/checked.json'; Signature = 'feed/checked.sig' })) {
+            if (-not (Test-Path $pair.File) -or -not (Test-Path $pair.Signature)) {
+              $problems += "$($pair.File) or its signature is missing."
+            }
+            elseif (-not (Test-Signature $pair.File $pair.Signature)) {
+              $problems += "$($pair.File) does not verify against feed/public-key.txt."
+            }
+          }
+
+          if (Test-Path feed/checked.json) {
+            # Read as text: ConvertFrom-Json turns a timestamp into a DateTime
+            # in the runner's culture, and this comparison should not depend
+            # on what that happens to be.
+            $text = Get-Content feed/checked.json -Raw
+            $stamp = [regex]::Match($text, '"checked"\s*:\s*"(?<value>[^"]+)"').Groups['value'].Value
+            $checked = [datetimeoffset]::MinValue
+            $styles = [System.Globalization.DateTimeStyles]'AssumeUniversal, AdjustToUniversal'
+            if (-not [datetimeoffset]::TryParse($stamp, [cultureinfo]::InvariantCulture, $styles, [ref] $checked)) {
+              $problems += "feed/checked.json has no readable 'checked' time ('$stamp')."
+            }
+            else {
+              $age = [datetimeoffset]::UtcNow - $checked
+              $line = 'Last checked {0:yyyy-MM-dd HH:mm} UTC, {1:N1} hours ago (limit {2}).' -f $checked, $age.TotalHours, $maxAgeHours
+              Write-Host $line
+              $line | Out-File $env:GITHUB_STEP_SUMMARY -Append
+              if ($age.TotalHours -gt $maxAgeHours) {
+                $problems += ('The feed was last checked {0:N1} hours ago; the producer runs every six. ' +
+                  'It has stopped running, or it can no longer publish here.') -f $age.TotalHours
+              }
+            }
+          }
+
+          if ($problems.Count -gt 0) {
+            foreach ($problem in $problems) {
+              Write-Host "::error::$problem"
+              "- $problem" | Out-File $env:GITHUB_STEP_SUMMARY -Append
+            }
+            exit 1
+          }

@@ -50,8 +50,10 @@ is also written best-effort: a copy of this feed without it is valid, and a
 consumer that cannot get it should fall back to `updates.json`'s own stamps.
 
 `app.json` is **not** signed. It carries no version data the app acts on -
-only the newest released version number, which the app holds to the shape a
-version actually has rather than rendering whatever it receives.
+only the newest released version number - and no shipped build reads it: the
+notice it would feed is compiled out of every channel. A build that does read
+it holds the value to the shape a version actually has rather than rendering
+whatever it receives.
 
 ## Verifying a copy
 
@@ -130,7 +132,9 @@ fetched key alone can never move a machine's trust root.
   is what lets a client match an installed driver to the right branch.
 - `intel` holds the chipset INF utility and the two graphics-driver branches
   Intel has maintained since its 2025 split: `arc` (Arc cards and Core Ultra
-  iGPUs) and `xe` (the legacy package for 11th-14th gen Iris Xe / UHD).
+  iGPUs) and `xe` (the legacy package for 11th-14th gen Iris Xe / UHD). Beside
+  them are the two Rapid Storage branches, `rst20` (12th-15th gen) and `rst21`
+  (Core Ultra Series 3), and `chipsetInf`, the per-device INF versions.
 - `windowsBuilds` maps each Windows 11 version to its latest *required*
   build. Patch Tuesday (B) and out-of-band releases count; optional D-week
   previews do not, so a fully patched machine is never flagged as outdated.
@@ -178,6 +182,14 @@ That distinction matters because **a section whose source cannot be reached
 keeps its last known values rather than disappearing**. Consumers should read
 `freshness` to tell a newly written section from one carried forward, and
 treat a section's age as a property of that section rather than of the file.
+
+This repository watches that field itself. `.github/workflows/watch-feed.yml`
+runs four times a day, verifies both signed files against the published key,
+and goes red when `checked` is more than eighteen hours old - three times the
+producer's interval, and more than twice the longest gap measured between its
+runs (8.4 hours across three weeks of September 2026). It
+lives here rather than beside the producer because it has to keep working when
+the producer does not.
 
 Driver, graphics and Windows sections refresh several times a day. The
 motherboard sections are swept on a slower cycle, so a board entry is
