@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-21T14:35:13Z",
+  "updated": "2026-09-21T18:32:44Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -16,10 +16,10 @@
     "amd.windows": "2026-09-21T14:35:13Z",
     "amd.chipset": "2026-09-21T14:35:14Z",
     "windowsBuilds": "2026-09-21T14:35:14Z",
-    "motherboards.msi": "2026-09-19T15:30:04Z",
+    "motherboards.msi": "2026-09-21T18:32:05Z",
     "motherboards.gigabyte": "2026-09-19T15:30:04Z",
-    "motherboards.asrock": "2026-09-19T15:30:04Z",
-    "motherboards.asus": "2026-09-19T15:30:04Z",
+    "motherboards.asrock": "2026-09-21T18:32:05Z",
+    "motherboards.asus": "2026-09-21T18:32:05Z",
     "dell": "2026-09-21T14:35:23Z",
     "intel.chipset": "2026-09-21T14:35:40Z",
     "intel.arc": "2026-09-21T14:35:40Z",
@@ -444,8 +444,8 @@
       "vendor": "gigabyte"
     },
     "A620M GAMING": {
-      "bios": "7E30vAD2",
-      "date": "2026-07-06",
+      "bios": "7E30vAD3",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "A620M GAMING X": {
@@ -1901,8 +1901,8 @@
       "vendor": "gigabyte"
     },
     "B650M BOMBER WIFI": {
-      "bios": "7E30v272",
-      "date": "2026-07-06",
+      "bios": "7E30v273",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "B650M C": {
@@ -6775,8 +6775,8 @@
       "vendor": "msi"
     },
     "MAG B660M MORTAR DDR4": {
-      "bios": "7D42v1O",
-      "date": "2026-03-27",
+      "bios": "7D42v1P",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "MAG B660M MORTAR MAX WIFI DDR4": {
@@ -6790,8 +6790,8 @@
       "vendor": "msi"
     },
     "MAG B660M MORTAR WIFI DDR4": {
-      "bios": "7D42v1O",
-      "date": "2026-03-27",
+      "bios": "7D42v1P",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "MAG B760 TOMAHAWK WIFI": {
@@ -10160,8 +10160,8 @@
       "vendor": "msi"
     },
     "PRO B760M-P DDR4": {
-      "bios": "7E02v1I",
-      "date": "2026-08-03",
+      "bios": "7E02v1J",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "PRO B760M-X III": {
@@ -10515,8 +10515,8 @@
       "vendor": "msi"
     },
     "PRO H610M-S DDR4 II": {
-      "bios": "7E44v32",
-      "date": "2026-08-19",
+      "bios": "7E44v33",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "PRO H610M-S WIFI": {
@@ -10530,8 +10530,8 @@
       "vendor": "msi"
     },
     "PRO H610M-S WIFI DDR4 II": {
-      "bios": "7E44v32",
-      "date": "2026-08-19",
+      "bios": "7E44v33",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "Pro H610T D4-CSM": {
@@ -10791,8 +10791,8 @@
       "vendor": "msi"
     },
     "PRO X870E-S EVO WIFI": {
-      "bios": "7E86v2A33",
-      "date": "2026-06-26",
+      "bios": "7E86v2A40",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "PRO Z690-A": {
@@ -15200,8 +15200,8 @@
       "vendor": "gigabyte"
     },
     "Z890 Lightning WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-13",
+      "bios": "3.40",
+      "date": "2026-09-21",
       "url": "https://pg.asrock.com/mb/Intel/Z890%20Lightning%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -15218,8 +15218,8 @@
       "vendor": "asus"
     },
     "Z890 Nova WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-13",
+      "bios": "3.40",
+      "date": "2026-09-21",
       "url": "https://pg.asrock.com/mb/Intel/Z890%20Nova%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -15260,26 +15260,26 @@
       "vendor": "asrock"
     },
     "Z890 Steel Legend WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-13",
+      "bios": "3.40",
+      "date": "2026-09-21",
       "url": "https://www.asrock.com/mb/Intel/Z890%20Steel%20Legend%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "Z890 Taichi": {
-      "bios": "3.31",
-      "date": "2026-07-14",
+      "bios": "3.40",
+      "date": "2026-09-21",
       "url": "https://www.asrock.com/mb/Intel/Z890%20Taichi/BIOS.html",
       "vendor": "asrock"
     },
     "Z890 Taichi AQUA": {
-      "bios": "3.31",
-      "date": "2026-07-24",
+      "bios": "3.40",
+      "date": "2026-09-21",
       "url": "https://www.asrock.com/mb/Intel/Z890%20Taichi%20AQUA/BIOS.html",
       "vendor": "asrock"
     },
     "Z890 Taichi Lite": {
-      "bios": "3.31",
-      "date": "2026-07-14",
+      "bios": "3.40",
+      "date": "2026-09-21",
       "url": "https://www.asrock.com/mb/Intel/Z890%20Taichi%20Lite/BIOS.html",
       "vendor": "asrock"
     },
@@ -15351,18 +15351,6 @@
     }
   },
   "motherboardConflicts": {
-    "B650M GAMING PLUS WIFI": {
-      "msi": {
-        "bios": "7E24v1E3",
-        "date": "2026-09-09"
-      },
-      "gigabyte": {
-        "bios": "F40",
-        "date": "2026-05-21",
-        "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
-        "revisionAmbiguous": true
-      }
-    },
     "B650M GAMING WIFI": {
       "msi": {
         "bios": "7E30v1F2",
@@ -15375,17 +15363,6 @@
         "revisionAmbiguous": true
       }
     },
-    "B840M GAMING PLUS WIFI6E": {
-      "msi": {
-        "bios": "7E77v1A43",
-        "date": "2026-09-07"
-      },
-      "gigabyte": {
-        "bios": "F6",
-        "date": "2026-05-21",
-        "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
-      }
-    },
     "B760M GAMING WIFI": {
       "msi": {
         "bios": "7D90vHA",
@@ -15395,6 +15372,29 @@
         "bios": "F14",
         "date": "2026-06-12",
         "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
+      }
+    },
+    "B650M GAMING PLUS WIFI": {
+      "msi": {
+        "bios": "7E24v1E3",
+        "date": "2026-09-09"
+      },
+      "gigabyte": {
+        "bios": "F40",
+        "date": "2026-05-21",
+        "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
+        "revisionAmbiguous": true
+      }
+    },
+    "B840M GAMING PLUS WIFI6E": {
+      "msi": {
+        "bios": "7E77v1A43",
+        "date": "2026-09-07"
+      },
+      "gigabyte": {
+        "bios": "F6",
+        "date": "2026-05-21",
+        "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
       }
     },
     "B760M GAMING PLUS WIFI DDR4": {
