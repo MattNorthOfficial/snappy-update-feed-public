@@ -168,9 +168,18 @@ or not anything changed, so it separates the two:
 ```json
 {
   "checked": "2026-08-29T21:11:00Z",
+  "feedUpdated": "2026-08-28T10:52:31Z",
   "freshness": { "amd.windows": "2026-08-29T21:10:26Z", "...": "..." }
 }
 ```
+
+`feedUpdated` is the `updated` stamp of the `updates.json` this record is
+about. The two files are signed separately, so without it nothing would tie
+them together, and an old, validly signed feed served beside a current record
+would read as freshly checked. A consumer holding a feed stamped *earlier*
+than `feedUpdated` should treat the record as absent. A feed stamped later is
+fine - the producer can restamp the feed after writing the record - and so is
+a record with no `feedUpdated` at all, which claims nothing either way.
 
 A producer that has stopped running keeps serving well-formed, correctly
 signed, increasingly wrong answers, and `checked` is the only field that can
