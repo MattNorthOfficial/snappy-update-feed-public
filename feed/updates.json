@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-21T13:15:05Z",
+  "updated": "2026-09-21T14:35:13Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,22 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-21T13:15:05Z",
-    "amd.chipset": "2026-09-21T13:15:06Z",
-    "windowsBuilds": "2026-09-21T13:15:07Z",
-    "windows10": "2026-09-21T13:15:07Z",
+    "amd.windows": "2026-09-21T14:35:13Z",
+    "amd.chipset": "2026-09-21T14:35:14Z",
+    "windowsBuilds": "2026-09-21T14:35:14Z",
     "motherboards.msi": "2026-09-19T15:30:04Z",
     "motherboards.gigabyte": "2026-09-19T15:30:04Z",
     "motherboards.asrock": "2026-09-19T15:30:04Z",
     "motherboards.asus": "2026-09-19T15:30:04Z",
-    "dell": "2026-09-21T13:15:16Z",
-    "intel.chipset": "2026-09-21T13:15:38Z",
-    "intel.arc": "2026-09-21T13:15:38Z",
-    "intel.xe": "2026-09-21T13:15:38Z",
-    "intel.rst20": "2026-09-21T13:15:38Z",
-    "intel.rst21": "2026-09-21T13:15:38Z",
-    "intel.chipsetInf": "2026-09-21T13:15:38Z",
-    "nvidia": "2026-09-21T13:15:39Z"
+    "dell": "2026-09-21T14:35:23Z",
+    "intel.chipset": "2026-09-21T14:35:40Z",
+    "intel.arc": "2026-09-21T14:35:40Z",
+    "intel.xe": "2026-09-21T14:35:40Z",
+    "intel.rst20": "2026-09-21T14:35:40Z",
+    "intel.rst21": "2026-09-21T14:35:40Z",
+    "intel.chipsetInf": "2026-09-21T14:35:40Z",
+    "nvidia": "2026-09-21T14:35:41Z"
   },
   "amd": {
     "windows": {
@@ -106,24 +105,6 @@
       "kb": "KB5044280",
       "eosHome": "2023-10-10",
       "eosEnterprise": "2024-10-08"
-    }
-  },
-  "windows10": {
-    "22H2": {
-      "eosHome": "2025-10-14",
-      "eosEnterprise": "2025-10-14"
-    },
-    "21H2": {
-      "eosHome": "2023-06-13",
-      "eosEnterprise": "2024-06-11"
-    },
-    "21H1": {
-      "eosHome": "2022-12-13",
-      "eosEnterprise": "2022-12-13"
-    },
-    "20H2": {
-      "eosHome": "2022-05-10",
-      "eosEnterprise": "2023-05-09"
     }
   },
   "motherboards": {
