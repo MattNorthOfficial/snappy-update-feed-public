@@ -53,7 +53,8 @@ contributor is liable for any damage arising from its use.
 
 ## Permission
 
-Licensing enquiries: open an issue on the
-[Snappy repository](https://github.com/MattNorthOfficial/snappy), or contact
-the author. Permission is not unreasonably withheld — the objection is to
-silent wholesale reuse, not to people building useful things.
+Licensing enquiries:
+[open an issue on this repository](https://github.com/MattNorthOfficial/snappy-update-feed-public/issues/new).
+Say what you would like to use the data for and how much of it. Permission is
+not unreasonably withheld — the objection is to silent wholesale reuse, not to
+people building useful things.
