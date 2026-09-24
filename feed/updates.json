@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-24T12:48:34Z",
+  "updated": "2026-09-24T12:51:29Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,33 +13,33 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-22T15:08:30Z",
-    "amd.chipset": "2026-09-22T15:08:31Z",
-    "windowsBuilds": "2026-09-22T15:08:31Z",
+    "amd.windows": "2026-09-24T12:51:30Z",
+    "amd.chipset": "2026-09-24T12:51:30Z",
+    "windowsBuilds": "2026-09-24T12:51:31Z",
     "motherboards.msi": "2026-09-24T12:47:49Z",
     "motherboards.gigabyte": "2026-09-24T12:47:49Z",
     "motherboards.asrock": "2026-09-24T12:47:49Z",
     "motherboards.asus": "2026-09-24T12:47:49Z",
-    "dell": "2026-09-22T15:08:39Z",
-    "intel.chipset": "2026-09-22T15:09:01Z",
-    "intel.arc": "2026-09-22T15:09:01Z",
-    "intel.xe": "2026-09-22T15:09:01Z",
-    "intel.rst20": "2026-09-22T15:09:01Z",
-    "intel.rst21": "2026-09-22T15:09:01Z",
-    "intel.chipsetInf": "2026-09-22T15:09:01Z",
-    "nvidia": "2026-09-22T15:09:02Z"
+    "dell": "2026-09-24T12:51:40Z",
+    "intel.chipset": "2026-09-24T12:51:52Z",
+    "intel.arc": "2026-09-24T12:51:52Z",
+    "intel.xe": "2026-09-24T12:51:52Z",
+    "intel.rst20": "2026-09-24T12:51:52Z",
+    "intel.rst21": "2026-09-24T12:51:52Z",
+    "intel.chipsetInf": "2026-09-24T12:51:52Z",
+    "nvidia": "2026-09-24T12:51:52Z"
   },
   "amd": {
     "windows": {
       "current": {
-        "adrenalin": "26.9.1",
+        "adrenalin": "26.8.1",
         "whql": true,
-        "driverStore": "32.0.31041.3013"
+        "driverStore": "32.0.31041.1004"
       },
       "rdna1-2": {
-        "adrenalin": "26.9.1",
+        "adrenalin": "26.8.1",
         "whql": true,
-        "driverStore": "32.0.21045.9003"
+        "driverStore": "32.0.21045.5002"
       },
       "polaris-vega": {
         "adrenalin": "26.5.2",
