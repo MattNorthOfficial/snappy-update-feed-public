@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-22T15:08:30Z",
+  "updated": "2026-09-24T12:48:34Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -16,10 +16,10 @@
     "amd.windows": "2026-09-22T15:08:30Z",
     "amd.chipset": "2026-09-22T15:08:31Z",
     "windowsBuilds": "2026-09-22T15:08:31Z",
-    "motherboards.msi": "2026-09-21T18:32:05Z",
-    "motherboards.gigabyte": "2026-09-21T20:06:10Z",
-    "motherboards.asrock": "2026-09-21T18:32:05Z",
-    "motherboards.asus": "2026-09-21T18:32:05Z",
+    "motherboards.msi": "2026-09-24T12:47:49Z",
+    "motherboards.gigabyte": "2026-09-24T12:47:49Z",
+    "motherboards.asrock": "2026-09-24T12:47:49Z",
+    "motherboards.asus": "2026-09-24T12:47:49Z",
     "dell": "2026-09-22T15:08:39Z",
     "intel.chipset": "2026-09-22T15:09:01Z",
     "intel.arc": "2026-09-22T15:09:01Z",
@@ -1971,8 +1971,8 @@
       "vendor": "msi"
     },
     "B650M GAMING WIFI": {
-      "bios": "7E30v1F2",
-      "date": "2026-07-06",
+      "bios": "7E30v1F3",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "B650M GAMING WIFI6E": {
@@ -3738,14 +3738,14 @@
       "vendor": "gigabyte"
     },
     "B860 Challenger WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860%20Challenger%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860 Challenger WiFi White": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860%20Challenger%20WiFi%20White/BIOS.html",
       "vendor": "asrock"
     },
@@ -3781,14 +3781,14 @@
       "vendor": "gigabyte"
     },
     "B860 Lightning WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://pg.asrock.com/mb/Intel/B860%20Lightning%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860 LiveMixer WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://www.asrock.com/mb/Intel/B860%20LiveMixer%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3817,14 +3817,14 @@
       "vendor": "asrock"
     },
     "B860 Rock WiFi 7": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860%20Rock%20WiFi%207/BIOS.html",
       "vendor": "asrock"
     },
     "B860 Steel Legend WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://www.asrock.com/mb/Intel/B860%20Steel%20Legend%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3835,8 +3835,8 @@
       "vendor": "gigabyte"
     },
     "B860I Lightning WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://pg.asrock.com/mb/Intel/B860I%20Lightning%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -4030,14 +4030,14 @@
       "vendor": "gigabyte"
     },
     "B860M Lightning WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://pg.asrock.com/mb/Intel/B860M%20Lightning%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860M LiveMixer WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://www.asrock.com/mb/Intel/B860M%20LiveMixer%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -4054,26 +4054,26 @@
       "vendor": "gigabyte"
     },
     "B860M Pro RS": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "B860M Pro RS WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860M Pro-A": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Pro-A/BIOS.html",
       "vendor": "asrock"
     },
     "B860M Pro-A WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Pro-A%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -4084,8 +4084,8 @@
       "vendor": "asrock"
     },
     "B860M Steel Legend WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Steel%20Legend%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -6829,8 +6829,8 @@
       "vendor": "msi"
     },
     "MAG B760M MORTAR DDR4": {
-      "bios": "7E01vAH",
-      "date": "2026-06-16",
+      "bios": "7E01vAI",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "MAG B760M MORTAR II": {
@@ -6854,8 +6854,8 @@
       "vendor": "msi"
     },
     "MAG B760M MORTAR WIFI DDR4": {
-      "bios": "7E01vAH",
-      "date": "2026-06-16",
+      "bios": "7E01vAI",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "MAG B760M MORTAR WIFI II": {
@@ -6909,17 +6909,9 @@
       "vendor": "msi"
     },
     "MAG B850M MORTAR MAX WIFI": {
-      "bios": "7E92v2A32",
-      "date": "2026-07-02"
-    },
-    "MAG B850M MORTAR MAX WIFI (Rev 1)": {
-      "bios": "7E92v2A34",
-      "date": "2026-09-07",
-      "vendor": "msi"
-    },
-    "MAG B850M MORTAR MAX WIFI (Rev 2)": {
       "bios": "7E92v4A22",
       "date": "2026-09-09",
+      "revisionAmbiguous": true,
       "vendor": "msi"
     },
     "MAG B850M MORTAR WIFI": {
@@ -7058,8 +7050,8 @@
       "vendor": "msi"
     },
     "MAG Z790 TOMAHAWK WIFI DDR4": {
-      "bios": "7D91v1J",
-      "date": "2026-04-10",
+      "bios": "7D91v1K",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "MAG Z890 TOMAHAWK WIFI": {
@@ -7208,8 +7200,8 @@
       "vendor": "msi"
     },
     "MEG Z690 GODLIKE": {
-      "bios": "7D26v1Q",
-      "date": "2026-06-03",
+      "bios": "7D26v1R",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "MEG Z690 UNIFY": {
@@ -7338,18 +7330,9 @@
       "vendor": "msi"
     },
     "MPG B850M EDGE TI MAX WIFI": {
-      "bios": "7E92v1A32",
-      "date": "2026-07-02",
-      "vendor": "msi"
-    },
-    "MPG B850M EDGE TI MAX WIFI (Rev 1)": {
-      "bios": "7E92v1A33",
-      "date": "2026-09-07",
-      "vendor": "msi"
-    },
-    "MPG B850M EDGE TI MAX WIFI (Rev 2)": {
       "bios": "7E92v5A11",
       "date": "2026-09-09",
+      "revisionAmbiguous": true,
       "vendor": "msi"
     },
     "MPG B860I EDGE TI WIFI": {
@@ -7518,8 +7501,8 @@
       "vendor": "msi"
     },
     "MPG Z790 EDGE WIFI DDR4": {
-      "bios": "7D91v1J",
-      "date": "2026-04-10",
+      "bios": "7D91v1K",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "MPG Z790I EDGE WIFI": {
@@ -9823,8 +9806,8 @@
       "vendor": "msi"
     },
     "PRO A620M-C EX": {
-      "bios": "7E15v1B2",
-      "date": "2026-07-08",
+      "bios": "7E15v1B4",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "Pro A620M-C-CSM": {
@@ -10663,8 +10646,8 @@
       "vendor": "asus"
     },
     "Pro WS B850M-ACE SE": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/Pro%20WS%20B850M-ACE%20SE/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10795,8 +10778,8 @@
       "vendor": "asus"
     },
     "PRO X670-P WIFI": {
-      "bios": "7D67v1O2",
-      "date": "2026-07-06",
+      "bios": "7D67v1O3",
+      "date": "2026-09-21",
       "vendor": "msi"
     },
     "PRO X870-P WIFI": {
@@ -10810,8 +10793,8 @@
       "vendor": "msi"
     },
     "PRO X870E-S EVO WIFI": {
-      "bios": "7E86v2A40",
-      "date": "2026-09-21",
+      "bios": "7E86v2A41",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "PRO Z690-A": {
@@ -10845,8 +10828,8 @@
       "vendor": "msi"
     },
     "PRO Z790-A MAX WIFI": {
-      "bios": "7E07vMA",
-      "date": "2026-03-13",
+      "bios": "7E07vMB",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "PRO Z790-A WIFI": {
@@ -10860,8 +10843,8 @@
       "vendor": "msi"
     },
     "PRO Z790-A WIFI II": {
-      "bios": "7E07vMA",
-      "date": "2026-03-13",
+      "bios": "7E07vMB",
+      "date": "2026-09-22",
       "vendor": "msi"
     },
     "PRO Z790-P": {
@@ -10956,8 +10939,8 @@
       "vendor": "asus"
     },
     "ProArt B650-CREATOR": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ProArt%20B650-CREATOR/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10986,8 +10969,8 @@
       "vendor": "asus"
     },
     "ProArt B850-CREATOR WIFI NEO": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ProArt%20B850-CREATOR%20WIFI%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10998,14 +10981,14 @@
       "vendor": "asus"
     },
     "ProArt X670E-CREATOR WIFI": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ProArt%20X670E-CREATOR%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ProArt X870E-CREATOR WIFI": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ProArt%20X870E-CREATOR%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11070,8 +11053,8 @@
       "vendor": "gigabyte"
     },
     "ROG CROSSHAIR 2006": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%202006/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11136,62 +11119,62 @@
       "vendor": "asus"
     },
     "ROG CROSSHAIR X670E EXTREME": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X670E%20EXTREME/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X670E GENE": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X670E%20GENE/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X670E HERO": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X670E%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E APEX": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20APEX/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E DARK HERO": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20DARK%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E EDITION 20": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20EDITION%2020/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E EXTREME": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20EXTREME/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E GLACIAL": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20GLACIAL/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E HERO": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR X870E HERO BTF": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20X870E%20HERO%20BTF/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11412,8 +11395,8 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z890 HERO BTF": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z890%20HERO%20BTF/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11574,8 +11557,8 @@
       "vendor": "asus"
     },
     "ROG STRIX B550-XE GAMING WIFI": {
-      "bios": "3644",
-      "date": "2026-08-27",
+      "bios": "3645",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B550-XE%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11874,20 +11857,20 @@
       "vendor": "asus"
     },
     "ROG STRIX X670E-A GAMING WIFI": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X670E-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X670E-E GAMING WIFI": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X670E-E%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X670E-F GAMING WIFI": {
-      "bios": "3902",
-      "date": "2026-07-16",
+      "bios": "4003",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X670E-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11898,14 +11881,14 @@
       "vendor": "asus"
     },
     "ROG STRIX X870-A GAMING WIFI": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X870-F GAMING WIFI": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11916,32 +11899,32 @@
       "vendor": "asus"
     },
     "ROG STRIX X870E-A GAMING WIFI7 NEO": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-A%20GAMING%20WIFI7%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X870E-E GAMING WIFI": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-E%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X870E-E GAMING WIFI7 NEO": {
-      "bios": "1002",
-      "date": "2026-07-15",
+      "bios": "1103",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-E%20GAMING%20WIFI7%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X870E-H GAMING WIFI7": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-H%20GAMING%20WIFI7/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX X870E-H GAMING WIFI7 HATSUNE MIKU EDITION": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-H%20GAMING%20WIFI7%20HATSUNE%20MIKU%20EDITION/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12198,8 +12181,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z890-I GAMING WIFI": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3402",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z890-I%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12216,8 +12199,8 @@
       "vendor": "asus"
     },
     "ROG Zenith II Extreme": {
-      "bios": "2502",
-      "date": "2026-01-21",
+      "bios": "2601",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20Zenith%20II%20Extreme/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12314,8 +12297,8 @@
       "vendor": "gigabyte"
     },
     "TRX50 WS": {
-      "bios": "14.10",
-      "date": "2026-02-11",
+      "bios": "15.01",
+      "date": "2026-09-23",
       "url": "https://www.asrock.com/mb/AMD/TRX50%20WS/BIOS.html",
       "vendor": "asrock"
     },
@@ -12488,8 +12471,8 @@
       "vendor": "asus"
     },
     "TUF GAMING B550-PRO": {
-      "bios": "3644",
-      "date": "2026-08-27",
+      "bios": "3645",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B550-PRO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12884,8 +12867,8 @@
       "vendor": "asus"
     },
     "TUF GAMING X870E-PLUS WIFI7": {
-      "bios": "2402",
-      "date": "2026-07-15",
+      "bios": "2503",
+      "date": "2026-09-22",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20X870E-PLUS%20WIFI7/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -15228,8 +15211,8 @@
       "vendor": "asrock"
     },
     "Z890 LiveMixer WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-14",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://www.asrock.com/mb/Intel/Z890%20LiveMixer%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -15276,8 +15259,8 @@
       "vendor": "asrock"
     },
     "Z890 Riptide WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://pg.asrock.com/mb/Intel/Z890%20Riptide%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -15306,8 +15289,8 @@
       "vendor": "asrock"
     },
     "Z890 Taichi OCF": {
-      "bios": "3.32",
-      "date": "2026-07-13",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://www.asrock.com/mb/Intel/Z890%20Taichi%20OCF/BIOS.html",
       "vendor": "asrock"
     },
@@ -15338,8 +15321,8 @@
       "vendor": "gigabyte"
     },
     "Z890I Nova WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://pg.asrock.com/mb/Intel/Z890I%20Nova%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -15368,69 +15351,69 @@
       "vendor": "gigabyte"
     },
     "Z890M Riptide WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-22",
       "url": "https://pg.asrock.com/mb/Intel/Z890M%20Riptide%20WiFi/BIOS.html",
       "vendor": "asrock"
     }
   },
   "motherboardConflicts": {
-    "B650M GAMING PLUS WIFI": {
-      "gigabyte": {
-        "bios": "F40",
-        "date": "2026-05-21",
-        "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
-        "revisionAmbiguous": true
-      },
-      "msi": {
-        "bios": "7E24v1E3",
-        "date": "2026-09-09"
-      }
-    },
-    "B760M GAMING PLUS WIFI DDR4": {
-      "gigabyte": {
-        "bios": "F10",
-        "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-10/support#support-dl-bios",
-        "revisionAmbiguous": true
-      },
-      "msi": {
-        "bios": "7D99vMA",
-        "date": "2026-09-11"
-      }
-    },
     "B840M GAMING PLUS WIFI6E": {
+      "msi": {
+        "bios": "7E77v1A43",
+        "date": "2026-09-07"
+      },
       "gigabyte": {
         "bios": "F6",
         "date": "2026-05-21",
         "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
-      },
-      "msi": {
-        "bios": "7E77v1A43",
-        "date": "2026-09-07"
-      }
-    },
-    "B760M GAMING WIFI": {
-      "gigabyte": {
-        "bios": "F14",
-        "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
-      },
-      "msi": {
-        "bios": "7D90vHA",
-        "date": "2026-09-16"
       }
     },
     "B650M GAMING WIFI": {
+      "msi": {
+        "bios": "7E30v1F3",
+        "date": "2026-09-21"
+      },
       "gigabyte": {
         "bios": "F40",
         "date": "2026-05-21",
         "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-WIFI-rev-10/support#support-dl-bios",
         "revisionAmbiguous": true
-      },
+      }
+    },
+    "B760M GAMING PLUS WIFI DDR4": {
       "msi": {
-        "bios": "7E30v1F2",
-        "date": "2026-07-06"
+        "bios": "7D99vMA",
+        "date": "2026-09-11"
+      },
+      "gigabyte": {
+        "bios": "F10",
+        "date": "2026-06-12",
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-10/support#support-dl-bios",
+        "revisionAmbiguous": true
+      }
+    },
+    "B760M GAMING WIFI": {
+      "msi": {
+        "bios": "7D90vHA",
+        "date": "2026-09-16"
+      },
+      "gigabyte": {
+        "bios": "F14",
+        "date": "2026-06-12",
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
+      }
+    },
+    "B650M GAMING PLUS WIFI": {
+      "msi": {
+        "bios": "7E24v1E3",
+        "date": "2026-09-09"
+      },
+      "gigabyte": {
+        "bios": "F40",
+        "date": "2026-05-21",
+        "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
+        "revisionAmbiguous": true
       }
     }
   },
