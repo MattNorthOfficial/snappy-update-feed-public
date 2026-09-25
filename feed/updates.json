@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-24T21:46:04Z",
+  "updated": "2026-09-25T15:31:56Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-24T21:46:06Z",
-    "amd.chipset": "2026-09-24T21:46:07Z",
-    "windowsBuilds": "2026-09-24T21:46:08Z",
-    "motherboards.msi": "2026-09-24T12:47:49Z",
-    "motherboards.gigabyte": "2026-09-24T12:47:49Z",
-    "motherboards.asrock": "2026-09-24T12:47:49Z",
-    "motherboards.asus": "2026-09-24T12:47:49Z",
-    "dell": "2026-09-24T21:46:15Z",
-    "intel.chipset": "2026-09-24T21:46:39Z",
-    "intel.arc": "2026-09-24T21:46:39Z",
-    "intel.xe": "2026-09-24T21:46:39Z",
-    "intel.rst20": "2026-09-24T21:46:39Z",
-    "intel.rst21": "2026-09-24T21:46:39Z",
-    "intel.chipsetInf": "2026-09-24T21:46:39Z",
-    "nvidia": "2026-09-24T21:46:39Z"
+    "amd.windows": "2026-09-25T15:31:58Z",
+    "amd.chipset": "2026-09-25T15:31:58Z",
+    "windowsBuilds": "2026-09-25T15:31:58Z",
+    "motherboards.msi": "2026-09-25T15:48:24Z",
+    "motherboards.gigabyte": "2026-09-25T15:48:24Z",
+    "motherboards.asrock": "2026-09-25T15:48:24Z",
+    "motherboards.asus": "2026-09-25T15:48:24Z",
+    "dell": "2026-09-25T15:48:27Z",
+    "intel.chipset": "2026-09-25T15:48:37Z",
+    "intel.arc": "2026-09-25T15:48:37Z",
+    "intel.xe": "2026-09-25T15:48:37Z",
+    "intel.rst20": "2026-09-25T15:48:37Z",
+    "intel.rst21": "2026-09-25T15:48:37Z",
+    "intel.chipsetInf": "2026-09-25T15:48:37Z",
+    "nvidia": "2026-09-25T15:48:37Z"
   },
   "amd": {
     "windows": {
@@ -2483,6 +2483,12 @@
       "url": "https://www.gigabyte.com/Motherboard/B760-GAMING-X-AX-rev-1x/support#support-dl-bios",
       "vendor": "gigabyte"
     },
+    "B760 GAMING X AX DDR4": {
+      "bios": "F16",
+      "date": "2025-12-02",
+      "url": "https://www.gigabyte.com/Motherboard/B760-GAMING-X-AX-DDR4/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
     "B760 GAMING X DDR4": {
       "bios": "F17",
       "date": "2026-06-12",
@@ -2881,6 +2887,12 @@
       "bios": "F16",
       "date": "2026-06-12",
       "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-X-AX-rev-1x/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
+    "B760M GAMING X AX DDR4": {
+      "bios": "F24",
+      "date": "2026-06-12",
+      "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-X-AX-DDR4/support#support-dl-bios",
       "vendor": "gigabyte"
     },
     "B760M GAMING X DDR4": {
@@ -4487,12 +4499,14 @@
       "bios": "FA",
       "date": "2014-03-14",
       "url": "https://www.gigabyte.com/Motherboard/GA-C1037UN-rev-20/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-C1037UN-EU": {
       "bios": "FA",
       "date": "2014-03-05",
       "url": "https://www.gigabyte.com/Motherboard/GA-C1037UN-EU-rev-20/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-C1037UN-L": {
@@ -4535,6 +4549,7 @@
       "bios": "F7",
       "date": "2012-12-03",
       "url": "https://www.gigabyte.com/Motherboard/GA-D425TUD-rev-14/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-D510UD": {
@@ -4547,6 +4562,7 @@
       "bios": "FA",
       "date": "2013-10-04",
       "url": "https://www.gigabyte.com/Motherboard/GA-D525TUD-rev-15/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-E2100N": {
@@ -4577,6 +4593,7 @@
       "bios": "FA",
       "date": "2012-10-01",
       "url": "https://www.gigabyte.com/Motherboard/GA-E350N-rev-30/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-E350N WIN8": {
@@ -4942,6 +4959,7 @@
       "bios": "FC",
       "date": "2015-08-31",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81-D3-rev-21/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81-D3P": {
@@ -4966,6 +4984,7 @@
       "bios": "FC",
       "date": "2015-08-11",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-D2V-rev-20/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-D3H": {
@@ -4984,6 +5003,7 @@
       "bios": "FA",
       "date": "2023-01-10",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-DS2-rev-41/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-DS2 Plus": {
@@ -4996,6 +5016,7 @@
       "bios": "FC",
       "date": "2015-08-20",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-DS2V-rev-20/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-Gaming 3": {
@@ -5008,6 +5029,7 @@
       "bios": "FA",
       "date": "2023-01-30",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-H-rev-22/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-HD2": {
@@ -5020,18 +5042,21 @@
       "bios": "F7",
       "date": "2015-08-11",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-HD3-rev-10/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S": {
       "bios": "FA",
       "date": "2021-04-29",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S-rev-2x/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S1": {
       "bios": "FA",
       "date": "2021-04-29",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S1-rev-3x/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S2H": {
@@ -5044,18 +5069,21 @@
       "bios": "FA",
       "date": "2023-01-10",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S2PH-rev-23/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S2PT": {
       "bios": "F5",
       "date": "2015-08-11",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S2PT-rev-10/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S2PV": {
       "bios": "F9",
       "date": "2015-08-11",
       "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S2PV-rev-10/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S2V": {
@@ -5308,6 +5336,7 @@
       "bios": "F3",
       "date": "2015-08-11",
       "url": "https://www.gigabyte.com/Motherboard/GA-P81-D3-rev-10/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "GA-PICO3350": {
@@ -6588,6 +6617,7 @@
       "bios": "F1",
       "date": "2023-07-23",
       "url": "https://www.gigabyte.com/Motherboard/H81M-H-M2-rev-10/support#support-dl-bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H81M-K": {
@@ -10724,8 +10754,8 @@
       "vendor": "asus"
     },
     "Pro WS W880-ACE SE": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/Pro%20WS%20W880-ACE%20SE/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10772,8 +10802,8 @@
       "vendor": "asus"
     },
     "Pro WS Z890-ACE SE": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/Pro%20WS%20Z890-ACE%20SE/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11005,8 +11035,8 @@
       "vendor": "asus"
     },
     "ProArt Z890-CREATOR WIFI": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ProArt%20Z890-CREATOR%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11377,20 +11407,20 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z890 APEX": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3402",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z890%20APEX/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z890 EXTREME": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z890%20EXTREME/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z890 HERO": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z890%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12157,26 +12187,26 @@
       "vendor": "asus"
     },
     "ROG STRIX Z890-A GAMING WIFI": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z890-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z890-E GAMING WIFI": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z890-E%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z890-F GAMING WIFI": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z890-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z890-H GAMING WIFI": {
-      "bios": "3305",
-      "date": "2026-08-07",
+      "bios": "3401",
+      "date": "2026-09-23",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z890-H%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -14676,6 +14706,12 @@
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-DDR4-rev-1x/support#support-dl-bios",
       "vendor": "gigabyte"
     },
+    "Z790 AORUS ELITE AX ICE": {
+      "bios": "F6",
+      "date": "2025-06-19",
+      "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-ICE/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
     "Z790 AORUS ELITE AX-W": {
       "bios": "F12",
       "date": "2026-06-30",
@@ -14700,10 +14736,28 @@
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-X-AX/support#support-dl-bios",
       "vendor": "gigabyte"
     },
+    "Z790 AORUS ELITE X WIFI7": {
+      "bios": "F11",
+      "date": "2026-06-30",
+      "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-X-WIFI7/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
     "Z790 AORUS MASTER": {
       "bios": "F19",
       "date": "2026-06-30",
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-MASTER-rev-10/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
+    "Z790 AORUS MASTER X": {
+      "bios": "F12",
+      "date": "2026-06-30",
+      "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-MASTER-X/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
+    "Z790 AORUS PRO X": {
+      "bios": "F10",
+      "date": "2026-06-30",
+      "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-PRO-X/support#support-dl-bios",
       "vendor": "gigabyte"
     },
     "Z790 AORUS PRO X WIFI7": {
@@ -14960,6 +15014,12 @@
       "bios": "F16",
       "date": "2026-06-30",
       "url": "https://www.gigabyte.com/Motherboard/Z790-UD-AC-rev-1x/support#support-dl-bios",
+      "vendor": "gigabyte"
+    },
+    "Z790 UD AX": {
+      "bios": "F17",
+      "date": "2026-06-30",
+      "url": "https://www.gigabyte.com/Motherboard/Z790-UD-AX/support#support-dl-bios",
       "vendor": "gigabyte"
     },
     "Z790 UD WIFI7": {
@@ -15369,6 +15429,17 @@
         "url": "https://www.gigabyte.com/Motherboard/B840M-GAMING-PLUS-WIFI6E/support#support-dl-bios"
       }
     },
+    "B760M GAMING WIFI": {
+      "msi": {
+        "bios": "7D90vHA",
+        "date": "2026-09-16"
+      },
+      "gigabyte": {
+        "bios": "F14",
+        "date": "2026-06-12",
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
+      }
+    },
     "B650M GAMING WIFI": {
       "msi": {
         "bios": "7E30v1F3",
@@ -15381,29 +15452,6 @@
         "revisionAmbiguous": true
       }
     },
-    "B760M GAMING PLUS WIFI DDR4": {
-      "msi": {
-        "bios": "7D99vMA",
-        "date": "2026-09-11"
-      },
-      "gigabyte": {
-        "bios": "F10",
-        "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-10/support#support-dl-bios",
-        "revisionAmbiguous": true
-      }
-    },
-    "B760M GAMING WIFI": {
-      "msi": {
-        "bios": "7D90vHA",
-        "date": "2026-09-16"
-      },
-      "gigabyte": {
-        "bios": "F14",
-        "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-WIFI-rev-12-14/support#support-dl-bios"
-      }
-    },
     "B650M GAMING PLUS WIFI": {
       "msi": {
         "bios": "7E24v1E3",
@@ -15413,6 +15461,18 @@
         "bios": "F40",
         "date": "2026-05-21",
         "url": "https://www.gigabyte.com/Motherboard/B650M-GAMING-PLUS-WIFI-rev-10-11-12/support#support-dl-bios",
+        "revisionAmbiguous": true
+      }
+    },
+    "B760M GAMING PLUS WIFI DDR4": {
+      "msi": {
+        "bios": "7D99vMA",
+        "date": "2026-09-11"
+      },
+      "gigabyte": {
+        "bios": "F10",
+        "date": "2026-06-12",
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-10/support#support-dl-bios",
         "revisionAmbiguous": true
       }
     }
