@@ -4,13 +4,24 @@ name: Watch the feed
 #
 # Every other check on this data runs inside the producer's own run, so each
 # of them needs that run to happen. One that never starts - a schedule GitHub
-# has stopped firing, a disabled workflow, a spent Actions allowance, a run
-# that passes while unable to write here - fails nothing and tells nobody; the
-# data simply sits, correctly signed and getting older. This lives here rather
+# has stopped firing, a disabled workflow - or one that cannot run at all, as
+# every run with the Actions allowance spent (marked failed within seconds,
+# having run nothing), or a run that passes while unable to write here, checks
+# nothing; the data simply sits, correctly signed and getting older. This lives here rather
 # than beside the producer for that reason: it has to keep working when the
 # producer does not, and a public repository's runs cost it nothing.
 #
 # It reads the files in this repository, which is what the app reads.
+#
+# Two ages, because a producer can stop in two ways. The whole thing can stop
+# - nothing runs, so checked.json stops moving. Or the quick runs can go on
+# while the daily board sweep does not - a sweep schedule GitHub stops firing,
+# or a vendor whose every sweep fails - which leaves checked.json current and
+# the board sections getting older. The producer's own freshness gate turns
+# its runs red for that, but only its runs, and only if somebody looks at them.
+# Each section is measured as that gate measures it - against `checked`, the
+# producer's last run - so the two agree, and a producer that has stopped
+# altogether is reported as that alone rather than as every section at once.
 on:
   schedule:
     # Four times a day, between the producer's own slots. Odd minutes on
@@ -27,12 +38,15 @@ concurrency:
 
 jobs:
   watch:
-    runs-on: ubuntu-latest
+    # Pinned, as the producer is: ubuntu-latest moves to Ubuntu 26 from
+    # 2026-10-19, and this is the job that has to keep working when nobody is
+    # looking.
+    runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: The feed was checked recently, and still verifies
+      - name: The feed was checked recently, every section is current, and it still verifies
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
@@ -43,6 +57,12 @@ jobs:
           # eighteen is more than twice the worst lateness seen: it cannot
           # fire on a slow cron, and it fires within a day of a real stop.
           $maxAgeHours = 18
+
+          # Each section's own stamp against `checked`, with the limit and the
+          # rounding the producer's freshness gate uses. A board vendor is
+          # swept daily with an evening second chance, so three days is two
+          # days of both missed.
+          $maxSectionAgeDays = 3
 
           function Test-Signature([string] $file, [string] $signatureFile) {
             $ecdsa = [System.Security.Cryptography.ECDsa]::Create()
@@ -93,6 +113,35 @@ jobs:
                 $problems += ('The feed was last checked {0:N1} hours ago; the producer runs every six. ' +
                   'It has stopped running, or it can no longer publish here.') -f $age.TotalHours
               }
+            }
+
+            # The same reading, per section. Pulled out one pair at a time
+            # for the same reason as above: no DateTime conversion.
+            $freshnessBlock = [regex]::Match($text, '"freshness"\s*:\s*\{(?<body>[^}]*)\}').Groups['body'].Value
+            $sections = [regex]::Matches($freshnessBlock, '"(?<name>[^"]+)"\s*:\s*"(?<value>[^"]+)"')
+            if ($sections.Count -eq 0) {
+              $problems += "feed/checked.json has no section freshness to read."
+            }
+            foreach ($section in $sections) {
+              $name = $section.Groups['name'].Value
+              $stamped = [datetimeoffset]::MinValue
+              if (-not [datetimeoffset]::TryParse($section.Groups['value'].Value, [cultureinfo]::InvariantCulture, $styles, [ref] $stamped)) {
+                $problems += "feed/checked.json has no readable time for $name ('$($section.Groups['value'].Value)')."
+                continue
+              }
+              # No `checked` to measure against is already reported above.
+              if ($checked -eq [datetimeoffset]::MinValue) { continue }
+              $sectionAgeDays = [Math]::Round(($checked - $stamped).TotalDays, 1)
+              if ($sectionAgeDays -gt $maxSectionAgeDays) {
+                $problems += ('{0} was last refreshed {1:yyyy-MM-dd HH:mm} UTC, {2:N1} days before the last check (limit {3}). ' +
+                  'The producer is running but no longer refreshing it.') -f $name, $stamped, $sectionAgeDays, $maxSectionAgeDays
+              }
+            }
+            $oldest = $sections | Sort-Object { $_.Groups['value'].Value } | Select-Object -First 1
+            if ($oldest) {
+              $line = 'Oldest section: {0}, refreshed {1}.' -f $oldest.Groups['name'].Value, $oldest.Groups['value'].Value
+              Write-Host $line
+              $line | Out-File $env:GITHUB_STEP_SUMMARY -Append
             }
           }
 
