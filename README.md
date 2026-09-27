@@ -199,9 +199,10 @@ runs four times a day, verifies both signed files against the published key,
 and goes red when `checked` is more than eighteen hours old - three times the
 producer's interval, and more than twice the longest gap measured between its
 runs (8.4 hours across three weeks of September 2026) - or when any section in
-`checked.json`'s `freshness` is more than three days older than `checked`,
-which is the producer still running while one of its sources has stopped
-being refreshed. It
+`checked.json`'s `freshness` is more than two and a half days older than
+`checked`, which is the producer still running while one of its sources has
+stopped being refreshed - under the app's three days, so this goes red before
+the app's About page turns amber. It
 lives here rather than beside the producer because it has to keep working when
 the producer does not.
 

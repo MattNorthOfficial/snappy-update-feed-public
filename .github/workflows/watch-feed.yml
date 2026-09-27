@@ -60,9 +60,12 @@ jobs:
 
           # Each section's own stamp against `checked`, with the limit and the
           # rounding the producer's freshness gate uses. A board vendor is
-          # swept daily with an evening second chance, so three days is two
-          # days of both missed.
-          $maxSectionAgeDays = 3
+          # swept daily with an evening second chance, so two and a half days
+          # is two days of both missed. Under the app's three on purpose: the
+          # app measures against the moment it looks, this only at `checked`,
+          # and at three the app's About page could turn amber before this
+          # went red.
+          $maxSectionAgeDays = 2.5
 
           function Test-Signature([string] $file, [string] $signatureFile) {
             $ecdsa = [System.Security.Cryptography.ECDsa]::Create()
