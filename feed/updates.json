@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-27T05:41:44Z",
+  "updated": "2026-09-27T16:01:30Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-27T05:41:45Z",
-    "amd.chipset": "2026-09-27T05:41:45Z",
-    "windowsBuilds": "2026-09-27T05:41:46Z",
-    "motherboards.msi": "2026-09-26T15:02:53Z",
-    "motherboards.gigabyte": "2026-09-26T15:02:53Z",
-    "motherboards.asrock": "2026-09-26T15:02:53Z",
-    "motherboards.asus": "2026-09-26T15:02:53Z",
-    "dell": "2026-09-27T05:41:53Z",
-    "intel.chipset": "2026-09-27T05:42:18Z",
-    "intel.arc": "2026-09-27T05:42:18Z",
-    "intel.xe": "2026-09-27T05:42:18Z",
-    "intel.rst20": "2026-09-27T05:42:18Z",
-    "intel.rst21": "2026-09-27T05:42:18Z",
-    "intel.chipsetInf": "2026-09-27T05:42:18Z",
-    "nvidia": "2026-09-27T05:42:19Z"
+    "amd.windows": "2026-09-27T16:01:31Z",
+    "amd.chipset": "2026-09-27T16:01:32Z",
+    "windowsBuilds": "2026-09-27T16:01:32Z",
+    "motherboards.msi": "2026-09-27T15:39:04Z",
+    "motherboards.gigabyte": "2026-09-27T15:39:04Z",
+    "motherboards.asrock": "2026-09-27T15:39:04Z",
+    "motherboards.asus": "2026-09-27T16:01:50Z",
+    "dell": "2026-09-27T16:01:56Z",
+    "intel.chipset": "2026-09-27T16:02:09Z",
+    "intel.arc": "2026-09-27T16:02:09Z",
+    "intel.xe": "2026-09-27T16:02:09Z",
+    "intel.rst20": "2026-09-27T16:02:09Z",
+    "intel.rst21": "2026-09-27T16:02:09Z",
+    "intel.chipsetInf": "2026-09-27T16:02:09Z",
+    "nvidia": "2026-09-27T16:02:09Z"
   },
   "amd": {
     "windows": {
@@ -4183,6 +4183,12 @@
       "date": "2022-07-19",
       "vendor": "msi"
     },
+    "CROSSHAIR VI HERO": {
+      "bios": "8902",
+      "date": "2025-09-22",
+      "url": "https://www.asus.com/supportonly/CROSSHAIR%20VI%20HERO/helpdesk_bios/",
+      "vendor": "asus"
+    },
     "EX-A320M-GAMING": {
       "bios": "6265",
       "date": "2026-08-27",
@@ -7098,6 +7104,48 @@
       "bios": "7E42v3A30",
       "date": "2026-07-23",
       "vendor": "msi"
+    },
+    "MAXIMUS IX APEX": {
+      "bios": "1301",
+      "date": "2018-04-20",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20APEX/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "MAXIMUS IX CODE": {
+      "bios": "1501",
+      "date": "2021-08-17",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20CODE/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "MAXIMUS IX EXTREME": {
+      "bios": "1501",
+      "date": "2021-09-09",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20EXTREME/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "MAXIMUS IX FORMULA": {
+      "bios": "1501",
+      "date": "2021-08-17",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20FORMULA/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "MAXIMUS IX HERO": {
+      "bios": "1301",
+      "date": "2018-04-20",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20HERO/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "MAXIMUS VIII EXTREME/ASSEMBLY": {
+      "bios": "3801",
+      "date": "2018-04-20",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20VIII%20EXTREME%2FASSEMBLY/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "MAXIMUS VIII HERO ALPHA": {
+      "bios": "3801",
+      "date": "2018-04-27",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20VIII%20HERO%20ALPHA/helpdesk_bios/",
+      "vendor": "asus"
     },
     "MEG B550 UNIFY": {
       "bios": "7D13v1H2",
@@ -11082,6 +11130,12 @@
       "url": "https://www.gigabyte.com/Motherboard/Q870M-D3H/support#support-dl-bios",
       "vendor": "gigabyte"
     },
+    "RAMPAGE V EDITION 10": {
+      "bios": "2101",
+      "date": "2019-07-17",
+      "url": "https://www.asus.com/supportonly/RAMPAGE%20V%20EDITION%2010/helpdesk_bios/",
+      "vendor": "asus"
+    },
     "ROG CROSSHAIR 2006": {
       "bios": "1103",
       "date": "2026-09-22",
@@ -11092,6 +11146,12 @@
       "bios": "8902",
       "date": "2025-09-22",
       "url": "https://www.asus.com/supportonly/ROG%20CROSSHAIR%20VI%20EXTREME/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG CROSSHAIR VI HERO": {
+      "bios": "8902",
+      "date": "2025-09-22",
+      "url": "https://www.asus.com/supportonly/CROSSHAIR%20VI%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG CROSSHAIR VI HERO (WI-FI AC)": {
@@ -11212,6 +11272,48 @@
       "bios": "0901",
       "date": "2025-02-17",
       "url": "https://www.asus.com/supportonly/ROG%20Dominus%20Extreme/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS IX APEX": {
+      "bios": "1301",
+      "date": "2018-04-20",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20APEX/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS IX CODE": {
+      "bios": "1501",
+      "date": "2021-08-17",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20CODE/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS IX EXTREME": {
+      "bios": "1501",
+      "date": "2021-09-09",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20EXTREME/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS IX FORMULA": {
+      "bios": "1501",
+      "date": "2021-08-17",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20FORMULA/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS IX HERO": {
+      "bios": "1301",
+      "date": "2018-04-20",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20IX%20HERO/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS VIII EXTREME/ASSEMBLY": {
+      "bios": "3801",
+      "date": "2018-04-20",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20VIII%20EXTREME%2FASSEMBLY/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG MAXIMUS VIII HERO ALPHA": {
+      "bios": "3801",
+      "date": "2018-04-27",
+      "url": "https://www.asus.com/supportonly/MAXIMUS%20VIII%20HERO%20ALPHA/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS X APEX": {
@@ -11430,6 +11532,12 @@
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z890%20HERO%20BTF/helpdesk_bios/",
       "vendor": "asus"
     },
+    "ROG RAMPAGE V EDITION 10": {
+      "bios": "2101",
+      "date": "2019-07-17",
+      "url": "https://www.asus.com/supportonly/RAMPAGE%20V%20EDITION%2010/helpdesk_bios/",
+      "vendor": "asus"
+    },
     "ROG RAMPAGE VI APEX": {
       "bios": "4401",
       "date": "2026-09-08",
@@ -11446,6 +11554,30 @@
       "bios": "4401",
       "date": "2026-09-09",
       "url": "https://www.asus.com/supportonly/ROG%20RAMPAGE%20VI%20EXTREME%20OMEGA/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX B250F GAMING": {
+      "bios": "1207",
+      "date": "2018-09-28",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250F%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX B250G GAMING": {
+      "bios": "1205",
+      "date": "2018-05-30",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250G%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX B250H GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250H%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX B250I GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250I%20GAMING/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B350-F GAMING": {
@@ -11784,6 +11916,18 @@
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B860-I%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
+    "ROG STRIX H270F GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20H270F%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX H270I GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20H270I%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
     "ROG STRIX H370-F GAMING": {
       "bios": "3101",
       "date": "2021-10-28",
@@ -11958,10 +12102,46 @@
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870E-H%20GAMING%20WIFI7%20HATSUNE%20MIKU%20EDITION/helpdesk_bios/",
       "vendor": "asus"
     },
+    "ROG STRIX X99 GAMING": {
+      "bios": "2101",
+      "date": "2019-07-17",
+      "url": "https://www.asus.com/supportonly/STRIX%20X99%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
     "ROG STRIX X999-E GAMING WIFI": {
       "bios": "1402",
       "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X999-E%20GAMING%20WIFI/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX Z270-I GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270-I%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX Z270E GAMING": {
+      "bios": "1302",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270E%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX Z270F GAMING": {
+      "bios": "1301",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270F%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX Z270G GAMING": {
+      "bios": "1301",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270G%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "ROG STRIX Z270H GAMING": {
+      "bios": "1301",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270H%20GAMING/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z370-E GAMING": {
@@ -12257,6 +12437,78 @@
       "date": "2019-06-27",
       "url": "https://www.gigabyte.com/Motherboard/S12-P10R-rev-10/support#support-dl-bios",
       "vendor": "gigabyte"
+    },
+    "STRIX B250F GAMING": {
+      "bios": "1207",
+      "date": "2018-09-28",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250F%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX B250G GAMING": {
+      "bios": "1205",
+      "date": "2018-05-30",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250G%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX B250H GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250H%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX B250I GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20B250I%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX H270F GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20H270F%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX H270I GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20H270I%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX X99 GAMING": {
+      "bios": "2101",
+      "date": "2019-07-17",
+      "url": "https://www.asus.com/supportonly/STRIX%20X99%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX Z270-I GAMING": {
+      "bios": "1205",
+      "date": "2018-05-25",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270-I%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX Z270E GAMING": {
+      "bios": "1302",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270E%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX Z270F GAMING": {
+      "bios": "1301",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270F%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX Z270G GAMING": {
+      "bios": "1301",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270G%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
+    },
+    "STRIX Z270H GAMING": {
+      "bios": "1301",
+      "date": "2018-04-18",
+      "url": "https://www.asus.com/supportonly/STRIX%20Z270H%20GAMING/helpdesk_bios/",
+      "vendor": "asus"
     },
     "TRX40 AORUS MASTER": {
       "bios": "F7",
