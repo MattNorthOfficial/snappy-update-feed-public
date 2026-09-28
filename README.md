@@ -143,8 +143,12 @@ fetched key alone can never move a machine's trust root.
 - `motherboards` is keyed by the clean marketing name, without the
   "(MS-7E51)"-style suffix WMI appends, and holds the latest non-beta BIOS
   with a link to the vendor's own page. Where several board revisions share
-  one marketing name the entry is marked `revisionAmbiguous`; consumers
-  should withhold a verdict rather than send every revision to one file.
+  one marketing name and their BIOS files differ, the entry is marked
+  `revisionAmbiguous`; consumers should withhold a verdict rather than send
+  every revision to one file. Where every revision page links the same BIOS
+  file, the entry is not ambiguous - its verdict and link apply to every
+  revision - and carries `revisionsShareBios: true`, the builder's record of
+  that proof; consumers can ignore it.
 - `motherboardConflicts` records models whose name is claimed by more than
   one vendor, with each vendor's answer kept separate.
 - `dell` is keyed by the 4-hex system id every Dell and Alienware reports as
