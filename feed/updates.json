@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-27T22:26:15Z",
+  "updated": "2026-09-28T18:15:01Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-27T22:26:16Z",
-    "amd.chipset": "2026-09-27T22:26:17Z",
-    "windowsBuilds": "2026-09-27T22:26:17Z",
-    "motherboards.msi": "2026-09-27T15:39:04Z",
-    "motherboards.gigabyte": "2026-09-27T22:35:42Z",
-    "motherboards.asrock": "2026-09-27T15:39:04Z",
-    "motherboards.asus": "2026-09-27T16:01:50Z",
-    "dell": "2026-09-27T22:35:47Z",
-    "intel.chipset": "2026-09-27T22:36:00Z",
-    "intel.arc": "2026-09-27T22:36:00Z",
-    "intel.xe": "2026-09-27T22:36:00Z",
-    "intel.rst20": "2026-09-27T22:36:00Z",
-    "intel.rst21": "2026-09-27T22:36:00Z",
-    "intel.chipsetInf": "2026-09-27T22:36:00Z",
-    "nvidia": "2026-09-27T22:36:01Z"
+    "amd.windows": "2026-09-28T18:15:03Z",
+    "amd.chipset": "2026-09-28T18:15:03Z",
+    "windowsBuilds": "2026-09-28T18:15:04Z",
+    "motherboards.msi": "2026-09-28T18:39:43Z",
+    "motherboards.gigabyte": "2026-09-28T18:39:43Z",
+    "motherboards.asrock": "2026-09-28T18:39:43Z",
+    "motherboards.asus": "2026-09-28T18:39:43Z",
+    "dell": "2026-09-28T18:39:47Z",
+    "intel.chipset": "2026-09-28T18:39:57Z",
+    "intel.arc": "2026-09-28T18:39:57Z",
+    "intel.xe": "2026-09-28T18:39:57Z",
+    "intel.rst20": "2026-09-28T18:39:57Z",
+    "intel.rst21": "2026-09-28T18:39:57Z",
+    "intel.chipsetInf": "2026-09-28T18:39:57Z",
+    "nvidia": "2026-09-28T18:39:58Z"
   },
   "amd": {
     "windows": {
@@ -193,12 +193,14 @@
       "bios": "F21",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/A520-AORUS-ELITE-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "A520I AC": {
       "bios": "F22",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/A520I-AC-rev-1x/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "A520M AORUS ELITE": {
@@ -930,6 +932,7 @@
       "bios": "F19",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/B550-AORUS-PRO-AX-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B550 AORUS PRO V2": {
@@ -1126,6 +1129,7 @@
       "bios": "F7",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/B550M-AORUS-ELITE-AX-rev-14/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B550M AORUS PRO": {
@@ -1138,6 +1142,7 @@
       "bios": "F9",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/B550M-AORUS-PRO-AX-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B550M AORUS PRO-P": {
@@ -1644,12 +1649,14 @@
       "bios": "F40",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B650 EAGLE AX": {
       "bios": "F40",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B650-EAGLE-AX-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B650 GAMING PLUS": {
@@ -1680,6 +1687,7 @@
       "bios": "F41",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B650-GAMING-X-AX-V2-rev-13/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B650 LiveMixer": {
@@ -2138,6 +2146,7 @@
       "bios": "F35",
       "date": "2026-06-12",
       "url": "https://www.gigabyte.com/Motherboard/B660-DS3H-AC-DDR4-rev-10-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B660 DS3H AX DDR4": {
@@ -2574,6 +2583,7 @@
       "bios": "F25",
       "date": "2026-06-12",
       "url": "https://www.gigabyte.com/Motherboard/B760M-AORUS-ELITE-AX-rev-1x/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760M AORUS ELITE AX DDR4": {
@@ -2652,6 +2662,7 @@
       "bios": "F16",
       "date": "2026-06-12",
       "url": "https://www.gigabyte.com/Motherboard/B760M-C-rev-11-12-13/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760M C V2": {
@@ -2784,12 +2795,14 @@
       "bios": "F16",
       "date": "2026-06-12",
       "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760M GAMING AC": {
       "bios": "F23",
       "date": "2026-06-12",
       "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-AC-rev-12-13/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760M GAMING AC DDR4": {
@@ -3166,6 +3179,7 @@
       "bios": "F10",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B840M-AORUS-ELITE-WIFI6E-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B840M AYW GAMING WIFI": {
@@ -3178,6 +3192,7 @@
       "bios": "F12",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B840M-D2H-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B840M D3HP": {
@@ -3196,18 +3211,21 @@
       "bios": "F10",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B840M-DS3H-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B840M DS3H WIFI6": {
       "bios": "F7",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B840M-DS3H-WIFI6-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B840M EAGLE WIFI6": {
       "bios": "F11",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B840M-EAGLE-WIFI6-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B840M FORCE WIFI6E": {
@@ -3530,24 +3548,28 @@
       "bios": "F10",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-DS3H-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M DS3H ICE": {
       "bios": "F11",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-DS3H-ICE-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M EAGLE WIFI6E": {
       "bios": "F9",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-EAGLE-WIFI6E-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M EAGLE WIFI6E ICE": {
       "bios": "F9",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-EAGLE-WIFI6E-ICE-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M EAGLE WIFI7": {
@@ -3560,6 +3582,7 @@
       "bios": "F8",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-FORCE-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M FORCE V2": {
@@ -3572,6 +3595,7 @@
       "bios": "F8",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-FORCE-WIFI6E-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M FORCE WIFI6E V2": {
@@ -3609,6 +3633,7 @@
       "bios": "F10",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/B850M-GAMING-X-WIFI6E-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B850M MAX GAMING WIFI": {
@@ -3740,12 +3765,14 @@
       "bios": "F11",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/B860-DS3H-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B860 DS3H WIFI6E": {
       "bios": "F11",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/B860-DS3H-WIFI6E-rev-13/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B860 EAGLE WIFI6E": {
@@ -3895,6 +3922,7 @@
       "bios": "F10",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/B860M-D3HP-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B860M D3W": {
@@ -3985,12 +4013,14 @@
       "bios": "F11",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/B860M-GAMING-X-rev-20/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B860M GAMING X WIFI6E": {
       "bios": "F11",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/B860M-GAMING-X-WIFI6E-rev-20/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B860M H": {
@@ -5428,6 +5458,7 @@
       "bios": "FA1",
       "date": "2025-03-14",
       "url": "https://www.gigabyte.com/Motherboard/H110M-M2-rev-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "H110T": {
@@ -13610,24 +13641,28 @@
       "bios": "F39",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570-AORUS-MASTER-rev-11-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570 AORUS PRO": {
       "bios": "F39",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570-AORUS-PRO-rev-11-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570 AORUS PRO WIFI": {
       "bios": "F39",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570-AORUS-PRO-WIFI-rev-11-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570 AORUS ULTRA": {
       "bios": "F39",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570-AORUS-ULTRA-rev-11-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570 AORUS XTREME": {
@@ -13665,6 +13700,7 @@
       "bios": "F40",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570-GAMING-X-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570 I AORUS PRO WIFI": {
@@ -13743,6 +13779,7 @@
       "bios": "F40",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570-UD-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570M Pro4": {
@@ -13779,6 +13816,7 @@
       "bios": "F8",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570S-AORUS-PRO-AX-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X570S GAMING X": {
@@ -13803,6 +13841,7 @@
       "bios": "F7",
       "date": "2025-10-29",
       "url": "https://www.gigabyte.com/Motherboard/X570SI-AORUS-PRO-AX-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X600M-STX R2.0": {
@@ -14163,6 +14202,7 @@
       "bios": "F5",
       "date": "2026-05-21",
       "url": "https://www.gigabyte.com/Motherboard/X870E-EAGLE-X3D-WIFI7-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "X870E GAMING PLUS WIFI": {
@@ -14691,6 +14731,7 @@
       "bios": "F34",
       "date": "2026-06-30",
       "url": "https://www.gigabyte.com/Motherboard/Z690-GAMING-X-DDR4-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z690 GAMING X DDR4 V2": {
@@ -15188,6 +15229,7 @@
       "bios": "F8",
       "date": "2026-06-30",
       "url": "https://www.gigabyte.com/Motherboard/Z790-S-WIFI-DDR4-rev-11-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z790 Steel Legend WiFi": {
@@ -15568,12 +15610,14 @@
       "bios": "F21",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/Z890-UD-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z890 UD WIFI6E": {
       "bios": "F21",
       "date": "2026-06-11",
       "url": "https://www.gigabyte.com/Motherboard/Z890-UD-WIFI6E-rev-12-13/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z890 UD WIFI7": {
@@ -15658,7 +15702,8 @@
       "gigabyte": {
         "bios": "F10",
         "date": "2026-06-12",
-        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-11/support#Support-Bios"
+        "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-11/support#Support-Bios",
+        "revisionsShareBios": true
       }
     },
     "B760M GAMING WIFI": {
