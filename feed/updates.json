@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-28T18:15:01Z",
+  "updated": "2026-09-28T23:29:08Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-28T18:15:03Z",
-    "amd.chipset": "2026-09-28T18:15:03Z",
-    "windowsBuilds": "2026-09-28T18:15:04Z",
+    "amd.windows": "2026-09-28T23:29:10Z",
+    "amd.chipset": "2026-09-28T23:29:10Z",
+    "windowsBuilds": "2026-09-28T23:29:11Z",
     "motherboards.msi": "2026-09-28T18:39:43Z",
     "motherboards.gigabyte": "2026-09-28T18:39:43Z",
     "motherboards.asrock": "2026-09-28T18:39:43Z",
     "motherboards.asus": "2026-09-28T18:39:43Z",
-    "dell": "2026-09-28T18:39:47Z",
-    "intel.chipset": "2026-09-28T18:39:57Z",
-    "intel.arc": "2026-09-28T18:39:57Z",
-    "intel.xe": "2026-09-28T18:39:57Z",
-    "intel.rst20": "2026-09-28T18:39:57Z",
-    "intel.rst21": "2026-09-28T18:39:57Z",
-    "intel.chipsetInf": "2026-09-28T18:39:57Z",
-    "nvidia": "2026-09-28T18:39:58Z"
+    "dell": "2026-09-28T23:29:19Z",
+    "intel.chipset": "2026-09-28T23:29:34Z",
+    "intel.arc": "2026-09-28T23:29:34Z",
+    "intel.xe": "2026-09-28T23:29:34Z",
+    "intel.rst20": "2026-09-28T23:29:34Z",
+    "intel.rst21": "2026-09-28T23:29:34Z",
+    "intel.chipsetInf": "2026-09-28T23:29:34Z",
+    "nvidia": "2026-09-28T23:29:35Z"
   },
   "amd": {
     "windows": {
@@ -19298,9 +19298,9 @@
       "download": "https://downloadmirror.intel.com/929188/gfx_win_101.9033.exe"
     },
     "xe": {
-      "version": "32.0.101.7088",
+      "version": "32.0.101.7092",
       "url": "https://www.intel.com/content/www/us/en/download/864990/intel-11th-14th-gen-processor-graphics-windows.html",
-      "download": "https://downloadmirror.intel.com/922492/gfx_win_101.7088.exe"
+      "download": "https://downloadmirror.intel.com/929468/gfx_win_101.7092.exe"
     },
     "rst20": {
       "version": "20.2.6.1025.3",
