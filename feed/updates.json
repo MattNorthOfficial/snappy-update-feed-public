@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-29T06:09:30Z",
+  "updated": "2026-09-29T16:37:12Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-29T06:09:31Z",
-    "amd.chipset": "2026-09-29T06:09:31Z",
-    "windowsBuilds": "2026-09-29T06:09:32Z",
-    "motherboards.msi": "2026-09-28T18:39:43Z",
-    "motherboards.gigabyte": "2026-09-28T18:39:43Z",
-    "motherboards.asrock": "2026-09-28T18:39:43Z",
-    "motherboards.asus": "2026-09-28T18:39:43Z",
-    "dell": "2026-09-29T06:09:40Z",
-    "intel.chipset": "2026-09-29T06:09:57Z",
-    "intel.arc": "2026-09-29T06:09:57Z",
-    "intel.xe": "2026-09-29T06:09:57Z",
-    "intel.rst20": "2026-09-29T06:09:57Z",
-    "intel.rst21": "2026-09-29T06:09:57Z",
-    "intel.chipsetInf": "2026-09-29T06:09:57Z",
-    "nvidia": "2026-09-29T06:09:57Z"
+    "amd.windows": "2026-09-29T16:37:14Z",
+    "amd.chipset": "2026-09-29T16:37:14Z",
+    "windowsBuilds": "2026-09-29T16:37:15Z",
+    "motherboards.msi": "2026-09-29T17:01:52Z",
+    "motherboards.gigabyte": "2026-09-29T17:01:52Z",
+    "motherboards.asrock": "2026-09-29T17:01:52Z",
+    "motherboards.asus": "2026-09-29T17:01:52Z",
+    "dell": "2026-09-29T17:01:56Z",
+    "intel.chipset": "2026-09-29T17:02:07Z",
+    "intel.arc": "2026-09-29T17:02:07Z",
+    "intel.xe": "2026-09-29T17:02:07Z",
+    "intel.rst20": "2026-09-29T17:02:07Z",
+    "intel.rst21": "2026-09-29T17:02:07Z",
+    "intel.chipsetInf": "2026-09-29T17:02:07Z",
+    "nvidia": "2026-09-29T17:02:08Z"
   },
   "amd": {
     "windows": {
@@ -7081,8 +7081,8 @@
       "vendor": "msi"
     },
     "MAG Z790 TOMAHAWK WIFI": {
-      "bios": "7D91vHI",
-      "date": "2026-04-22",
+      "bios": "7D91vHJ",
+      "date": "2026-09-29",
       "vendor": "msi"
     },
     "MAG Z790 TOMAHAWK WIFI DDR4": {
@@ -7574,8 +7574,8 @@
       "vendor": "msi"
     },
     "MPG Z790 EDGE WIFI": {
-      "bios": "7D91vHI",
-      "date": "2026-04-22",
+      "bios": "7D91vHJ",
+      "date": "2026-09-29",
       "vendor": "msi"
     },
     "MPG Z790 EDGE WIFI DDR4": {
@@ -9392,14 +9392,14 @@
       "vendor": "asus"
     },
     "Prime TRX40-Pro": {
-      "bios": "2502",
-      "date": "2026-01-27",
+      "bios": "2601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/Prime%20TRX40-Pro/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME TRX40-PRO S": {
-      "bios": "2502",
-      "date": "2026-01-27",
+      "bios": "2601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/PRIME%20TRX40-PRO%20S/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11947,14 +11947,14 @@
       "vendor": "asus"
     },
     "ROG Strix TRX40-E Gaming": {
-      "bios": "2502",
-      "date": "2026-02-25",
+      "bios": "2601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20Strix%20TRX40-E%20Gaming/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX TRX40-XE GAMING": {
-      "bios": "2502",
-      "date": "2026-02-13",
+      "bios": "2601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20TRX40-XE%20GAMING/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12415,8 +12415,8 @@
       "vendor": "asus"
     },
     "ROG Zenith II Extreme Alpha": {
-      "bios": "2502",
-      "date": "2026-01-21",
+      "bios": "2601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20Zenith%20II%20Extreme%20Alpha/helpdesk_bios/",
       "vendor": "asus"
     },
