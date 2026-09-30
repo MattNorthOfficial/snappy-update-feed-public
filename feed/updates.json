@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-29T16:37:12Z",
+  "updated": "2026-09-30T12:05:02Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-29T16:37:14Z",
-    "amd.chipset": "2026-09-29T16:37:14Z",
-    "windowsBuilds": "2026-09-29T16:37:15Z",
+    "amd.windows": "2026-09-30T12:05:03Z",
+    "amd.chipset": "2026-09-30T12:05:03Z",
+    "windowsBuilds": "2026-09-30T12:05:04Z",
     "motherboards.msi": "2026-09-29T17:01:52Z",
     "motherboards.gigabyte": "2026-09-29T17:01:52Z",
     "motherboards.asrock": "2026-09-29T17:01:52Z",
     "motherboards.asus": "2026-09-29T17:01:52Z",
-    "dell": "2026-09-29T17:01:56Z",
-    "intel.chipset": "2026-09-29T17:02:07Z",
-    "intel.arc": "2026-09-29T17:02:07Z",
-    "intel.xe": "2026-09-29T17:02:07Z",
-    "intel.rst20": "2026-09-29T17:02:07Z",
-    "intel.rst21": "2026-09-29T17:02:07Z",
-    "intel.chipsetInf": "2026-09-29T17:02:07Z",
-    "nvidia": "2026-09-29T17:02:08Z"
+    "dell": "2026-09-30T12:05:11Z",
+    "intel.chipset": "2026-09-30T12:05:29Z",
+    "intel.arc": "2026-09-30T12:05:29Z",
+    "intel.xe": "2026-09-30T12:05:29Z",
+    "intel.rst20": "2026-09-30T12:05:29Z",
+    "intel.rst21": "2026-09-30T12:05:29Z",
+    "intel.chipsetInf": "2026-09-30T12:05:29Z",
+    "nvidia": "2026-09-30T12:05:30Z"
   },
   "amd": {
     "windows": {
@@ -64,12 +64,11 @@
     }
   },
   "windowsBuilds": {
-    "25H2": {
-      "build": "26200.9457",
-      "date": "2026-09-14",
-      "kb": "KB5129195",
-      "eosHome": "2027-10-12",
-      "eosEnterprise": "2028-10-10"
+    "26H2": {
+      "build": "26300.9457",
+      "date": "2026-09-29",
+      "eosHome": "2028-10-10",
+      "eosEnterprise": "2029-10-09"
     },
     "26H1": {
       "build": "28000.2956",
@@ -77,6 +76,13 @@
       "kb": "KB5129194",
       "eosHome": "2028-03-14",
       "eosEnterprise": "2029-03-13"
+    },
+    "25H2": {
+      "build": "26200.9457",
+      "date": "2026-09-14",
+      "kb": "KB5129195",
+      "eosHome": "2027-10-12",
+      "eosEnterprise": "2028-10-10"
     },
     "24H2": {
       "build": "26100.9457",
