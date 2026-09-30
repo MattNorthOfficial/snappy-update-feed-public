@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-09-30T12:05:02Z",
+  "updated": "2026-09-30T16:29:45Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-09-30T12:05:03Z",
-    "amd.chipset": "2026-09-30T12:05:03Z",
-    "windowsBuilds": "2026-09-30T12:05:04Z",
-    "motherboards.msi": "2026-09-29T17:01:52Z",
-    "motherboards.gigabyte": "2026-09-29T17:01:52Z",
-    "motherboards.asrock": "2026-09-29T17:01:52Z",
-    "motherboards.asus": "2026-09-29T17:01:52Z",
-    "dell": "2026-09-30T12:05:11Z",
-    "intel.chipset": "2026-09-30T12:05:29Z",
-    "intel.arc": "2026-09-30T12:05:29Z",
-    "intel.xe": "2026-09-30T12:05:29Z",
-    "intel.rst20": "2026-09-30T12:05:29Z",
-    "intel.rst21": "2026-09-30T12:05:29Z",
-    "intel.chipsetInf": "2026-09-30T12:05:29Z",
-    "nvidia": "2026-09-30T12:05:30Z"
+    "amd.windows": "2026-09-30T16:29:47Z",
+    "amd.chipset": "2026-09-30T16:29:47Z",
+    "windowsBuilds": "2026-09-30T16:29:47Z",
+    "motherboards.msi": "2026-09-30T16:41:45Z",
+    "motherboards.gigabyte": "2026-09-30T16:41:45Z",
+    "motherboards.asrock": "2026-09-30T16:41:45Z",
+    "motherboards.asus": "2026-09-30T16:41:45Z",
+    "dell": "2026-09-30T16:41:51Z",
+    "intel.chipset": "2026-09-30T16:42:10Z",
+    "intel.arc": "2026-09-30T16:42:10Z",
+    "intel.xe": "2026-09-30T12:59:01Z",
+    "intel.rst20": "2026-09-30T16:42:10Z",
+    "intel.rst21": "2026-09-30T16:42:10Z",
+    "intel.chipsetInf": "2026-09-30T16:42:10Z",
+    "nvidia": "2026-09-30T16:42:12Z"
   },
   "amd": {
     "windows": {
@@ -1125,17 +1125,17 @@
       "vendor": "gigabyte"
     },
     "B550M AORUS ELITE": {
-      "bios": "F21",
-      "date": "2025-10-29",
-      "url": "https://www.gigabyte.com/Motherboard/B550M-AORUS-ELITE-rev-10-11-12/support#Support-Bios",
+      "bios": "FA1",
+      "date": "2026-09-11",
+      "url": "https://www.gigabyte.com/Motherboard/B550M-AORUS-ELITE-rev-15/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "B550M AORUS ELITE AX": {
-      "bios": "F7",
-      "date": "2025-10-29",
-      "url": "https://www.gigabyte.com/Motherboard/B550M-AORUS-ELITE-AX-rev-14/support#Support-Bios",
-      "revisionsShareBios": true,
+      "bios": "FA1",
+      "date": "2026-09-11",
+      "url": "https://www.gigabyte.com/Motherboard/B550M-AORUS-ELITE-AX-rev-15/support#Support-Bios",
+      "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "B550M AORUS PRO": {
@@ -3859,8 +3859,8 @@
       "vendor": "asrock"
     },
     "B860I WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-15",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860I%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -4096,8 +4096,8 @@
       "vendor": "asrock"
     },
     "B860M Rock WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-17",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Rock%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -4132,8 +4132,8 @@
       "vendor": "asus"
     },
     "B860M-H2": {
-      "bios": "3.32",
-      "date": "2026-07-17",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860M-H2/BIOS.html",
       "vendor": "asrock"
     },
@@ -4150,26 +4150,26 @@
       "vendor": "asrock"
     },
     "B860M-X": {
-      "bios": "3.31",
-      "date": "2026-07-17",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860M-X/BIOS.html",
       "vendor": "asrock"
     },
     "B860M-X Gen5": {
-      "bios": "3.31",
-      "date": "2026-07-17",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860M-X%20Gen5/BIOS.html",
       "vendor": "asrock"
     },
     "B860M-X Gen5 WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-17",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860M-X%20Gen5%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860M-X WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-17",
+      "bios": "3.40",
+      "date": "2026-09-30",
       "url": "https://www.asrock.com/mb/Intel/B860M-X%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -12289,8 +12289,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z690-A GAMING WIFI D4": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z690-A%20GAMING%20WIFI%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13986,8 +13986,8 @@
       "vendor": "gigabyte"
     },
     "X870 AYW GAMING WIFI W": {
-      "bios": "1682",
-      "date": "2026-06-26",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/X870%20AYW%20GAMING%20WIFI%20W/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -19303,11 +19303,6 @@
       "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
       "download": "https://downloadmirror.intel.com/929557/gfx_win_101.9033.exe"
     },
-    "xe": {
-      "version": "32.0.101.7092",
-      "url": "https://www.intel.com/content/www/us/en/download/864990/intel-11th-14th-gen-processor-graphics-windows.html",
-      "download": "https://downloadmirror.intel.com/929468/gfx_win_101.7092.exe"
-    },
     "rst20": {
       "version": "20.2.6.1025.3",
       "url": "https://www.intel.com/content/www/us/en/download/849936/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-12th-to-15th-gen-platforms.html",
@@ -22310,6 +22305,11 @@
       "19D6": "10.1.2.80",
       "8C31": "10.0.24",
       "8CB1": "10.0.24"
+    },
+    "xe": {
+      "version": "32.0.101.7092",
+      "url": "https://www.intel.com/content/www/us/en/download/864990/intel-11th-14th-gen-processor-graphics-windows.html",
+      "download": "https://downloadmirror.intel.com/929468/gfx_win_101.7092.exe"
     }
   },
   "nvidia": {
