@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-01T00:31:20Z",
+  "updated": "2026-10-01T17:07:58Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-01T00:31:21Z",
-    "amd.chipset": "2026-10-01T00:31:21Z",
-    "windowsBuilds": "2026-10-01T00:31:22Z",
+    "amd.windows": "2026-10-01T17:08:00Z",
+    "amd.chipset": "2026-10-01T17:08:01Z",
+    "windowsBuilds": "2026-10-01T17:08:01Z",
     "motherboards.msi": "2026-09-30T16:41:45Z",
-    "motherboards.gigabyte": "2026-09-30T16:41:45Z",
-    "motherboards.asrock": "2026-09-30T16:41:45Z",
-    "motherboards.asus": "2026-09-30T16:41:45Z",
-    "dell": "2026-10-01T00:31:30Z",
-    "intel.chipset": "2026-10-01T00:31:50Z",
-    "intel.arc": "2026-10-01T00:31:50Z",
-    "intel.xe": "2026-10-01T00:31:50Z",
-    "intel.rst20": "2026-10-01T00:31:50Z",
-    "intel.rst21": "2026-10-01T00:31:50Z",
-    "intel.chipsetInf": "2026-10-01T00:31:50Z",
-    "nvidia": "2026-10-01T00:31:50Z"
+    "motherboards.gigabyte": "2026-10-01T17:31:15Z",
+    "motherboards.asrock": "2026-10-01T17:31:15Z",
+    "motherboards.asus": "2026-10-01T17:31:15Z",
+    "dell": "2026-10-01T17:31:25Z",
+    "intel.chipset": "2026-10-01T17:31:35Z",
+    "intel.arc": "2026-10-01T17:31:35Z",
+    "intel.xe": "2026-10-01T17:31:35Z",
+    "intel.rst20": "2026-10-01T17:31:35Z",
+    "intel.rst21": "2026-10-01T17:31:35Z",
+    "intel.chipsetInf": "2026-10-01T17:31:35Z",
+    "nvidia": "2026-10-01T17:31:36Z"
   },
   "amd": {
     "windows": {
@@ -1214,6 +1214,12 @@
       "date": "2026-06-25",
       "url": "https://www.gigabyte.com/Motherboard/B550M-GAMING-X-WIFI6-rev-12/support#Support-Bios",
       "revisionAmbiguous": true,
+      "vendor": "gigabyte"
+    },
+    "B550M GAMING X WIFI6E": {
+      "bios": "F1",
+      "date": "2026-09-14",
+      "url": "https://www.gigabyte.com/Motherboard/B550M-GAMING-X-WIFI6E/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B550M H": {
@@ -4560,8 +4566,8 @@
     "GA-D425TUD": {
       "bios": "F7",
       "date": "2012-12-03",
-      "url": "https://www.gigabyte.com/Motherboard/GA-D425TUD-rev-14/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/GA-D425TUD-rev-1x/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "GA-D510UD": {
@@ -5087,8 +5093,8 @@
     "GA-H81M-S2PT": {
       "bios": "F5",
       "date": "2015-08-11",
-      "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S2PT-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/GA-H81M-S2PT-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "GA-H81M-S2PV": {
@@ -5432,8 +5438,8 @@
     "GA-X79S-UP5-WIFI": {
       "bios": "F4",
       "date": "2013-09-27",
-      "url": "https://www.gigabyte.com/Motherboard/GA-X79S-UP5-WIFI-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/GA-X79S-UP5-WIFI-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "GB-SBCAP3450": {
@@ -5969,8 +5975,8 @@
     "H510M H V2": {
       "bios": "F3",
       "date": "2023-12-20",
-      "url": "https://www.gigabyte.com/Motherboard/H510M-H-V2-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/H510M-H-V2-rev-20/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "H510M HD3P": {
@@ -5989,8 +5995,8 @@
     "H510M K V2": {
       "bios": "F3",
       "date": "2023-12-20",
-      "url": "https://www.gigabyte.com/Motherboard/H510M-K-V2-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/H510M-K-V2-rev-20/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "H510M PLUS II": {
@@ -6018,8 +6024,8 @@
     "H510M S2 V2": {
       "bios": "F3",
       "date": "2023-12-20",
-      "url": "https://www.gigabyte.com/Motherboard/H510M-S2-V2-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/H510M-S2-V2-rev-20/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "H510M S2H": {
@@ -6038,8 +6044,8 @@
     "H510M S2H V3": {
       "bios": "F3",
       "date": "2023-12-20",
-      "url": "https://www.gigabyte.com/Motherboard/H510M-S2H-V3-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/H510M-S2H-V3-rev-20/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "H510M S2P": {
@@ -6628,8 +6634,8 @@
     "H81M-H M.2": {
       "bios": "F1",
       "date": "2023-07-23",
-      "url": "https://www.gigabyte.com/Motherboard/H81M-H-M2-rev-10/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "url": "https://www.gigabyte.com/Motherboard/H81M-H-M2-rev-11-12/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "H81M-K": {
@@ -9500,26 +9506,26 @@
       "vendor": "asus"
     },
     "PRIME X870-P": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20X870-P/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME X870-P WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20X870-P%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME X870-P WIFI-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20X870-P%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME X870-P-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20X870-P-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -9620,14 +9626,14 @@
       "vendor": "asus"
     },
     "PRIME Z690-A": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/PRIME%20Z690-A/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME Z690-A-CSM": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/PRIME%20Z690-A-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10778,20 +10784,20 @@
       "vendor": "asus"
     },
     "Pro WS W680-ACE": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/Pro%20WS%20W680-ACE/helpdesk_bios/",
       "vendor": "asus"
     },
     "Pro WS W680-ACE IPMI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/Pro%20WS%20W680-ACE%20IPMI/helpdesk_bios/",
       "vendor": "asus"
     },
     "Pro WS W680M-ACE SE": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/Pro%20WS%20W680M-ACE%20SE/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11029,8 +11035,8 @@
       "vendor": "asus"
     },
     "ProArt B660-CREATOR D4": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ProArt%20B660-CREATOR%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11077,8 +11083,8 @@
       "vendor": "asus"
     },
     "ProArt Z690-CREATOR WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ProArt%20Z690-CREATOR%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11443,32 +11449,32 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z690 APEX": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z690%20APEX/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z690 EXTREME": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z690%20EXTREME/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z690 EXTREME GLACIAL": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z690%20EXTREME%20GLACIAL/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z690 FORMULA": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z690%20FORMULA/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z690 HERO": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z690%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12073,8 +12079,8 @@
       "vendor": "asus"
     },
     "ROG STRIX X870-I GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1805",
+      "date": "2026-09-30",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20X870-I%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12283,8 +12289,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z690-A GAMING WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z690-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12295,26 +12301,26 @@
       "vendor": "asus"
     },
     "ROG STRIX Z690-E GAMING WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z690-E%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z690-F GAMING WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z690-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z690-G GAMING WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z690-G%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z690-I GAMING WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z690-I%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13095,8 +13101,8 @@
       "vendor": "asus"
     },
     "TUF GAMING H670-PRO WIFI D4": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20H670-PRO%20WIFI%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13143,14 +13149,14 @@
       "vendor": "asus"
     },
     "TUF GAMING X870-PLUS WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1805",
+      "date": "2026-09-30",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20X870-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING X870-PRO WIFI7 W NEO": {
-      "bios": "1688",
-      "date": "2026-07-28",
+      "bios": "1805",
+      "date": "2026-09-30",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20X870-PRO%20WIFI7%20W%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13185,26 +13191,26 @@
       "vendor": "asus"
     },
     "TUF GAMING Z690-PLUS": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20Z690-PLUS/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING Z690-PLUS D4": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20Z690-PLUS%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING Z690-PLUS WIFI": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20Z690-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING Z690-PLUS WIFI D4": {
-      "bios": "4505",
-      "date": "2025-12-15",
+      "bios": "4601",
+      "date": "2026-09-29",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20Z690-PLUS%20WIFI%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -14039,14 +14045,14 @@
       "vendor": "asrock"
     },
     "X870 MAX GAMING WIFI7": {
-      "bios": "1682",
-      "date": "2026-06-26",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/X870%20MAX%20GAMING%20WIFI7/helpdesk_bios/",
       "vendor": "asus"
     },
     "X870 MAX GAMING WIFI7 W": {
-      "bios": "1682",
-      "date": "2026-06-26",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/X870%20MAX%20GAMING%20WIFI7%20W/helpdesk_bios/",
       "vendor": "asus"
     },
