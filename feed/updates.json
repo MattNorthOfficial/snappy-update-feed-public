@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-03T00:25:44Z",
+  "updated": "2026-10-06T01:44:25Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-03T00:25:45Z",
-    "amd.chipset": "2026-10-03T00:25:46Z",
-    "windowsBuilds": "2026-10-03T00:25:46Z",
-    "motherboards.msi": "2026-10-02T16:33:04Z",
-    "motherboards.gigabyte": "2026-10-02T16:33:04Z",
-    "motherboards.asrock": "2026-10-02T16:33:04Z",
-    "motherboards.asus": "2026-10-02T16:33:04Z",
-    "dell": "2026-10-03T00:25:53Z",
-    "intel.chipset": "2026-10-03T00:26:11Z",
-    "intel.arc": "2026-10-03T00:26:11Z",
-    "intel.xe": "2026-10-03T00:26:11Z",
-    "intel.rst20": "2026-10-03T00:26:11Z",
-    "intel.rst21": "2026-10-03T00:26:11Z",
-    "intel.chipsetInf": "2026-10-03T00:26:11Z",
-    "nvidia": "2026-10-03T00:26:12Z"
+    "amd.windows": "2026-10-06T01:44:27Z",
+    "amd.chipset": "2026-10-06T01:44:27Z",
+    "windowsBuilds": "2026-10-06T01:44:28Z",
+    "motherboards.msi": "2026-10-06T01:59:11Z",
+    "motherboards.gigabyte": "2026-10-06T01:59:11Z",
+    "motherboards.asrock": "2026-10-06T01:59:11Z",
+    "motherboards.asus": "2026-10-06T01:59:11Z",
+    "dell": "2026-10-06T01:59:19Z",
+    "intel.chipset": "2026-10-06T01:59:29Z",
+    "intel.arc": "2026-10-06T01:59:29Z",
+    "intel.xe": "2026-10-06T01:59:29Z",
+    "intel.rst20": "2026-10-06T01:59:29Z",
+    "intel.rst21": "2026-10-06T01:59:29Z",
+    "intel.chipsetInf": "2026-10-06T01:59:29Z",
+    "nvidia": "2026-10-06T01:59:31Z"
   },
   "amd": {
     "windows": {
@@ -371,26 +371,26 @@
       "vendor": "gigabyte"
     },
     "A620AM Pro RS": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/A620AM%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "A620AM Pro RS WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/A620AM%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "A620AM Pro-A": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/A620AM%20Pro-A/BIOS.html",
       "vendor": "asrock"
     },
     "A620AM Pro-A WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/A620AM%20Pro-A%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3416,26 +3416,26 @@
       "vendor": "msi"
     },
     "B850 Pro RS": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/B850%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "B850 Pro RS WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/B850%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B850 Pro-A": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/B850%20Pro-A/BIOS.html",
       "vendor": "asrock"
     },
     "B850 Pro-A WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/B850%20Pro-A%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3817,26 +3817,26 @@
       "vendor": "asrock"
     },
     "B860 Pro RS": {
-      "bios": "3.32",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "B860 Pro RS WiFi": {
-      "bios": "3.32",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860 Pro-A": {
-      "bios": "3.32",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860%20Pro-A/BIOS.html",
       "vendor": "asrock"
     },
     "B860 Pro-A WiFi": {
-      "bios": "3.32",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860%20Pro-A%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3865,8 +3865,8 @@
       "vendor": "asrock"
     },
     "B860I WiFi": {
-      "bios": "3.40",
-      "date": "2026-09-30",
+      "bios": "3.41",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860I%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3907,14 +3907,14 @@
       "vendor": "gigabyte"
     },
     "B860M Challenger WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Challenger%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B860M Challenger WiFi White": {
-      "bios": "3.31",
-      "date": "2026-07-20",
+      "bios": "3.40",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860M%20Challenger%20WiFi%20White/BIOS.html",
       "vendor": "asrock"
     },
@@ -4144,8 +4144,8 @@
       "vendor": "asrock"
     },
     "B860M-HDVP": {
-      "bios": "1.42",
-      "date": "2026-07-15",
+      "bios": "1.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/B860M-HDVP/BIOS.html",
       "vendor": "asrock"
     },
@@ -6578,44 +6578,44 @@
       "vendor": "gigabyte"
     },
     "H810M-H": {
-      "bios": "3.31",
-      "date": "2026-07-21",
+      "bios": "3.50",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-H/BIOS.html",
       "vendor": "asrock"
     },
     "H810M-HDVP": {
-      "bios": "1.42",
-      "date": "2026-07-21",
+      "bios": "1.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-HDVP/BIOS.html",
       "vendor": "asrock"
     },
     "H810M-P Gen5": {
-      "bios": "3.31",
-      "date": "2026-07-21",
+      "bios": "3.50",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-P%20Gen5/BIOS.html",
       "vendor": "asrock"
     },
     "H810M-X": {
-      "bios": "3.31",
-      "date": "2026-07-21",
+      "bios": "3.50",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-X/BIOS.html",
       "vendor": "asrock"
     },
     "H810M-X Gen5": {
-      "bios": "3.31",
-      "date": "2026-07-21",
+      "bios": "3.50",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-X%20Gen5/BIOS.html",
       "vendor": "asrock"
     },
     "H810M-X Gen5 WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-21",
+      "bios": "3.50",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-X%20Gen5%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "H810M-X WiFi": {
-      "bios": "3.31",
-      "date": "2026-07-21",
+      "bios": "3.50",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/Intel/H810M-X%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -14057,8 +14057,8 @@
       "vendor": "asus"
     },
     "X870 Nova WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-02",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://pg.asrock.com/mb/AMD/X870%20Nova%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -14093,8 +14093,8 @@
       "vendor": "asrock"
     },
     "X870 Taichi Creator": {
-      "bios": "4.50",
-      "date": "2026-08-27",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/X870%20Taichi%20Creator/BIOS.html",
       "vendor": "asrock"
     },
@@ -14193,14 +14193,14 @@
       "vendor": "gigabyte"
     },
     "X870E Challenger WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/X870E%20Challenger%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "X870E Challenger WiFi White": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/X870E%20Challenger%20WiFi%20White/BIOS.html",
       "vendor": "asrock"
     },
@@ -14223,20 +14223,20 @@
       "vendor": "msi"
     },
     "X870E Nova WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://pg.asrock.com/mb/AMD/X870E%20Nova%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "X870E Taichi": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/X870E%20Taichi/BIOS.html",
       "vendor": "asrock"
     },
     "X870E Taichi Lite": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/X870E%20Taichi%20Lite/BIOS.html",
       "vendor": "asrock"
     },
@@ -14247,8 +14247,8 @@
       "vendor": "asrock"
     },
     "X870E Taichi White": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-05",
       "url": "https://www.asrock.com/mb/AMD/X870E%20Taichi%20White/BIOS.html",
       "vendor": "asrock"
     },
