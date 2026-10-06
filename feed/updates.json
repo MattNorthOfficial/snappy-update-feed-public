@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-06T01:44:25Z",
+  "updated": "2026-10-06T16:54:44Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-06T01:44:27Z",
-    "amd.chipset": "2026-10-06T01:44:27Z",
-    "windowsBuilds": "2026-10-06T01:44:28Z",
-    "motherboards.msi": "2026-10-06T01:59:11Z",
-    "motherboards.gigabyte": "2026-10-06T01:59:11Z",
-    "motherboards.asrock": "2026-10-06T01:59:11Z",
-    "motherboards.asus": "2026-10-06T01:59:11Z",
-    "dell": "2026-10-06T01:59:19Z",
-    "intel.chipset": "2026-10-06T01:59:29Z",
-    "intel.arc": "2026-10-06T01:59:29Z",
-    "intel.xe": "2026-10-06T01:59:29Z",
-    "intel.rst20": "2026-10-06T01:59:29Z",
-    "intel.rst21": "2026-10-06T01:59:29Z",
-    "intel.chipsetInf": "2026-10-06T01:59:29Z",
-    "nvidia": "2026-10-06T01:59:31Z"
+    "amd.windows": "2026-10-06T16:54:45Z",
+    "amd.chipset": "2026-10-06T16:54:45Z",
+    "windowsBuilds": "2026-10-06T16:54:45Z",
+    "motherboards.msi": "2026-10-06T17:09:33Z",
+    "motherboards.gigabyte": "2026-10-06T17:09:33Z",
+    "motherboards.asrock": "2026-10-06T17:09:33Z",
+    "motherboards.asus": "2026-10-06T17:09:33Z",
+    "dell": "2026-10-06T17:09:38Z",
+    "intel.chipset": "2026-10-06T17:09:51Z",
+    "intel.arc": "2026-10-06T17:09:51Z",
+    "intel.xe": "2026-10-06T17:09:51Z",
+    "intel.rst20": "2026-10-06T17:09:51Z",
+    "intel.rst21": "2026-10-06T17:09:51Z",
+    "intel.chipsetInf": "2026-10-06T17:09:51Z",
+    "nvidia": "2026-10-06T17:09:51Z"
   },
   "amd": {
     "windows": {
@@ -22319,8 +22319,8 @@
     }
   },
   "nvidia": {
-    "gameReady": "617.14",
-    "url": "https://www.nvidia.com/en-us/drivers/details/279803/",
-    "download": "https://us.download.nvidia.com/Windows/617.14/617.14-desktop-win10-win11-64bit-international-dch-whql.exe"
+    "gameReady": "617.42",
+    "url": "https://www.nvidia.com/en-us/drivers/details/280103/",
+    "download": "https://us.download.nvidia.com/Windows/617.42/617.42-desktop-win10-win11-64bit-international-dch-whql.exe"
   }
 }
