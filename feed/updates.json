@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-08T17:34:11Z",
+  "updated": "2026-10-09T17:09:35Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-08T17:34:13Z",
-    "amd.chipset": "2026-10-08T17:34:14Z",
-    "windowsBuilds": "2026-10-08T17:34:14Z",
-    "motherboards.msi": "2026-10-08T17:49:48Z",
-    "motherboards.gigabyte": "2026-10-08T17:49:48Z",
-    "motherboards.asrock": "2026-10-08T17:49:48Z",
-    "motherboards.asus": "2026-10-08T17:49:48Z",
-    "dell": "2026-10-08T17:49:53Z",
-    "intel.chipset": "2026-10-08T17:50:01Z",
-    "intel.arc": "2026-10-08T17:50:01Z",
-    "intel.xe": "2026-10-08T17:50:01Z",
-    "intel.rst20": "2026-10-08T17:50:01Z",
-    "intel.rst21": "2026-10-08T17:50:01Z",
-    "intel.chipsetInf": "2026-10-08T17:50:01Z",
-    "nvidia": "2026-10-08T17:50:01Z"
+    "amd.windows": "2026-10-09T17:09:38Z",
+    "amd.chipset": "2026-10-09T17:09:38Z",
+    "windowsBuilds": "2026-10-09T17:09:39Z",
+    "motherboards.msi": "2026-10-09T17:32:46Z",
+    "motherboards.gigabyte": "2026-10-09T17:32:46Z",
+    "motherboards.asrock": "2026-10-09T17:32:46Z",
+    "motherboards.asus": "2026-10-09T17:32:46Z",
+    "dell": "2026-10-09T17:32:51Z",
+    "intel.chipset": "2026-10-09T17:33:00Z",
+    "intel.arc": "2026-10-09T17:33:00Z",
+    "intel.xe": "2026-10-09T17:33:00Z",
+    "intel.rst20": "2026-10-09T17:33:00Z",
+    "intel.rst21": "2026-10-09T17:33:00Z",
+    "intel.chipsetInf": "2026-10-09T17:33:00Z",
+    "nvidia": "2026-10-09T17:33:01Z"
   },
   "amd": {
     "windows": {
@@ -2432,8 +2432,8 @@
       "vendor": "gigabyte"
     },
     "B760 DS3H AC DDR4": {
-      "bios": "F16",
-      "date": "2026-06-12",
+      "bios": "F17",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B760-DS3H-AC-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -2450,8 +2450,8 @@
       "vendor": "gigabyte"
     },
     "B760 DS3H AX V2": {
-      "bios": "F9",
-      "date": "2026-06-12",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B760-DS3H-AX-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -2762,8 +2762,8 @@
       "vendor": "gigabyte"
     },
     "B760M DS3H DDR4": {
-      "bios": "F24",
-      "date": "2026-06-12",
+      "bios": "F25",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B760M-DS3H-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -14749,7 +14749,7 @@
       "bios": "F35",
       "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-GAMING-X-DDR4-rev-11/support#Support-Bios",
-      "revisionAmbiguous": true,
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z690 GAMING X DDR4 V2": {
@@ -15097,14 +15097,14 @@
       "vendor": "gigabyte"
     },
     "Z790 EAGLE": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-EAGLE-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z790 EAGLE AX": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-EAGLE-AX-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -15366,8 +15366,8 @@
       "vendor": "gigabyte"
     },
     "Z790M AORUS ELITE AX ICE": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790M-AORUS-ELITE-AX-ICE/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -15721,7 +15721,7 @@
         "bios": "F11",
         "date": "2026-09-29",
         "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-PLUS-WIFI-DDR4-rev-11/support#Support-Bios",
-        "revisionAmbiguous": true
+        "revisionsShareBios": true
       }
     },
     "B760M GAMING WIFI": {
