@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-09T17:09:35Z",
+  "updated": "2026-10-12T19:58:47Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-09T17:09:38Z",
-    "amd.chipset": "2026-10-09T17:09:38Z",
-    "windowsBuilds": "2026-10-09T17:09:39Z",
-    "motherboards.msi": "2026-10-09T17:32:46Z",
-    "motherboards.gigabyte": "2026-10-09T17:32:46Z",
-    "motherboards.asrock": "2026-10-09T17:32:46Z",
-    "motherboards.asus": "2026-10-09T17:32:46Z",
-    "dell": "2026-10-09T17:32:51Z",
-    "intel.chipset": "2026-10-09T17:33:00Z",
-    "intel.arc": "2026-10-09T17:33:00Z",
-    "intel.xe": "2026-10-09T17:33:00Z",
-    "intel.rst20": "2026-10-09T17:33:00Z",
-    "intel.rst21": "2026-10-09T17:33:00Z",
-    "intel.chipsetInf": "2026-10-09T17:33:00Z",
-    "nvidia": "2026-10-09T17:33:01Z"
+    "amd.windows": "2026-10-12T19:58:49Z",
+    "amd.chipset": "2026-10-12T19:58:50Z",
+    "windowsBuilds": "2026-10-12T19:58:50Z",
+    "motherboards.msi": "2026-10-12T20:12:50Z",
+    "motherboards.gigabyte": "2026-10-12T20:12:50Z",
+    "motherboards.asrock": "2026-10-12T20:12:50Z",
+    "motherboards.asus": "2026-10-12T20:12:50Z",
+    "dell": "2026-10-12T20:12:59Z",
+    "intel.chipset": "2026-10-12T20:13:10Z",
+    "intel.arc": "2026-10-12T20:13:10Z",
+    "intel.xe": "2026-10-12T20:13:10Z",
+    "intel.rst20": "2026-10-12T20:13:10Z",
+    "intel.rst21": "2026-10-12T20:13:10Z",
+    "intel.chipsetInf": "2026-10-12T20:13:10Z",
+    "nvidia": "2026-10-12T20:13:10Z"
   },
   "amd": {
     "windows": {
@@ -2058,8 +2058,8 @@
       "vendor": "asrock"
     },
     "B650M Pro X3D": {
-      "bios": "4.41",
-      "date": "2026-06-23",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro%20X3D/BIOS.html",
       "vendor": "asrock"
     },
@@ -2073,6 +2073,12 @@
       "bios": "4.43",
       "date": "2026-07-08",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro-A%20Gen5/BIOS.html",
+      "vendor": "asrock"
+    },
+    "B650M Pro-A Gen5 WiFi 6E": {
+      "bios": "4.43",
+      "date": "2026-10-07",
+      "url": "https://www.asrock.com/mb/AMD/B650M%20Pro-A%20Gen5%20WiFi%206E/BIOS.html",
       "vendor": "asrock"
     },
     "B650M PROJECT ZERO": {
@@ -3538,20 +3544,20 @@
       "vendor": "gigabyte"
     },
     "B850M Challenger": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Challenger/BIOS.html",
       "vendor": "asrock"
     },
     "B850M Challenger WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Challenger%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B850M Challenger WiFi White": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Challenger%20WiFi%20White/BIOS.html",
       "vendor": "asrock"
     },
@@ -3667,32 +3673,32 @@
       "vendor": "asrock"
     },
     "B850M Pro RS": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "B850M Pro RS WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B850M Pro RS WiFi White": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Pro%20RS%20WiFi%20White/BIOS.html",
       "vendor": "asrock"
     },
     "B850M Pro-A": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Pro-A/BIOS.html",
       "vendor": "asrock"
     },
     "B850M Pro-A WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Pro-A%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3703,8 +3709,8 @@
       "vendor": "asrock"
     },
     "B850M Rock WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-06",
+      "bios": "4.60",
+      "date": "2026-10-12",
       "url": "https://www.asrock.com/mb/AMD/B850M%20Rock%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
