@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-12T19:58:47Z",
+  "updated": "2026-10-13T02:33:01Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-12T19:58:49Z",
-    "amd.chipset": "2026-10-12T19:58:50Z",
-    "windowsBuilds": "2026-10-12T19:58:50Z",
+    "amd.windows": "2026-10-13T02:33:03Z",
+    "amd.chipset": "2026-10-13T02:33:03Z",
+    "windowsBuilds": "2026-10-13T02:33:04Z",
     "motherboards.msi": "2026-10-12T20:12:50Z",
     "motherboards.gigabyte": "2026-10-12T20:12:50Z",
     "motherboards.asrock": "2026-10-12T20:12:50Z",
     "motherboards.asus": "2026-10-12T20:12:50Z",
-    "dell": "2026-10-12T20:12:59Z",
-    "intel.chipset": "2026-10-12T20:13:10Z",
-    "intel.arc": "2026-10-12T20:13:10Z",
-    "intel.xe": "2026-10-12T20:13:10Z",
-    "intel.rst20": "2026-10-12T20:13:10Z",
-    "intel.rst21": "2026-10-12T20:13:10Z",
-    "intel.chipsetInf": "2026-10-12T20:13:10Z",
-    "nvidia": "2026-10-12T20:13:10Z"
+    "dell": "2026-10-13T02:33:13Z",
+    "intel.chipset": "2026-10-13T02:33:34Z",
+    "intel.arc": "2026-10-13T02:33:34Z",
+    "intel.xe": "2026-10-13T02:33:34Z",
+    "intel.rst20": "2026-10-13T02:33:34Z",
+    "intel.rst21": "2026-10-13T02:33:34Z",
+    "intel.chipsetInf": "2026-10-13T02:33:34Z",
+    "nvidia": "2026-10-13T02:33:35Z"
   },
   "amd": {
     "windows": {
@@ -19317,9 +19317,9 @@
       "download": "https://downloadmirror.intel.com/925343/SetupChipset.exe"
     },
     "arc": {
-      "version": "32.0.101.9034",
+      "version": "32.0.101.9150",
       "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-      "download": "https://downloadmirror.intel.com/929959/gfx_win_101.9034.exe"
+      "download": "https://downloadmirror.intel.com/930514/gfx_win_101.9150.exe"
     },
     "xe": {
       "version": "32.0.101.7092",
