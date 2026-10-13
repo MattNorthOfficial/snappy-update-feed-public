@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-13T02:33:01Z",
+  "updated": "2026-10-13T17:46:25Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-13T02:33:03Z",
-    "amd.chipset": "2026-10-13T02:33:03Z",
-    "windowsBuilds": "2026-10-13T02:33:04Z",
-    "motherboards.msi": "2026-10-12T20:12:50Z",
-    "motherboards.gigabyte": "2026-10-12T20:12:50Z",
-    "motherboards.asrock": "2026-10-12T20:12:50Z",
+    "amd.windows": "2026-10-13T17:46:26Z",
+    "amd.chipset": "2026-10-13T17:46:26Z",
+    "windowsBuilds": "2026-10-13T17:46:27Z",
+    "motherboards.msi": "2026-10-13T18:07:50Z",
+    "motherboards.gigabyte": "2026-10-13T18:07:50Z",
+    "motherboards.asrock": "2026-10-13T18:07:50Z",
     "motherboards.asus": "2026-10-12T20:12:50Z",
-    "dell": "2026-10-13T02:33:13Z",
-    "intel.chipset": "2026-10-13T02:33:34Z",
-    "intel.arc": "2026-10-13T02:33:34Z",
-    "intel.xe": "2026-10-13T02:33:34Z",
-    "intel.rst20": "2026-10-13T02:33:34Z",
-    "intel.rst21": "2026-10-13T02:33:34Z",
-    "intel.chipsetInf": "2026-10-13T02:33:34Z",
-    "nvidia": "2026-10-13T02:33:35Z"
+    "dell": "2026-10-13T18:07:53Z",
+    "intel.chipset": "2026-10-13T18:08:05Z",
+    "intel.arc": "2026-10-13T18:08:05Z",
+    "intel.xe": "2026-10-13T18:08:05Z",
+    "intel.rst20": "2026-10-13T18:08:05Z",
+    "intel.rst21": "2026-10-13T18:08:05Z",
+    "intel.chipsetInf": "2026-10-13T18:08:05Z",
+    "nvidia": "2026-10-13T18:08:06Z"
   },
   "amd": {
     "windows": {
@@ -1739,8 +1739,8 @@
       "vendor": "asrock"
     },
     "B650 Steel Legend WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-13",
       "url": "https://www.asrock.com/mb/AMD/B650%20Steel%20Legend%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -2064,8 +2064,8 @@
       "vendor": "asrock"
     },
     "B650M Pro X3D WiFi": {
-      "bios": "4.41",
-      "date": "2026-06-23",
+      "bios": "4.60",
+      "date": "2026-10-13",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro%20X3D%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3176,6 +3176,12 @@
       "url": "https://www.asrock.com/mb/Intel/B760M-X%20D4%20Gen5/BIOS.html",
       "vendor": "asrock"
     },
+    "B760M-X D5 Gen5": {
+      "bios": "1.09",
+      "date": "2026-08-26",
+      "url": "https://www.asrock.com/mb/Intel/B760M-X%20D5%20Gen5/BIOS.html",
+      "vendor": "asrock"
+    },
     "B760M-X Gen5": {
       "bios": "3.02",
       "date": "2026-07-14",
@@ -3452,8 +3458,8 @@
       "vendor": "asrock"
     },
     "B850 Riptide WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-07",
       "url": "https://pg.asrock.com/mb/AMD/B850%20Riptide%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -14010,14 +14016,14 @@
       "vendor": "asus"
     },
     "X870 Challenger WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-07",
       "url": "https://www.asrock.com/mb/AMD/X870%20Challenger%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "X870 Challenger WiFi White": {
-      "bios": "4.43",
-      "date": "2026-07-01",
+      "bios": "4.60",
+      "date": "2026-10-07",
       "url": "https://www.asrock.com/mb/AMD/X870%20Challenger%20WiFi%20White/BIOS.html",
       "vendor": "asrock"
     },
@@ -14051,8 +14057,8 @@
       "vendor": "gigabyte"
     },
     "X870 LiveMixer WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-02",
+      "bios": "4.60",
+      "date": "2026-10-07",
       "url": "https://www.asrock.com/mb/AMD/X870%20LiveMixer%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -14099,8 +14105,8 @@
       "vendor": "asrock"
     },
     "X870 Steel Legend WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-02",
+      "bios": "4.60",
+      "date": "2026-10-07",
       "url": "https://www.asrock.com/mb/AMD/X870%20Steel%20Legend%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
