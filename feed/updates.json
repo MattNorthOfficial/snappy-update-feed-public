@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-13T17:46:25Z",
+  "updated": "2026-10-13T23:06:18Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-13T17:46:26Z",
-    "amd.chipset": "2026-10-13T17:46:26Z",
-    "windowsBuilds": "2026-10-13T17:46:27Z",
+    "amd.windows": "2026-10-13T23:06:20Z",
+    "amd.chipset": "2026-10-13T23:06:20Z",
+    "windowsBuilds": "2026-10-13T23:06:21Z",
     "motherboards.msi": "2026-10-13T18:07:50Z",
     "motherboards.gigabyte": "2026-10-13T18:07:50Z",
     "motherboards.asrock": "2026-10-13T18:07:50Z",
     "motherboards.asus": "2026-10-12T20:12:50Z",
-    "dell": "2026-10-13T18:07:53Z",
-    "intel.chipset": "2026-10-13T18:08:05Z",
-    "intel.arc": "2026-10-13T18:08:05Z",
-    "intel.xe": "2026-10-13T18:08:05Z",
-    "intel.rst20": "2026-10-13T18:08:05Z",
-    "intel.rst21": "2026-10-13T18:08:05Z",
-    "intel.chipsetInf": "2026-10-13T18:08:05Z",
-    "nvidia": "2026-10-13T18:08:06Z"
+    "dell": "2026-10-13T23:06:29Z",
+    "intel.chipset": "2026-10-13T23:06:42Z",
+    "intel.arc": "2026-10-13T23:06:42Z",
+    "intel.xe": "2026-10-13T23:06:42Z",
+    "intel.rst20": "2026-10-13T23:06:42Z",
+    "intel.rst21": "2026-10-13T23:06:42Z",
+    "intel.chipsetInf": "2026-10-13T23:06:42Z",
+    "nvidia": "2026-10-13T23:06:43Z"
   },
   "amd": {
     "windows": {
@@ -65,36 +65,37 @@
   },
   "windowsBuilds": {
     "26H2": {
-      "build": "26300.9457",
-      "date": "2026-09-29",
+      "build": "26300.9711",
+      "date": "2026-10-13",
+      "kb": "KB5127648",
       "eosHome": "2028-10-10",
       "eosEnterprise": "2029-10-09"
     },
     "26H1": {
-      "build": "28000.2956",
-      "date": "2026-09-14",
-      "kb": "KB5129194",
+      "build": "28000.3231",
+      "date": "2026-10-13",
+      "kb": "KB5127646",
       "eosHome": "2028-03-14",
       "eosEnterprise": "2029-03-13"
     },
     "25H2": {
-      "build": "26200.9457",
-      "date": "2026-09-14",
-      "kb": "KB5129195",
+      "build": "26200.9711",
+      "date": "2026-10-13",
+      "kb": "KB5127648",
       "eosHome": "2027-10-12",
       "eosEnterprise": "2028-10-10"
     },
     "24H2": {
-      "build": "26100.9457",
-      "date": "2026-09-14",
-      "kb": "KB5129195",
+      "build": "26100.9711",
+      "date": "2026-10-13",
+      "kb": "KB5127648",
       "eosHome": "2026-10-13",
       "eosEnterprise": "2027-10-12"
     },
     "23H2": {
-      "build": "22631.7584",
-      "date": "2026-09-14",
-      "kb": "KB5129242",
+      "build": "22631.7652",
+      "date": "2026-10-13",
+      "kb": "KB5126653",
       "eosHome": "2025-11-11",
       "eosEnterprise": "2026-11-10"
     },
