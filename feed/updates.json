@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-13T23:06:18Z",
+  "updated": "2026-10-14T15:25:02Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-13T23:06:20Z",
-    "amd.chipset": "2026-10-13T23:06:20Z",
-    "windowsBuilds": "2026-10-13T23:06:21Z",
-    "motherboards.msi": "2026-10-13T18:07:50Z",
-    "motherboards.gigabyte": "2026-10-13T18:07:50Z",
-    "motherboards.asrock": "2026-10-13T18:07:50Z",
+    "amd.windows": "2026-10-14T15:25:04Z",
+    "amd.chipset": "2026-10-14T15:25:04Z",
+    "windowsBuilds": "2026-10-14T15:25:04Z",
+    "motherboards.msi": "2026-10-14T15:44:10Z",
+    "motherboards.gigabyte": "2026-10-14T15:44:10Z",
+    "motherboards.asrock": "2026-10-14T15:44:10Z",
     "motherboards.asus": "2026-10-12T20:12:50Z",
-    "dell": "2026-10-13T23:06:29Z",
-    "intel.chipset": "2026-10-13T23:06:42Z",
-    "intel.arc": "2026-10-13T23:06:42Z",
-    "intel.xe": "2026-10-13T23:06:42Z",
-    "intel.rst20": "2026-10-13T23:06:42Z",
-    "intel.rst21": "2026-10-13T23:06:42Z",
-    "intel.chipsetInf": "2026-10-13T23:06:42Z",
-    "nvidia": "2026-10-13T23:06:43Z"
+    "dell": "2026-10-14T15:44:13Z",
+    "intel.chipset": "2026-10-14T15:44:24Z",
+    "intel.arc": "2026-10-14T15:44:24Z",
+    "intel.xe": "2026-10-14T15:44:24Z",
+    "intel.rst20": "2026-10-14T15:44:24Z",
+    "intel.rst21": "2026-10-14T15:44:24Z",
+    "intel.chipsetInf": "2026-10-14T15:44:24Z",
+    "nvidia": "2026-10-14T15:44:24Z"
   },
   "amd": {
     "windows": {
@@ -2265,62 +2265,62 @@
       "vendor": "gigabyte"
     },
     "B660M DS3H AX DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-DS3H-AX-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M DS3H DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-DS3H-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING AC": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-AC-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING AC DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-AC-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING X": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-X-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING X AX": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-X-AX-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING X AX DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-X-AX-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M GAMING X DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-GAMING-X-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "B660M K DDR4": {
-      "bios": "F8",
-      "date": "2026-06-12",
+      "bios": "F9",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-K-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -2337,8 +2337,8 @@
       "vendor": "asrock"
     },
     "B660M POWER DDR4": {
-      "bios": "F35",
-      "date": "2026-06-12",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B660M-POWER-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -6174,14 +6174,14 @@
       "vendor": "asrock"
     },
     "H610I": {
-      "bios": "F14",
-      "date": "2026-06-30",
+      "bios": "F15",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610I-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610I DDR4": {
-      "bios": "F37",
-      "date": "2026-06-30",
+      "bios": "F38",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610I-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -6198,173 +6198,173 @@
       "vendor": "asrock"
     },
     "H610M D3H DDR4": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-D3H-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M D3H WIFI DDR4": {
-      "bios": "F6",
-      "date": "2026-06-30",
+      "bios": "F7",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-D3H-WIFI-DDR4/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M D3W": {
-      "bios": "F4",
-      "date": "2026-06-30",
+      "bios": "F5",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-D3W-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M D3W DDR4": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-D3W-DDR4-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M D3W WIFI6": {
-      "bios": "F4",
-      "date": "2026-06-30",
+      "bios": "F5",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-D3W-WIFI6-rev-11/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M GAMING WIFI DDR4": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-GAMING-WIFI-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M H": {
-      "bios": "F14",
-      "date": "2026-06-30",
+      "bios": "F15",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-H-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M H DDR4": {
-      "bios": "F34",
-      "date": "2026-06-30",
+      "bios": "F35",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-H-DDR4-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M H GEN5": {
-      "bios": "F3",
-      "date": "2026-06-30",
+      "bios": "F4",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-H-GEN5/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M H V2": {
-      "bios": "F9",
-      "date": "2026-06-30",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-H-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M H V2 DDR4": {
-      "bios": "F35",
-      "date": "2026-06-30",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-H-V2-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M H V3 DDR4": {
-      "bios": "F9",
-      "date": "2026-06-30",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-H-V3-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M HD3P": {
-      "bios": "F35",
-      "date": "2026-06-30",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-HD3P-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M K": {
-      "bios": "F14",
-      "date": "2026-06-30",
+      "bios": "F15",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-K-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M K DDR4": {
-      "bios": "F34",
-      "date": "2026-06-30",
-      "url": "https://www.gigabyte.com/Motherboard/H610M-K-DDR4-rev-10/support#Support-Bios",
+      "bios": "FJ",
+      "date": "2026-09-29",
+      "url": "https://www.gigabyte.com/Motherboard/H610M-K-DDR4-rev-20/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M K DDR4 GEN5": {
-      "bios": "F2",
-      "date": "2026-06-30",
+      "bios": "F3",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-K-DDR4-GEN5/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M K GEN5": {
-      "bios": "F2",
-      "date": "2026-06-30",
+      "bios": "F3",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-K-GEN5/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M K V2": {
-      "bios": "F9",
-      "date": "2026-06-30",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-K-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M S2": {
-      "bios": "F14",
-      "date": "2026-06-30",
+      "bios": "F15",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M S2 DDR4": {
-      "bios": "F34",
-      "date": "2026-06-30",
+      "bios": "F35",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2-DDR4-rev-11-13/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M S2 V2 DDR4": {
-      "bios": "F35",
-      "date": "2026-06-30",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2-V2-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M S2 V3 DDR4": {
-      "bios": "F9",
-      "date": "2026-06-30",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2-V3-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M S2H": {
-      "bios": "F14",
-      "date": "2026-06-30",
+      "bios": "F15",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2H-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M S2H DDR4": {
-      "bios": "F34",
-      "date": "2026-06-30",
+      "bios": "F35",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2H-DDR4-rev-10/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
     "H610M S2H V2": {
-      "bios": "F9",
-      "date": "2026-06-30",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2H-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M S2H V2 DDR4": {
-      "bios": "F35",
-      "date": "2026-06-30",
+      "bios": "F36",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2H-V2-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "H610M S2H V3 DDR4": {
-      "bios": "F9",
-      "date": "2026-06-30",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/H610M-S2H-V3-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -14844,50 +14844,50 @@
       "vendor": "asrock"
     },
     "Z690 UD": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD AC": {
-      "bios": "F34",
-      "date": "2026-06-30",
+      "bios": "F35",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-AC-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD AX": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-AX-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD AX DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-AX-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD AX DDR4 V2": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-AX-DDR4-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD AX V2": {
-      "bios": "F7",
-      "date": "2026-06-30",
+      "bios": "F8",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-AX-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690 UD DDR4 V2": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690-UD-DDR4-V2-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -14910,38 +14910,38 @@
       "vendor": "gigabyte"
     },
     "Z690I AORUS ULTRA LITE DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690I-AORUS-ULTRA-LITE-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690I AORUS ULTRA PLUS": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690I-AORUS-ULTRA-PLUS-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690I AORUS ULTRA PLUS DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690I-AORUS-ULTRA-PLUS-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690M AORUS ELITE AX DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690M-AORUS-ELITE-AX-DDR4-rev-1x/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690M AORUS ELITE DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690M-AORUS-ELITE-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
     "Z690M DS3H DDR4": {
-      "bios": "F33",
-      "date": "2026-06-30",
+      "bios": "F34",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z690M-DS3H-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
