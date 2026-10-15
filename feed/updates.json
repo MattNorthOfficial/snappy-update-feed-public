@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-14T15:25:02Z",
+  "updated": "2026-10-15T15:18:37Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-14T15:25:04Z",
-    "amd.chipset": "2026-10-14T15:25:04Z",
-    "windowsBuilds": "2026-10-14T15:25:04Z",
-    "motherboards.msi": "2026-10-14T15:44:10Z",
-    "motherboards.gigabyte": "2026-10-14T15:44:10Z",
-    "motherboards.asrock": "2026-10-14T15:44:10Z",
+    "amd.windows": "2026-10-15T15:18:40Z",
+    "amd.chipset": "2026-10-15T15:18:40Z",
+    "windowsBuilds": "2026-10-15T15:18:41Z",
+    "motherboards.msi": "2026-10-15T15:30:51Z",
+    "motherboards.gigabyte": "2026-10-15T15:30:51Z",
+    "motherboards.asrock": "2026-10-15T15:30:51Z",
     "motherboards.asus": "2026-10-12T20:12:50Z",
-    "dell": "2026-10-14T15:44:13Z",
-    "intel.chipset": "2026-10-14T15:44:24Z",
-    "intel.arc": "2026-10-14T15:44:24Z",
-    "intel.xe": "2026-10-14T15:44:24Z",
-    "intel.rst20": "2026-10-14T15:44:24Z",
-    "intel.rst21": "2026-10-14T15:44:24Z",
-    "intel.chipsetInf": "2026-10-14T15:44:24Z",
-    "nvidia": "2026-10-14T15:44:24Z"
+    "dell": "2026-10-15T15:30:56Z",
+    "intel.chipset": "2026-10-15T15:31:06Z",
+    "intel.arc": "2026-10-15T15:31:06Z",
+    "intel.xe": "2026-10-15T15:31:06Z",
+    "intel.rst20": "2026-10-15T15:31:06Z",
+    "intel.rst21": "2026-10-15T15:31:06Z",
+    "intel.chipsetInf": "2026-10-15T15:31:06Z",
+    "nvidia": "2026-10-15T15:31:07Z"
   },
   "amd": {
     "windows": {
@@ -3484,8 +3484,8 @@
       "vendor": "gigabyte"
     },
     "B850I Lightning WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-07",
+      "bios": "4.60",
+      "date": "2026-10-15",
       "url": "https://pg.asrock.com/mb/AMD/B850I%20Lightning%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3752,8 +3752,8 @@
       "vendor": "asrock"
     },
     "B850M-X R2.0": {
-      "bios": "4.43",
-      "date": "2026-07-06",
+      "bios": "4.60",
+      "date": "2026-10-15",
       "url": "https://www.asrock.com/mb/AMD/B850M-X%20R2.0/BIOS.html",
       "vendor": "asrock"
     },
@@ -3764,8 +3764,8 @@
       "vendor": "asrock"
     },
     "B850M-X WiFi R2.0": {
-      "bios": "4.43",
-      "date": "2026-07-06",
+      "bios": "4.60",
+      "date": "2026-10-15",
       "url": "https://www.asrock.com/mb/AMD/B850M-X%20WiFi%20R2.0/BIOS.html",
       "vendor": "asrock"
     },
