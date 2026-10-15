@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-15T15:18:37Z",
+  "updated": "2026-10-15T20:39:36Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-15T15:18:40Z",
-    "amd.chipset": "2026-10-15T15:18:40Z",
-    "windowsBuilds": "2026-10-15T15:18:41Z",
+    "amd.windows": "2026-10-15T20:39:39Z",
+    "amd.chipset": "2026-10-15T20:39:40Z",
+    "windowsBuilds": "2026-10-15T20:39:40Z",
     "motherboards.msi": "2026-10-15T15:30:51Z",
     "motherboards.gigabyte": "2026-10-15T15:30:51Z",
     "motherboards.asrock": "2026-10-15T15:30:51Z",
-    "motherboards.asus": "2026-10-12T20:12:50Z",
-    "dell": "2026-10-15T15:30:56Z",
-    "intel.chipset": "2026-10-15T15:31:06Z",
-    "intel.arc": "2026-10-15T15:31:06Z",
-    "intel.xe": "2026-10-15T15:31:06Z",
-    "intel.rst20": "2026-10-15T15:31:06Z",
-    "intel.rst21": "2026-10-15T15:31:06Z",
-    "intel.chipsetInf": "2026-10-15T15:31:06Z",
-    "nvidia": "2026-10-15T15:31:07Z"
+    "motherboards.asus": "2026-10-15T20:45:46Z",
+    "dell": "2026-10-15T20:45:53Z",
+    "intel.chipset": "2026-10-15T20:46:04Z",
+    "intel.arc": "2026-10-15T20:46:04Z",
+    "intel.xe": "2026-10-15T20:46:04Z",
+    "intel.rst20": "2026-10-15T20:46:04Z",
+    "intel.rst21": "2026-10-15T20:46:04Z",
+    "intel.chipsetInf": "2026-10-15T20:46:04Z",
+    "nvidia": "2026-10-15T20:46:05Z"
   },
   "amd": {
     "windows": {
@@ -11708,8 +11708,8 @@
       "vendor": "asus"
     },
     "ROG STRIX B460-I GAMING": {
-      "bios": "2003",
-      "date": "2026-03-06",
+      "bios": "2101",
+      "date": "2026-10-14",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B460-I%20GAMING/helpdesk_bios/",
       "vendor": "asus"
     },
