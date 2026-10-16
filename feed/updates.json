@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-15T20:39:36Z",
+  "updated": "2026-10-16T14:59:14Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-15T20:39:39Z",
-    "amd.chipset": "2026-10-15T20:39:40Z",
-    "windowsBuilds": "2026-10-15T20:39:40Z",
-    "motherboards.msi": "2026-10-15T15:30:51Z",
-    "motherboards.gigabyte": "2026-10-15T15:30:51Z",
-    "motherboards.asrock": "2026-10-15T15:30:51Z",
-    "motherboards.asus": "2026-10-15T20:45:46Z",
-    "dell": "2026-10-15T20:45:53Z",
-    "intel.chipset": "2026-10-15T20:46:04Z",
-    "intel.arc": "2026-10-15T20:46:04Z",
-    "intel.xe": "2026-10-15T20:46:04Z",
-    "intel.rst20": "2026-10-15T20:46:04Z",
-    "intel.rst21": "2026-10-15T20:46:04Z",
-    "intel.chipsetInf": "2026-10-15T20:46:04Z",
-    "nvidia": "2026-10-15T20:46:05Z"
+    "amd.windows": "2026-10-16T14:59:16Z",
+    "amd.chipset": "2026-10-16T14:59:17Z",
+    "windowsBuilds": "2026-10-16T14:59:17Z",
+    "motherboards.msi": "2026-10-16T15:17:13Z",
+    "motherboards.gigabyte": "2026-10-16T15:17:13Z",
+    "motherboards.asrock": "2026-10-16T15:17:13Z",
+    "motherboards.asus": "2026-10-16T15:17:13Z",
+    "dell": "2026-10-16T15:17:18Z",
+    "intel.chipset": "2026-10-16T15:17:29Z",
+    "intel.arc": "2026-10-16T15:17:29Z",
+    "intel.xe": "2026-10-16T15:17:29Z",
+    "intel.rst20": "2026-10-16T15:17:29Z",
+    "intel.rst21": "2026-10-16T15:17:29Z",
+    "intel.chipsetInf": "2026-10-16T15:17:29Z",
+    "nvidia": "2026-10-16T15:17:30Z"
   },
   "amd": {
     "windows": {
@@ -275,8 +275,8 @@
       "vendor": "asrock"
     },
     "A520M PRO": {
-      "bios": "7D14v1O2",
-      "date": "2026-08-21",
+      "bios": "7D14v1O",
+      "date": "2026-10-16",
       "vendor": "msi"
     },
     "A520M PRO-C DASH": {
@@ -414,14 +414,14 @@
       "vendor": "asrock"
     },
     "A620AM-X": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-16",
       "url": "https://www.asrock.com/mb/AMD/A620AM-X/BIOS.html",
       "vendor": "asrock"
     },
     "A620AM-X WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-16",
       "url": "https://www.asrock.com/mb/AMD/A620AM-X%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -3288,8 +3288,8 @@
       "vendor": "gigabyte"
     },
     "B840M MAX GAMING AX": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B840M%20MAX%20GAMING%20AX/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -3412,20 +3412,20 @@
       "vendor": "asrock"
     },
     "B850 MAX GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B850%20MAX%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "B850 MAX GAMING WIFI W": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B850%20MAX%20GAMING%20WIFI%20W/helpdesk_bios/",
       "vendor": "asus"
     },
     "B850 MAX GAMING WIFI-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B850%20MAX%20GAMING%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -3533,8 +3533,8 @@
       "vendor": "gigabyte"
     },
     "B850M AYW GAMING OC WIFI7 W": {
-      "bios": "1688",
-      "date": "2026-07-28",
+      "bios": "1805",
+      "date": "2026-10-16",
       "url": "https://www.asus.com/supportonly/B850M%20AYW%20GAMING%20OC%20WIFI7%20W/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -3668,8 +3668,8 @@
       "vendor": "gigabyte"
     },
     "B850M MAX GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B850M%20MAX%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -3734,14 +3734,14 @@
       "vendor": "asrock"
     },
     "B850M-E AYW GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B850M-E%20AYW%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "B850M-E AYW GAMING WIFI-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/B850M-E%20AYW%20GAMING%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -8553,26 +8553,26 @@
       "vendor": "asus"
     },
     "PRIME B840M-A": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B840M-A/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B840M-A WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B840M-A%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B840M-A WIFI-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B840M-A%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B840M-A-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B840M-A-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -8589,62 +8589,62 @@
       "vendor": "asus"
     },
     "PRIME B840M-R": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-07-02",
       "url": "https://www.asus.com/supportonly/PRIME%20B840M-R/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B840M-R-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-07-02",
       "url": "https://www.asus.com/supportonly/PRIME%20B840M-R-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850-PLUS": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850-PLUS/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850-PLUS WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850-PLUS WIFI-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850-PLUS%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850-PLUS-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850-PLUS-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850M-A": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850M-A/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850M-A WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850M-A%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850M-A WIFI-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850M-A%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B850M-A-CSM": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B850M-A-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -9872,8 +9872,8 @@
       "vendor": "asus"
     },
     "PRO A520M WIFI6E": {
-      "bios": "7D14v1O2",
-      "date": "2026-08-21",
+      "bios": "7D14v1O",
+      "date": "2026-10-16",
       "vendor": "msi"
     },
     "Pro A520M-C II/CSM": {
@@ -9948,13 +9948,13 @@
       "vendor": "msi"
     },
     "PRO B550-S": {
-      "bios": "7C56vQ1",
-      "date": "2026-07-27",
+      "bios": "7C56vQ2",
+      "date": "2026-10-16",
       "vendor": "msi"
     },
     "PRO B550-S WIFI6E": {
-      "bios": "7C56vQ1",
-      "date": "2026-07-27",
+      "bios": "7C56vQ2",
+      "date": "2026-10-16",
       "vendor": "msi"
     },
     "PRO B550-VC": {
@@ -10575,8 +10575,8 @@
       "vendor": "asus"
     },
     "Pro H610M-CT2 D4-CSM": {
-      "bios": "4003",
-      "date": "2026-06-10",
+      "bios": "4005",
+      "date": "2026-10-15",
       "url": "https://www.asus.com/supportonly/Pro%20H610M-CT2%20D4-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11876,50 +11876,50 @@
       "vendor": "asus"
     },
     "ROG STRIX B850-A GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B850-A GAMING WIFI7 NEO": {
-      "bios": "1688",
-      "date": "2026-07-28",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-A%20GAMING%20WIFI7%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B850-E GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1805",
+      "date": "2026-10-16",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-E%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B850-F GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B850-F GAMING WIFI7 NEO": {
-      "bios": "1688",
-      "date": "2026-07-28",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-F%20GAMING%20WIFI7%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B850-G GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-G%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B850-I GAMING WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1805",
+      "date": "2026-10-16",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B850-I%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG Strix B850-I Gaming WiFi7 W": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1805",
+      "date": "2026-10-16",
       "url": "https://www.asus.com/supportonly/ROG%20Strix%20B850-I%20Gaming%20WiFi7%20W/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13006,26 +13006,26 @@
       "vendor": "asus"
     },
     "TUF GAMING B850-BTF WIFI W": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B850-BTF%20WIFI%20W/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING B850-E WIFI": {
-      "bios": "1683",
-      "date": "2026-07-02",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B850-E%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING B850-PLUS WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B850-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING B850-PRO WIFI7 W NEO": {
-      "bios": "1688",
-      "date": "2026-07-28",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B850-PRO%20WIFI7%20W%20NEO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13036,14 +13036,14 @@
       "vendor": "asus"
     },
     "TUF GAMING B850M WIFI": {
-      "bios": "1681",
-      "date": "2026-08-04",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B850M%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING B850M-E WIFI": {
-      "bios": "1681",
-      "date": "2026-06-22",
+      "bios": "1804",
+      "date": "2026-09-21",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B850M-E%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -14260,8 +14260,8 @@
       "vendor": "asrock"
     },
     "X870E Taichi OCF": {
-      "bios": "4.43",
-      "date": "2026-07-03",
+      "bios": "4.60",
+      "date": "2026-10-16",
       "url": "https://www.asrock.com/mb/AMD/X870E%20Taichi%20OCF/BIOS.html",
       "vendor": "asrock"
     },
