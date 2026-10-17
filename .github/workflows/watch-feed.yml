@@ -11,7 +11,8 @@ name: Watch the feed
 # than beside the producer for that reason: it has to keep working when the
 # producer does not, and a public repository's runs cost it nothing.
 #
-# It reads the files in this repository, which is what the app reads.
+# It reads the files in this repository, which is what the app reads, and
+# holds the key fingerprint the README publishes to the key beside them.
 #
 # Two ages, because a producer can stop in two ways. The whole thing can stop
 # - nothing runs, so checked.json stops moving. Or the quick runs can go on
@@ -46,17 +47,29 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: The feed was checked recently, every section is current, and it still verifies
+      - name: The feed was checked recently, every section is current, it still verifies, and the README names its key
         shell: pwsh
         run: |
           $ErrorActionPreference = 'Stop'
 
           # The producer writes checked.json on every run, six hours apart.
-          # Measured over the 99 runs from 2026-09-01 to 2026-09-21 the gap
-          # between them had a median of 4.6 hours and never passed 8.4, so
-          # eighteen is more than twice the worst lateness seen: it cannot
-          # fire on a slow cron, and it fires within a day of a real stop.
-          $maxAgeHours = 18
+          # Measured on 2026-10-17 over every `checked` this repository has
+          # published (261 runs, 2026-08-28 to 2026-10-17): the gap between
+          # them had a median of 4.5 hours, a 95th percentile of 8.4, and,
+          # outside the one outage (24.1 hours from 2026-09-23, the Actions
+          # allowance spent), never passed 12.0. Twelve is new since the
+          # last measurement (8.4, to 2026-09-21): in October GitHub started
+          # no run at all for a scheduled slot several times, and a dropped
+          # slot with the next one late made gaps of 9 to 12 hours.
+          # Twenty-four is twice that, so it cannot fire on a slow or
+          # skipped cron. The cost is reach: this job's own runs have come
+          # up to about twelve hours apart, so a real stop is reported a day
+          # to a day and a half after the last check, and a stop that ends
+          # within about a day may not be reported at all: the 2026-09-23
+          # one went red at eighteen (20.4 hours, 08:29 the next morning),
+          # but no run of this job fell in the six minutes it spent past
+          # twenty-four.
+          $maxAgeHours = 24
 
           # Each section's own stamp against `checked`, with the limit and the
           # rounding the producer's freshness gate uses. A board vendor is
@@ -64,7 +77,11 @@ jobs:
           # is two days of both missed. Under the app's three on purpose: the
           # app measures against the moment it looks, this only at `checked`,
           # and at three the app's About page could turn amber before this
-          # went red.
+          # went red. Measured on 2026-10-17 over the same 261 runs: since the
+          # daily sweep began (2026-09-25) no section has been more than 1.4
+          # days behind `checked` except ASUS from 2026-10-15 (2.7 to 2.9
+          # days, its BIOS API answering FAIL for every board), which this
+          # caught.
           $maxSectionAgeDays = 2.5
 
           function Test-Signature([string] $file, [string] $signatureFile) {
@@ -93,6 +110,41 @@ jobs:
             }
             elseif (-not (Test-Signature $pair.File $pair.Signature)) {
               $problems += "$($pair.File) does not verify against feed/public-key.txt."
+            }
+          }
+
+          # The README publishes the key's SHA-256 fingerprint for anyone
+          # checking a key they obtained some other way. The checks above
+          # verify against feed/public-key.txt itself, so they would pass on
+          # a key replaced together with files re-signed under it; the
+          # README's figure is the one thing here that names the key on its
+          # own. It is also kept by hand, and a key rotation that forgets it
+          # leaves the README contradicting the real key. Computed the way
+          # the README says, and the way Rotate-FeedSigningKey.ps1 prints it:
+          # SHA-256 over the SubjectPublicKeyInfo DER that public-key.txt
+          # decodes to, not over the text file, in lowercase hex. The figure
+          # is the first fenced block after the words "SHA-256 fingerprint".
+          if (-not (Test-Path feed/public-key.txt)) {
+            $problems += "feed/public-key.txt is missing."
+          }
+          else {
+            $readme = Get-Content README.md -Raw
+            $block = [regex]::Match($readme, '(?s)SHA-256 fingerprint.*?\n```[^\n]*\n(?<value>(?:[^\n]*\n)*?)```')
+            $readmeFingerprint = $block.Groups['value'].Value.Trim()
+            $keyFingerprint = [Convert]::ToHexString([System.Security.Cryptography.SHA256]::HashData(
+                [Convert]::FromBase64String((Get-Content feed/public-key.txt -Raw).Trim()))).ToLowerInvariant()
+            if ($readmeFingerprint -notmatch '^[0-9a-fA-F]{64}$') {
+              $problems += "README.md gives no readable SHA-256 fingerprint for the feed's public key ('$readmeFingerprint')."
+            }
+            elseif ($readmeFingerprint.ToLowerInvariant() -ne $keyFingerprint) {
+              $problems += ("README.md gives the public key's SHA-256 fingerprint as {0}, but feed/public-key.txt's is {1}. " +
+                'Either the key was rotated and the README was not, or the key here is not the one the README vouches for: ' +
+                'compare it with the copy the app ships (Data/feed-public-key.txt) before changing either.') -f $readmeFingerprint, $keyFingerprint
+            }
+            else {
+              $line = "Public key fingerprint $keyFingerprint matches the README."
+              Write-Host $line
+              $line | Out-File $env:GITHUB_STEP_SUMMARY -Append
             }
           }
 
