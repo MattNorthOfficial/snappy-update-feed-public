@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-18T14:08:01Z",
+  "updated": "2026-10-19T17:17:35Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-18T14:08:02Z",
-    "amd.chipset": "2026-10-18T14:08:02Z",
-    "windowsBuilds": "2026-10-18T14:08:02Z",
-    "motherboards.msi": "2026-10-18T14:25:46Z",
-    "motherboards.gigabyte": "2026-10-18T14:25:46Z",
-    "motherboards.asrock": "2026-10-18T14:25:46Z",
-    "motherboards.asus": "2026-10-18T14:25:46Z",
-    "dell": "2026-10-18T14:57:19Z",
-    "intel.chipset": "2026-10-18T14:57:30Z",
-    "intel.arc": "2026-10-18T14:57:30Z",
-    "intel.xe": "2026-10-18T14:57:30Z",
-    "intel.rst20": "2026-10-18T14:57:30Z",
-    "intel.rst21": "2026-10-18T14:57:30Z",
-    "intel.chipsetInf": "2026-10-18T14:57:30Z",
-    "nvidia": "2026-10-18T14:57:30Z"
+    "amd.windows": "2026-10-19T17:17:37Z",
+    "amd.chipset": "2026-10-19T17:17:37Z",
+    "windowsBuilds": "2026-10-19T17:17:37Z",
+    "motherboards.msi": "2026-10-19T17:39:34Z",
+    "motherboards.gigabyte": "2026-10-19T17:39:34Z",
+    "motherboards.asrock": "2026-10-19T17:39:34Z",
+    "motherboards.asus": "2026-10-19T17:39:34Z",
+    "dell": "2026-10-19T17:47:08Z",
+    "intel.chipset": "2026-10-19T17:47:20Z",
+    "intel.arc": "2026-10-19T17:47:20Z",
+    "intel.xe": "2026-10-19T17:47:20Z",
+    "intel.rst20": "2026-10-19T17:47:20Z",
+    "intel.rst21": "2026-10-19T17:47:20Z",
+    "intel.chipsetInf": "2026-10-19T17:47:20Z",
+    "nvidia": "2026-10-19T17:47:20Z"
   },
   "amd": {
     "windows": {
@@ -1263,8 +1263,8 @@
       "vendor": "asrock"
     },
     "B550M PRO": {
-      "bios": "7D14v2J2",
-      "date": "2026-08-21",
+      "bios": "7D14v2J",
+      "date": "2026-10-19",
       "vendor": "msi"
     },
     "B550M Pro RS": {
@@ -1722,20 +1722,20 @@
       "vendor": "asrock"
     },
     "B650 Pro RS": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://www.asrock.com/mb/AMD/B650%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "B650 Pro RS WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://www.asrock.com/mb/AMD/B650%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B650 Rock WiFi 7": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://www.asrock.com/mb/AMD/B650%20Rock%20WiFi%207/BIOS.html",
       "vendor": "asrock"
     },
@@ -2017,14 +2017,14 @@
       "vendor": "gigabyte"
     },
     "B650M PG Lightning": {
-      "bios": "4.44",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://pg.asrock.com/mb/AMD/B650M%20PG%20Lightning/BIOS.html",
       "vendor": "asrock"
     },
     "B650M PG Lightning WiFi": {
-      "bios": "4.44",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://pg.asrock.com/mb/AMD/B650M%20PG%20Lightning%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -2047,14 +2047,14 @@
       "vendor": "asrock"
     },
     "B650M Pro RS": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro%20RS/BIOS.html",
       "vendor": "asrock"
     },
     "B650M Pro RS WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro%20RS%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -2119,8 +2119,8 @@
       "vendor": "asrock"
     },
     "B650M-HDV/M.2": {
-      "bios": "4.43",
-      "date": "2026-07-09",
+      "bios": "4.60",
+      "date": "2026-10-19",
       "url": "https://www.asrock.com/mb/AMD/B650M-HDVM.2/BIOS.html",
       "vendor": "asrock"
     },
@@ -2503,9 +2503,10 @@
       "vendor": "gigabyte"
     },
     "B760 GAMING X AX DDR4": {
-      "bios": "F16",
-      "date": "2025-12-02",
+      "bios": "F18",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B760-GAMING-X-AX-DDR4/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760 GAMING X DDR4": {
@@ -2912,6 +2913,7 @@
       "bios": "F25",
       "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/B760M-GAMING-X-AX-DDR4/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760M GAMING X DDR4": {
@@ -9963,13 +9965,13 @@
       "vendor": "msi"
     },
     "PRO B550M WIFI6E": {
-      "bios": "7D14v2J2",
-      "date": "2026-08-21",
+      "bios": "7D14v2J",
+      "date": "2026-10-19",
       "vendor": "msi"
     },
     "PRO B550M-B": {
-      "bios": "7D14vH21",
-      "date": "2026-08-21",
+      "bios": "7D14vH2",
+      "date": "2026-10-19",
       "vendor": "msi"
     },
     "Pro B550M-C/CSM": {
@@ -11726,8 +11728,8 @@
       "vendor": "asus"
     },
     "ROG STRIX B550-F GAMING": {
-      "bios": "3645",
-      "date": "2026-09-15",
+      "bios": "3646",
+      "date": "2026-10-19",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B550-F%20GAMING/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13390,9 +13392,9 @@
       "vendor": "gigabyte"
     },
     "WRX90 WS EVO": {
-      "bios": "12.09",
-      "date": "2026-02-12",
-      "url": "https://www.asrock.com/mb/AMD/WRX90%20WS%20EVO/BIOS.html",
+      "bios": "13.02",
+      "date": "2026-10-07",
+      "url": "https://www.asrock.com/support/index.asp?cat=BIOS",
       "vendor": "asrock"
     },
     "WS C246 PRO": {
@@ -13876,9 +13878,9 @@
       "vendor": "gigabyte"
     },
     "X600M-STX R2.0": {
-      "bios": "1.23",
-      "date": "2025-11-06",
-      "url": "https://www.asrock.com/mb/AMD/X600M-STX%20R2.0/BIOS.html",
+      "bios": "1.33",
+      "date": "2026-09-10",
+      "url": "https://www.asrock.com/support/index.asp?cat=BIOS",
       "vendor": "asrock"
     },
     "X600TM-ITX": {
@@ -14100,9 +14102,9 @@
       "vendor": "asrock"
     },
     "X870 Riptide WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-02",
-      "url": "https://pg.asrock.com/mb/AMD/X870%20Riptide%20WiFi/BIOS.html",
+      "bios": "4.60",
+      "date": "2026-10-07",
+      "url": "https://www.asrock.com/support/index.asp?cat=BIOS",
       "vendor": "asrock"
     },
     "X870 Steel Legend WiFi": {
@@ -14990,9 +14992,10 @@
       "vendor": "gigabyte"
     },
     "Z790 AORUS ELITE AX ICE": {
-      "bios": "F6",
-      "date": "2025-06-19",
+      "bios": "F10",
+      "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-AX-ICE/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z790 AORUS ELITE AX-W": {
@@ -15023,6 +15026,7 @@
       "bios": "F12",
       "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-ELITE-X-WIFI7/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z790 AORUS MASTER": {
@@ -15035,12 +15039,14 @@
       "bios": "F13",
       "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-MASTER-X/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z790 AORUS PRO X": {
       "bios": "F11",
       "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-AORUS-PRO-X/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z790 AORUS PRO X WIFI7": {
@@ -15303,6 +15309,7 @@
       "bios": "F18",
       "date": "2026-09-29",
       "url": "https://www.gigabyte.com/Motherboard/Z790-UD-AX/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "Z790 UD WIFI7": {
