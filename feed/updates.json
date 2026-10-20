@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-19T17:17:35Z",
+  "updated": "2026-10-20T13:27:34Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-19T17:17:37Z",
-    "amd.chipset": "2026-10-19T17:17:37Z",
-    "windowsBuilds": "2026-10-19T17:17:37Z",
-    "motherboards.msi": "2026-10-19T17:39:34Z",
-    "motherboards.gigabyte": "2026-10-19T17:39:34Z",
-    "motherboards.asrock": "2026-10-19T17:39:34Z",
-    "motherboards.asus": "2026-10-19T17:39:34Z",
-    "dell": "2026-10-19T17:47:08Z",
-    "intel.chipset": "2026-10-19T17:47:20Z",
-    "intel.arc": "2026-10-19T17:47:20Z",
-    "intel.xe": "2026-10-19T17:47:20Z",
-    "intel.rst20": "2026-10-19T17:47:20Z",
-    "intel.rst21": "2026-10-19T17:47:20Z",
-    "intel.chipsetInf": "2026-10-19T17:47:20Z",
-    "nvidia": "2026-10-19T17:47:20Z"
+    "amd.windows": "2026-10-20T13:27:36Z",
+    "amd.chipset": "2026-10-20T13:27:36Z",
+    "windowsBuilds": "2026-10-20T13:27:37Z",
+    "motherboards.msi": "2026-10-20T13:41:23Z",
+    "motherboards.gigabyte": "2026-10-20T13:41:23Z",
+    "motherboards.asrock": "2026-10-20T13:41:23Z",
+    "motherboards.asus": "2026-10-20T13:41:23Z",
+    "dell": "2026-10-20T13:41:30Z",
+    "intel.chipset": "2026-10-20T13:41:42Z",
+    "intel.arc": "2026-10-20T13:41:42Z",
+    "intel.xe": "2026-10-20T13:41:42Z",
+    "intel.rst20": "2026-10-20T13:41:42Z",
+    "intel.rst21": "2026-10-20T13:41:42Z",
+    "intel.chipsetInf": "2026-10-20T13:41:42Z",
+    "nvidia": "2026-10-20T13:41:43Z"
   },
   "amd": {
     "windows": {
@@ -277,6 +277,10 @@
     "A520M PRO": {
       "bios": "7D14v1O",
       "date": "2026-10-16",
+      "supersedes": [
+        "7D14v1O2",
+        "7D14v1O1"
+      ],
       "vendor": "msi"
     },
     "A520M PRO-C DASH": {
@@ -515,8 +519,8 @@
       "vendor": "asrock"
     },
     "A620M-HDV/M.2+": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-20",
       "url": "https://www.asrock.com/mb/AMD/A620M-HDVM.2%2B/BIOS.html",
       "vendor": "asrock"
     },
@@ -969,6 +973,9 @@
     "B550 GAMING": {
       "bios": "7C56vW1",
       "date": "2026-08-05",
+      "supersedes": [
+        "7C56vW11"
+      ],
       "vendor": "msi"
     },
     "B550 GAMING GEN3": {
@@ -984,6 +991,9 @@
     "B550 GAMING WIFI6E": {
       "bios": "7C56vW1",
       "date": "2026-08-05",
+      "supersedes": [
+        "7C56vW11"
+      ],
       "vendor": "msi"
     },
     "B550 GAMING X": {
@@ -1265,6 +1275,10 @@
     "B550M PRO": {
       "bios": "7D14v2J",
       "date": "2026-10-19",
+      "supersedes": [
+        "7D14v2J2",
+        "7D14v2J1"
+      ],
       "vendor": "msi"
     },
     "B550M Pro RS": {
@@ -2071,14 +2085,14 @@
       "vendor": "asrock"
     },
     "B650M Pro-A Gen5": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-20",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro-A%20Gen5/BIOS.html",
       "vendor": "asrock"
     },
     "B650M Pro-A Gen5 WiFi 6E": {
-      "bios": "4.43",
-      "date": "2026-10-07",
+      "bios": "4.61",
+      "date": "2026-10-20",
       "url": "https://www.asrock.com/mb/AMD/B650M%20Pro-A%20Gen5%20WiFi%206E/BIOS.html",
       "vendor": "asrock"
     },
@@ -2107,14 +2121,14 @@
       "vendor": "asus"
     },
     "B650M-H/M.2+": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-20",
       "url": "https://www.asrock.com/mb/AMD/B650M-HM.2%2B/BIOS.html",
       "vendor": "asrock"
     },
     "B650M-H/M.2+ WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-08",
+      "bios": "4.60",
+      "date": "2026-10-20",
       "url": "https://www.asrock.com/mb/AMD/B650M-HM.2%2B%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -9876,6 +9890,10 @@
     "PRO A520M WIFI6E": {
       "bios": "7D14v1O",
       "date": "2026-10-16",
+      "supersedes": [
+        "7D14v1O2",
+        "7D14v1O1"
+      ],
       "vendor": "msi"
     },
     "Pro A520M-C II/CSM": {
@@ -9967,11 +9985,18 @@
     "PRO B550M WIFI6E": {
       "bios": "7D14v2J",
       "date": "2026-10-19",
+      "supersedes": [
+        "7D14v2J2",
+        "7D14v2J1"
+      ],
       "vendor": "msi"
     },
     "PRO B550M-B": {
       "bios": "7D14vH2",
       "date": "2026-10-19",
+      "supersedes": [
+        "7D14vH21"
+      ],
       "vendor": "msi"
     },
     "Pro B550M-C/CSM": {
@@ -11716,8 +11741,8 @@
       "vendor": "asus"
     },
     "ROG STRIX B550-A GAMING": {
-      "bios": "3645",
-      "date": "2026-09-15",
+      "bios": "3646",
+      "date": "2026-10-20",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B550-A%20GAMING/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13394,7 +13419,7 @@
     "WRX90 WS EVO": {
       "bios": "13.02",
       "date": "2026-10-07",
-      "url": "https://www.asrock.com/support/index.asp?cat=BIOS",
+      "url": "https://www.asrock.com/mb/AMD/WRX90%20WS%20EVO/BIOS.html",
       "vendor": "asrock"
     },
     "WS C246 PRO": {
