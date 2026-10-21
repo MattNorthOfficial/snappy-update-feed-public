@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-20T15:21:29Z",
+  "updated": "2026-10-21T14:08:32Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-20T15:21:30Z",
-    "amd.chipset": "2026-10-20T15:21:30Z",
-    "windowsBuilds": "2026-10-20T15:21:31Z",
+    "amd.windows": "2026-10-21T14:08:35Z",
+    "amd.chipset": "2026-10-21T14:08:36Z",
+    "windowsBuilds": "2026-10-21T14:08:36Z",
     "motherboards.msi": "2026-10-20T15:35:22Z",
     "motherboards.gigabyte": "2026-10-20T15:35:22Z",
     "motherboards.asrock": "2026-10-20T15:35:22Z",
     "motherboards.asus": "2026-10-20T15:35:22Z",
     "dell": "2026-10-20T15:35:29Z",
-    "intel.chipset": "2026-10-20T15:35:41Z",
-    "intel.arc": "2026-10-20T15:35:41Z",
-    "intel.xe": "2026-10-20T15:35:41Z",
-    "intel.rst20": "2026-10-20T15:35:41Z",
-    "intel.rst21": "2026-10-20T15:35:41Z",
-    "intel.chipsetInf": "2026-10-20T15:35:41Z",
-    "nvidia": "2026-10-20T15:35:41Z"
+    "intel.chipset": "2026-10-21T14:09:01Z",
+    "intel.arc": "2026-10-21T14:09:01Z",
+    "intel.xe": "2026-10-21T14:09:01Z",
+    "intel.rst20": "2026-10-21T14:09:01Z",
+    "intel.rst21": "2026-10-21T14:09:01Z",
+    "intel.chipsetInf": "2026-10-21T14:09:01Z",
+    "nvidia": "2026-10-21T14:09:02Z"
   },
   "amd": {
     "windows": {
@@ -26890,8 +26890,8 @@
     }
   },
   "nvidia": {
-    "gameReady": "617.42",
-    "url": "https://www.nvidia.com/en-us/drivers/details/280103/",
-    "download": "https://us.download.nvidia.com/Windows/617.42/617.42-desktop-win10-win11-64bit-international-dch-whql.exe"
+    "gameReady": "621.01",
+    "url": "https://www.nvidia.com/en-us/drivers/details/282412/",
+    "download": "https://us.download.nvidia.com/Windows/621.01/621.01-desktop-win10-win11-64bit-international-dch-whql.exe"
   }
 }
