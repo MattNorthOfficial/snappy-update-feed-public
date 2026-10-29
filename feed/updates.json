@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-28T16:48:53Z",
+  "updated": "2026-10-29T17:03:47Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-28T16:48:54Z",
-    "amd.chipset": "2026-10-28T16:48:54Z",
-    "windowsBuilds": "2026-10-28T16:48:56Z",
-    "motherboards.msi": "2026-10-28T17:05:04Z",
-    "motherboards.gigabyte": "2026-10-28T17:05:04Z",
-    "motherboards.asrock": "2026-10-28T17:05:04Z",
-    "motherboards.asus": "2026-10-28T17:05:04Z",
-    "dell": "2026-10-28T17:08:18Z",
-    "intel.chipset": "2026-10-28T17:08:33Z",
-    "intel.arc": "2026-10-28T17:08:33Z",
-    "intel.xe": "2026-10-28T17:08:33Z",
-    "intel.rst20": "2026-10-28T17:08:33Z",
-    "intel.rst21": "2026-10-28T17:08:33Z",
-    "intel.chipsetInf": "2026-10-28T17:08:33Z",
-    "nvidia": "2026-10-28T17:08:33Z"
+    "amd.windows": "2026-10-29T17:03:48Z",
+    "amd.chipset": "2026-10-29T17:03:49Z",
+    "windowsBuilds": "2026-10-29T17:03:50Z",
+    "motherboards.msi": "2026-10-29T17:17:22Z",
+    "motherboards.gigabyte": "2026-10-29T17:17:22Z",
+    "motherboards.asrock": "2026-10-29T17:17:22Z",
+    "motherboards.asus": "2026-10-29T17:17:22Z",
+    "dell": "2026-10-29T17:17:28Z",
+    "intel.chipset": "2026-10-29T17:17:38Z",
+    "intel.arc": "2026-10-29T17:17:38Z",
+    "intel.xe": "2026-10-29T17:17:38Z",
+    "intel.rst20": "2026-10-29T17:17:38Z",
+    "intel.rst21": "2026-10-29T17:17:38Z",
+    "intel.chipsetInf": "2026-10-29T17:17:38Z",
+    "nvidia": "2026-10-29T17:17:38Z"
   },
   "amd": {
     "windows": {
@@ -525,8 +525,8 @@
       "vendor": "asrock"
     },
     "A620M-HDVP": {
-      "bios": "4.43",
-      "date": "2026-07-13",
+      "bios": "4.60",
+      "date": "2026-10-29",
       "url": "https://www.asrock.com/mb/AMD/A620M-HDVP/BIOS.html",
       "vendor": "asrock"
     },
@@ -3742,8 +3742,8 @@
       "vendor": "asrock"
     },
     "B850M-A": {
-      "bios": "4.43",
-      "date": "2026-07-13",
+      "bios": "4.60",
+      "date": "2026-10-29",
       "url": "https://www.asrock.com/mb/AMD/B850M-A/BIOS.html",
       "vendor": "asrock"
     },
@@ -3760,8 +3760,8 @@
       "vendor": "asus"
     },
     "B850M-X": {
-      "bios": "4.43",
-      "date": "2026-07-23",
+      "bios": "4.60",
+      "date": "2026-10-29",
       "url": "https://www.asrock.com/mb/AMD/B850M-X/BIOS.html",
       "vendor": "asrock"
     },
@@ -3772,8 +3772,8 @@
       "vendor": "asrock"
     },
     "B850M-X WiFi": {
-      "bios": "4.43",
-      "date": "2026-07-23",
+      "bios": "4.60",
+      "date": "2026-10-29",
       "url": "https://www.asrock.com/mb/AMD/B850M-X%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
@@ -7146,8 +7146,8 @@
       "vendor": "msi"
     },
     "MAG Z890M GAMING PLUS WIFI": {
-      "bios": "7E42v3A30",
-      "date": "2026-07-23",
+      "bios": "7E42v3A40",
+      "date": "2026-10-29",
       "vendor": "msi"
     },
     "MAXIMUS IX APEX": {
@@ -13961,8 +13961,8 @@
       "vendor": "msi"
     },
     "X670E PG Lightning": {
-      "bios": "4.43",
-      "date": "2026-07-16",
+      "bios": "4.60",
+      "date": "2026-10-29",
       "url": "https://pg.asrock.com/mb/AMD/X670E%20PG%20Lightning/BIOS.html",
       "vendor": "asrock"
     },
