@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-10-29T17:03:47Z",
+  "updated": "2026-10-30T16:48:53Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-10-29T17:03:48Z",
-    "amd.chipset": "2026-10-29T17:03:49Z",
-    "windowsBuilds": "2026-10-29T17:03:50Z",
-    "motherboards.msi": "2026-10-29T17:17:22Z",
-    "motherboards.gigabyte": "2026-10-29T17:17:22Z",
-    "motherboards.asrock": "2026-10-29T17:17:22Z",
-    "motherboards.asus": "2026-10-29T17:17:22Z",
-    "dell": "2026-10-29T17:17:28Z",
-    "intel.chipset": "2026-10-29T17:17:38Z",
-    "intel.arc": "2026-10-29T17:17:38Z",
-    "intel.xe": "2026-10-29T17:17:38Z",
-    "intel.rst20": "2026-10-29T17:17:38Z",
-    "intel.rst21": "2026-10-29T17:17:38Z",
-    "intel.chipsetInf": "2026-10-29T17:17:38Z",
-    "nvidia": "2026-10-29T17:17:38Z"
+    "amd.windows": "2026-10-30T16:48:54Z",
+    "amd.chipset": "2026-10-30T16:48:55Z",
+    "windowsBuilds": "2026-10-30T16:48:58Z",
+    "motherboards.msi": "2026-10-30T17:03:04Z",
+    "motherboards.gigabyte": "2026-10-30T17:03:04Z",
+    "motherboards.asrock": "2026-10-30T17:03:04Z",
+    "motherboards.asus": "2026-10-30T17:03:04Z",
+    "dell": "2026-10-30T17:06:47Z",
+    "intel.chipset": "2026-10-30T17:06:59Z",
+    "intel.arc": "2026-10-30T17:06:59Z",
+    "intel.xe": "2026-10-30T17:06:59Z",
+    "intel.rst20": "2026-10-30T17:06:59Z",
+    "intel.rst21": "2026-10-30T17:06:59Z",
+    "intel.chipsetInf": "2026-10-30T17:06:59Z",
+    "nvidia": "2026-10-30T17:07:00Z"
   },
   "amd": {
     "windows": {
@@ -4039,8 +4039,8 @@
       "vendor": "msi"
     },
     "B860M GAMING PLUS WIFI6E": {
-      "bios": "7E42v2B30",
-      "date": "2026-07-23",
+      "bios": "7E42v2B40",
+      "date": "2026-10-29",
       "vendor": "msi"
     },
     "B860M GAMING WIFI": {
@@ -10381,8 +10381,8 @@
       "vendor": "msi"
     },
     "PRO B850M-A WIFI PZ": {
-      "bios": "7E78v1A33",
-      "date": "2026-09-07",
+      "bios": "7E78v1A40",
+      "date": "2026-10-29",
       "vendor": "msi"
     },
     "PRO B850M-B GEN4": {
@@ -18108,14 +18108,14 @@
       "url": "https://downloads.dell.com/FOLDER12965226M/1/Latitude_5290_2In1_1.40.0.exe"
     },
     "081E": {
-      "bios": "1.46.0",
-      "date": "2026-09-16",
-      "url": "https://downloads.dell.com/FOLDER14861627M/1/Latitude_3190_1.46.0.exe"
+      "bios": "1.47.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14969274M/1/Latitude_3190_1.47.0.exe"
     },
     "081F": {
-      "bios": "1.46.0",
-      "date": "2026-09-16",
-      "url": "https://downloads.dell.com/FOLDER14861627M/1/Latitude_3190_1.46.0.exe"
+      "bios": "1.47.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14969274M/1/Latitude_3190_1.47.0.exe"
     },
     "0820": {
       "bios": "1.39.0",
@@ -18433,9 +18433,9 @@
       "url": "https://downloads.dell.com/FOLDER14482989M/1/Precision_3630_2.40.0.exe"
     },
     "0873": {
-      "bios": "2.44.0",
-      "date": "2026-07-20",
-      "url": "https://downloads.dell.com/FOLDER14613773M/1/Precision_3930_2.44.0.exe"
+      "bios": "2.45.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14966696M/1/Precision_3930_2.45.0.exe"
     },
     "0874": {
       "bios": "1.3.1",
@@ -19518,14 +19518,14 @@
       "url": "https://downloads.dell.com/FOLDER12365446M/1/Inspiron_3881_1.31.1.exe"
     },
     "09BA": {
-      "bios": "1.43.0",
-      "date": "2026-08-17",
-      "url": "https://downloads.dell.com/FOLDER14751703M/1/Latitude_7210_2in1_1.43.0.exe"
+      "bios": "1.44.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14987791M/1/Latitude_7210_2in1_1.44.0.exe"
     },
     "09BB": {
-      "bios": "1.43.0",
-      "date": "2026-08-20",
-      "url": "https://downloads.dell.com/FOLDER14727167M/1/Latitude_9410_1.43.0.exe"
+      "bios": "1.44.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14969352M/1/Latitude_9410_1.44.0.exe"
     },
     "09BC": {
       "bios": "1.29.1",
@@ -19533,14 +19533,14 @@
       "url": "https://downloads.dell.com/FOLDER13242365M/1/G5_5000_1.29.1.exe"
     },
     "09BD": {
-      "bios": "1.45.0",
-      "date": "2026-08-20",
-      "url": "https://downloads.dell.com/FOLDER14727123M/1/Latitude_7X10_1.45.0.exe"
+      "bios": "1.46.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14970458M/1/Latitude_7X10_1.46.0.exe"
     },
     "09BE": {
-      "bios": "1.45.0",
-      "date": "2026-08-20",
-      "url": "https://downloads.dell.com/FOLDER14727123M/1/Latitude_7X10_1.45.0.exe"
+      "bios": "1.46.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14970458M/1/Latitude_7X10_1.46.0.exe"
     },
     "09BF": {
       "bios": "1.44.0",
@@ -19588,14 +19588,14 @@
       "url": "https://downloads.dell.com/FOLDER14970186M/1/Latitude_5X10_Precision_3550_1.43.0.exe"
     },
     "09CC": {
-      "bios": "1.45.0",
-      "date": "2026-08-20",
-      "url": "https://downloads.dell.com/FOLDER14727123M/1/Latitude_7X10_1.45.0.exe"
+      "bios": "1.46.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14970458M/1/Latitude_7X10_1.46.0.exe"
     },
     "09CD": {
-      "bios": "1.45.0",
-      "date": "2026-08-20",
-      "url": "https://downloads.dell.com/FOLDER14727123M/1/Latitude_7X10_1.45.0.exe"
+      "bios": "1.46.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14970458M/1/Latitude_7X10_1.46.0.exe"
     },
     "09CE": {
       "bios": "1.38.0",
@@ -19743,9 +19743,9 @@
       "url": "https://downloads.dell.com/FOLDER12079597M/1/G5_5505_1.24.0.exe"
     },
     "09F6": {
-      "bios": "1.41.0",
-      "date": "2026-08-21",
-      "url": "https://downloads.dell.com/FOLDER14755488M/1/Precision_3240_1.41.0.exe"
+      "bios": "1.42.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14964786M/1/Precision_3240_1.42.0.exe"
     },
     "09F7": {
       "bios": "1.30.0",
@@ -19918,14 +19918,14 @@
       "url": "https://downloads.dell.com/FOLDER14964625M/1/OptiPlex_3090_UFF_1.45.0.exe"
     },
     "0A32": {
-      "bios": "1.49.0",
-      "date": "2026-09-15",
-      "url": "https://downloads.dell.com/FOLDER14828903M/1/Latitude_9420_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14965626M/1/Latitude_9420_1.50.0.exe"
     },
     "0A33": {
-      "bios": "1.40.0",
-      "date": "2026-07-17",
-      "url": "https://downloads.dell.com/FOLDER14603961M/1/Latitude_3120_1.40.0.exe"
+      "bios": "1.41.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15005273M/1/Latitude_3120_1.41.1.exe"
     },
     "0A34": {
       "bios": "1.53.0",
@@ -19963,14 +19963,14 @@
       "url": "https://downloads.dell.com/FOLDER15120618M/1/Precision_5860_3.12.1.exe"
     },
     "0A3E": {
-      "bios": "1.49.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14812515M/1/Latitude_9520_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14963382M/1/Latitude_9520_1.50.0.exe"
     },
     "0A3F": {
-      "bios": "1.49.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14812515M/1/Latitude_9520_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14963382M/1/Latitude_9520_1.50.0.exe"
     },
     "0A40": {
       "bios": "1.58.0",
@@ -20003,24 +20003,24 @@
       "url": "https://downloads.dell.com/FOLDER14828612M/1/Dell_Latitude_7320_Detachable_1.49.0_64.exe"
     },
     "0A46": {
-      "bios": "1.49.0",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820818M/1/OptiPlex_7490_AIO_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14958964M/1/OptiPlex_7490_AIO_1.50.0.exe"
     },
     "0A47": {
-      "bios": "1.49.0",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820818M/1/OptiPlex_7490_AIO_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14958964M/1/OptiPlex_7490_AIO_1.50.0.exe"
     },
     "0A48": {
-      "bios": "1.49.0",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820926M/1/OptiPlex_5490_AIO_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15007845M/1/OptiPlex_5490_AIO_1.50.0.exe"
     },
     "0A49": {
-      "bios": "1.49.0",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820926M/1/OptiPlex_5490_AIO_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15007845M/1/OptiPlex_5490_AIO_1.50.0.exe"
     },
     "0A4B": {
       "bios": "1.33.0",
@@ -20098,9 +20098,9 @@
       "url": "https://downloads.dell.com/FOLDER14959328M/1/Precision_3650_1.50.0.exe"
     },
     "0A5B": {
-      "bios": "1.49.0",
-      "date": "2026-09-15",
-      "url": "https://downloads.dell.com/FOLDER14828903M/1/Latitude_9420_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14965626M/1/Latitude_9420_1.50.0.exe"
     },
     "0A5C": {
       "bios": "1.37.1",
@@ -20153,14 +20153,14 @@
       "url": "https://downloads.dell.com/FOLDER14969865M/1/Precision_3561_Latitude_5521_1.45.0.exe"
     },
     "0A69": {
-      "bios": "1.49.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14829681M/1/Precision_7X60_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14964713M/1/Precision_7X60_1.50.0.exe"
     },
     "0A6A": {
-      "bios": "1.49.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14829681M/1/Precision_7X60_1.49.0.exe"
+      "bios": "1.50.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14964713M/1/Precision_7X60_1.50.0.exe"
     },
     "0A6E": {
       "bios": "1.32.0",
@@ -20648,29 +20648,29 @@
       "url": "https://downloads.dell.com/FOLDER14970061M/1/Precision_3570_Latitude_5530_1.39.0.exe"
     },
     "0B09": {
-      "bios": "1.42.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14830805M/1/Latitude_7X30_1.42.0.exe"
+      "bios": "1.43.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14966248M/1/Latitude_7X30_1.43.0.exe"
     },
     "0B0A": {
-      "bios": "1.42.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14830805M/1/Latitude_7X30_1.42.0.exe"
+      "bios": "1.43.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14966248M/1/Latitude_7X30_1.43.0.exe"
     },
     "0B0B": {
-      "bios": "1.42.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14830805M/1/Latitude_7X30_1.42.0.exe"
+      "bios": "1.43.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14966248M/1/Latitude_7X30_1.43.0.exe"
     },
     "0B0C": {
-      "bios": "1.42.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14830805M/1/Latitude_7X30_1.42.0.exe"
+      "bios": "1.43.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14966248M/1/Latitude_7X30_1.43.0.exe"
     },
     "0B0D": {
-      "bios": "1.42.0",
-      "date": "2026-09-14",
-      "url": "https://downloads.dell.com/FOLDER14830805M/1/Latitude_7X30_1.42.0.exe"
+      "bios": "1.43.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14966248M/1/Latitude_7X30_1.43.0.exe"
     },
     "0B0E": {
       "bios": "1.42.0",
@@ -20698,44 +20698,44 @@
       "url": "https://downloads.dell.com/FOLDER14963747M/1/Latitude_9430_1.43.0.exe"
     },
     "0B13": {
-      "bios": "1.32.0",
-      "date": "2026-09-15",
-      "url": "https://downloads.dell.com/FOLDER14751901M/1/Alienware_x14_1.32.0.exe"
+      "bios": "1.33.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14988938M/1/Alienware_x14_1.33.0.exe"
     },
     "0B14": {
-      "bios": "1.40.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14825240M/1/XPS_9315_1.40.0.exe"
+      "bios": "1.41.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14963906M/1/XPS_9315_1.41.0.exe"
     },
     "0B15": {
-      "bios": "1.1.61",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820580M/1/OptiPlex_7400_1.1.61.exe"
+      "bios": "1.1.62",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14947405M/1/OptiPlex_7400_1.1.62.exe"
     },
     "0B16": {
-      "bios": "1.1.61",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820580M/1/OptiPlex_7400_1.1.61.exe"
+      "bios": "1.1.62",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14947405M/1/OptiPlex_7400_1.1.62.exe"
     },
     "0B17": {
-      "bios": "1.1.61",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820580M/1/OptiPlex_7400_1.1.61.exe"
+      "bios": "1.1.62",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14947405M/1/OptiPlex_7400_1.1.62.exe"
     },
     "0B18": {
-      "bios": "1.1.61",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14820580M/1/OptiPlex_7400_1.1.61.exe"
+      "bios": "1.1.62",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14947405M/1/OptiPlex_7400_1.1.62.exe"
     },
     "0B19": {
-      "bios": "1.42.0",
-      "date": "2026-07-23",
-      "url": "https://downloads.dell.com/FOLDER14610734M/1/XPS9520_Precision5570_1.42.0_QSL0.exe"
+      "bios": "1.44.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14963438M/1/XPS9520_Precision5570_1.44.0_QSL0.exe"
     },
     "0B1A": {
-      "bios": "1.42.0",
-      "date": "2026-07-23",
-      "url": "https://downloads.dell.com/FOLDER14609099M/1/XPS9520_Precision5570_1.42.0_QSL0.exe"
+      "bios": "1.44.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14963416M/1/XPS9520_Precision5570_1.44.0_QSL0.exe"
     },
     "0B20": {
       "bios": "1.50.0",
@@ -20783,19 +20783,19 @@
       "url": "https://downloads.dell.com/FOLDER14989406M/1/Alienware_x15_x17_R2_1.34.0.exe"
     },
     "0B29": {
-      "bios": "1.41.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14820437M/1/Precision_5470_1.41.0.exe"
+      "bios": "1.42.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14963974M/1/Precision_5470_1.42.0.exe"
     },
     "0B2A": {
-      "bios": "1.40.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14824826M/1/Precision_7x70_1.40.0.exe"
+      "bios": "1.41.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14965655M/1/Precision_7x70_1.41.0.exe"
     },
     "0B2B": {
-      "bios": "1.40.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14824826M/1/Precision_7x70_1.40.0.exe"
+      "bios": "1.41.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14965655M/1/Precision_7x70_1.41.0.exe"
     },
     "0B30": {
       "bios": "2.41.0",
@@ -21128,9 +21128,9 @@
       "url": "https://downloads.dell.com/FOLDER14971319M/1/OptiPlex_3090_2.31.0.exe"
     },
     "0B8C": {
-      "bios": "1.39.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14825315M/1/Latitude_9330_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14964193M/1/Latitude_9330_1.40.0.exe"
     },
     "0B92": {
       "bios": "1.44.0",
@@ -21333,14 +21333,14 @@
       "url": "https://downloads.dell.com/FOLDER14819592M/1/ChengMing_3910_3911_1.38.0.exe"
     },
     "0BCA": {
-      "bios": "1.37.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14609934M/1/OptiPlex_7410_1.37.0.exe"
+      "bios": "1.38.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964244M/1/OptiPlex_7410_1.38.0.exe"
     },
     "0BCB": {
-      "bios": "1.37.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14609934M/1/OptiPlex_7410_1.37.0.exe"
+      "bios": "1.38.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964244M/1/OptiPlex_7410_1.38.0.exe"
     },
     "0BCC": {
       "bios": "1.39.0",
@@ -21383,29 +21383,29 @@
       "url": "https://downloads.dell.com/FOLDER14969294M/1/OptiPlex_7010_1.39.0_SEMB.exe"
     },
     "0BD4": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819767M/1/Inspiron_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963907M/1/Inspiron_3020_1.39.0.exe"
     },
     "0BD5": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819755M/1/Vostro_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963819M/1/Vostro_3020_1.39.0.exe"
     },
     "0BD6": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819755M/1/Vostro_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963819M/1/Vostro_3020_1.39.0.exe"
     },
     "0BD7": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819755M/1/Vostro_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963819M/1/Vostro_3020_1.39.0.exe"
     },
     "0BD8": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819755M/1/Vostro_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963819M/1/Vostro_3020_1.39.0.exe"
     },
     "0BD9": {
       "bios": "1.28.0",
@@ -21428,14 +21428,14 @@
       "url": "https://downloads.dell.com/FOLDER14963298M/1/Latitdue_3140_1.33.0.exe"
     },
     "0BE0": {
-      "bios": "1.37.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14609934M/1/OptiPlex_7410_1.37.0.exe"
+      "bios": "1.38.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964244M/1/OptiPlex_7410_1.38.0.exe"
     },
     "0BE1": {
-      "bios": "1.37.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14609934M/1/OptiPlex_7410_1.37.0.exe"
+      "bios": "1.38.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964244M/1/OptiPlex_7410_1.38.0.exe"
     },
     "0BE2": {
       "bios": "1.33.0",
@@ -21613,9 +21613,9 @@
       "url": "https://downloads.dell.com/FOLDER14963545M/1/Latitude_7X40_1.35.0.exe"
     },
     "0C0F": {
-      "bios": "1.30.0",
-      "date": "2026-07-29",
-      "url": "https://downloads.dell.com/FOLDER14613386M/1/Latitude_9440_1.30.0.exe"
+      "bios": "1.32.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14965773M/1/Latitude_9440_1.32.0.exe"
     },
     "0C10": {
       "bios": "2.32.0",
@@ -21623,14 +21623,14 @@
       "url": "https://downloads.dell.com/FOLDER14825458M/1/XPS_9320_2_32_0.exe"
     },
     "0C11": {
-      "bios": "1.29.0",
-      "date": "2026-06-18",
-      "url": "https://downloads.dell.com/FOLDER14477860M/1/Precision_5680_1_29_0.exe"
+      "bios": "1.32.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14963463M/1/Precision_5680_1_32_0.exe"
     },
     "0C12": {
-      "bios": "1.30.0",
-      "date": "2026-07-29",
-      "url": "https://downloads.dell.com/FOLDER14613386M/1/Latitude_9440_1.30.0.exe"
+      "bios": "1.32.0",
+      "date": "2026-10-27",
+      "url": "https://downloads.dell.com/FOLDER14965773M/1/Latitude_9440_1.32.0.exe"
     },
     "0C13": {
       "bios": "1.34.0",
@@ -21843,9 +21843,9 @@
       "url": "https://downloads.dell.com/FOLDER14964293M/1/Precision_7X80_1.33.0.exe"
     },
     "0C43": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819767M/1/Inspiron_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963907M/1/Inspiron_3020_1.39.0.exe"
     },
     "0C48": {
       "bios": "1.36.0",
@@ -21873,19 +21873,19 @@
       "url": "https://downloads.dell.com/FOLDER14781667M/1/Alienware_m16_R1_m18_R1_1.25.0.exe"
     },
     "0C4F": {
-      "bios": "1.29.0",
-      "date": "2026-06-18",
-      "url": "https://downloads.dell.com/FOLDER14477860M/1/Precision_5680_1_29_0.exe"
+      "bios": "1.32.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14963463M/1/Precision_5680_1_32_0.exe"
     },
     "0C50": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819767M/1/Inspiron_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963907M/1/Inspiron_3020_1.39.0.exe"
     },
     "0C51": {
-      "bios": "1.38.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14819767M/1/Inspiron_3020_1.38.0.exe"
+      "bios": "1.39.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14963907M/1/Inspiron_3020_1.39.0.exe"
     },
     "0C52": {
       "bios": "1.39.1",
@@ -21918,9 +21918,9 @@
       "url": "https://downloads.dell.com/FOLDER14969786M/1/XPS_9640_1.26.0.exe"
     },
     "0C64": {
-      "bios": "1.24.0",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER14839530M/1/Latitude_7350_Detachable_1.24.0.exe"
+      "bios": "1.25.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14964384M/1/Latitude_7350_Detachable_1.25.0.exe"
     },
     "0C69": {
       "bios": "2.15.0",
@@ -22063,24 +22063,24 @@
       "url": "https://downloads.dell.com/FOLDER14966012M/1/XPS_9340_1.30.0.exe"
     },
     "0C88": {
-      "bios": "1.27.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14610109M/1/OptiPlex_7420_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964496M/1/OptiPlex_7420_1.28.0.exe"
     },
     "0C89": {
-      "bios": "1.27.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14610109M/1/OptiPlex_7420_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964496M/1/OptiPlex_7420_1.28.0.exe"
     },
     "0C8A": {
-      "bios": "1.27.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14610109M/1/OptiPlex_7420_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964496M/1/OptiPlex_7420_1.28.0.exe"
     },
     "0C8B": {
-      "bios": "1.27.0",
-      "date": "2026-07-09",
-      "url": "https://downloads.dell.com/FOLDER14610109M/1/OptiPlex_7420_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-10-12",
+      "url": "https://downloads.dell.com/FOLDER14964496M/1/OptiPlex_7420_1.28.0.exe"
     },
     "0C8C": {
       "bios": "1.30.0",
@@ -22323,9 +22323,9 @@
       "url": "https://downloads.dell.com/FOLDER14963428M/1/Precision_5490_1.25.1.exe"
     },
     "0CC8": {
-      "bios": "1.26.0",
-      "date": "2026-09-11",
-      "url": "https://downloads.dell.com/FOLDER14846494M/1/Precision_5690_1.26.0.exe"
+      "bios": "1.27.0",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER14964546M/1/Precision_5690_1.27.0.exe"
     },
     "0CC9": {
       "bios": "1.25.0",
@@ -22413,9 +22413,9 @@
       "url": "https://downloads.dell.com/FOLDER14987269M/1/Dell_Pro_PA13250_PA14250_PB13250_PB14250_PB16250_2.18.1.exe"
     },
     "0CE1": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0CE2": {
       "bios": "1.18.3",
@@ -22523,9 +22523,9 @@
       "url": "https://downloads.dell.com/FOLDER14975059M/1/Dell_Pro_PC14250_PC16250_1.19.0.exe"
     },
     "0CFD": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0CFE": {
       "bios": "1.18.3",
@@ -22623,14 +22623,14 @@
       "url": "https://downloads.dell.com/FOLDER15129891M/1/Dell_Pro_Max_MB16250_MB18250_3.5.2.exe"
     },
     "0D14": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0D15": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0D18": {
       "bios": "1.19.3",
@@ -23048,9 +23048,9 @@
       "url": "https://downloads.dell.com/FOLDER14975757M/1/DELL_DC16255_DC16256_1.13.0.exe"
     },
     "0DAA": {
-      "bios": "1.24.0",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER14839530M/1/Latitude_7350_Detachable_1.24.0.exe"
+      "bios": "1.25.0",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER14964384M/1/Latitude_7350_Detachable_1.25.0.exe"
     },
     "0DAB": {
       "bios": "1.25.0",
@@ -23183,14 +23183,14 @@
       "url": "https://downloads.dell.com/FOLDER14972639M/1/Dell_Pro_5_P5M1260_1.8.1.exe"
     },
     "0DF4": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0DF5": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0DF6": {
       "bios": "1.18.2",
@@ -23313,39 +23313,39 @@
       "url": "https://downloads.dell.com/FOLDER14888904M/1/Dell_S_DS14260_DS16260_1.8.0.exe"
     },
     "0E1A": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E1B": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E1C": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E1D": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E1E": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E1F": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E20": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E21": {
       "bios": "2.1.2",
@@ -23418,29 +23418,29 @@
       "url": "https://downloads.dell.com/FOLDER15081632M/1/Dell_Pro_P31x265_P51x265_P7xx265_Dell_Pro_Precision_PW51x265_2.1.2.exe"
     },
     "0E33": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E34": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E35": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E36": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E38": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0E3A": {
       "bios": "2.2.3",
@@ -23618,19 +23618,19 @@
       "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
     },
     "0E75": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0E76": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0E77": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0E78": {
       "bios": "1.19.3",
@@ -23788,24 +23788,24 @@
       "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
     },
     "0EA3": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0EA4": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0EAA": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0EAB": {
-      "bios": "2.4.3",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER15081394M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.4.3.exe"
+      "bios": "2.5.3",
+      "date": "2026-10-28",
+      "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0EAE": {
       "bios": "1.4.0",
