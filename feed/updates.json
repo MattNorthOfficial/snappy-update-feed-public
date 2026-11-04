@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-03T18:00:16Z",
+  "updated": "2026-11-04T18:12:33Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-03T18:00:17Z",
-    "amd.chipset": "2026-11-03T18:00:17Z",
-    "windowsBuilds": "2026-11-03T18:00:19Z",
-    "motherboards.msi": "2026-11-03T18:13:53Z",
-    "motherboards.gigabyte": "2026-11-03T18:13:53Z",
-    "motherboards.asrock": "2026-11-03T18:13:53Z",
-    "motherboards.asus": "2026-11-03T18:13:53Z",
-    "dell": "2026-11-03T18:16:45Z",
-    "intel.chipset": "2026-11-03T18:16:55Z",
-    "intel.arc": "2026-11-03T18:16:55Z",
-    "intel.xe": "2026-11-03T18:16:55Z",
-    "intel.rst20": "2026-11-03T18:16:55Z",
-    "intel.rst21": "2026-11-03T18:16:55Z",
-    "intel.chipsetInf": "2026-11-03T18:16:55Z",
-    "nvidia": "2026-11-03T18:16:56Z"
+    "amd.windows": "2026-11-04T18:12:36Z",
+    "amd.chipset": "2026-11-04T18:12:37Z",
+    "windowsBuilds": "2026-11-04T18:12:38Z",
+    "motherboards.msi": "2026-11-04T18:26:24Z",
+    "motherboards.gigabyte": "2026-11-04T18:26:24Z",
+    "motherboards.asrock": "2026-11-04T18:26:24Z",
+    "motherboards.asus": "2026-11-04T18:26:24Z",
+    "dell": "2026-11-04T18:26:30Z",
+    "intel.chipset": "2026-11-04T18:26:38Z",
+    "intel.arc": "2026-11-04T18:26:38Z",
+    "intel.xe": "2026-11-04T18:26:38Z",
+    "intel.rst20": "2026-11-04T18:26:38Z",
+    "intel.rst21": "2026-11-04T18:26:38Z",
+    "intel.chipsetInf": "2026-11-04T18:26:38Z",
+    "nvidia": "2026-11-04T18:26:39Z"
   },
   "amd": {
     "windows": {
@@ -2567,6 +2567,18 @@
       "bios": "14.03",
       "date": "2026-07-07",
       "url": "https://www.asrock.com/mb/Intel/B760%20Pro%20RSD4/BIOS.html",
+      "vendor": "asrock"
+    },
+    "B760 Pro RS/D4 Gen5": {
+      "bios": "1.10",
+      "date": "2026-10-06",
+      "url": "https://www.asrock.com/mb/Intel/B760%20Pro%20RSD4%20Gen5/BIOS.html",
+      "vendor": "asrock"
+    },
+    "B760 Pro RS/D4 Gen5 WiFi": {
+      "bios": "1.10",
+      "date": "2026-10-06",
+      "url": "https://www.asrock.com/mb/Intel/B760%20Pro%20RSD4%20Gen5%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B760 Pro RS/D4 WiFi": {
@@ -6569,8 +6581,8 @@
       "vendor": "gigabyte"
     },
     "H810M GAMING WIFI6E": {
-      "bios": "7E64v2A70",
-      "date": "2026-08-04",
+      "bios": "7E64v2A80",
+      "date": "2026-11-03",
       "vendor": "msi"
     },
     "H810M H": {
@@ -11092,8 +11104,8 @@
       "vendor": "asus"
     },
     "ProArt B760-CREATOR D4": {
-      "bios": "3202",
-      "date": "2026-08-14",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ProArt%20B760-CREATOR%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11134,8 +11146,8 @@
       "vendor": "asus"
     },
     "ProArt Z790-CREATOR WIFI": {
-      "bios": "3202",
-      "date": "2026-08-19",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ProArt%20Z790-CREATOR%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11542,8 +11554,8 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 EXTREME": {
-      "bios": "3202",
-      "date": "2026-08-14",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20EXTREME/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11560,8 +11572,8 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 HERO BTF": {
-      "bios": "2202",
-      "date": "2026-08-14",
+      "bios": "2301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20HERO%20BTF/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12370,14 +12382,14 @@
       "vendor": "asus"
     },
     "ROG STRIX Z790-A GAMING WIFI": {
-      "bios": "3202",
-      "date": "2026-08-14",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z790-A GAMING WIFI D4": {
-      "bios": "3202",
-      "date": "2026-08-24",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-A%20GAMING%20WIFI%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12388,8 +12400,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z790-E GAMING WIFI": {
-      "bios": "3202",
-      "date": "2026-08-17",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-E%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12406,14 +12418,14 @@
       "vendor": "asus"
     },
     "ROG STRIX Z790-F GAMING WIFI II": {
-      "bios": "2202",
-      "date": "2026-08-17",
+      "bios": "2301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-F%20GAMING%20WIFI%20II/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX Z790-H GAMING WIFI": {
-      "bios": "3202",
-      "date": "2026-08-21",
+      "bios": "3301",
+      "date": "2026-11-04",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-H%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -26900,8 +26912,8 @@
     }
   },
   "nvidia": {
-    "gameReady": "621.01",
-    "url": "https://www.nvidia.com/en-us/drivers/details/282412/",
-    "download": "https://us.download.nvidia.com/Windows/621.01/621.01-desktop-win10-win11-64bit-international-dch-whql.exe"
+    "gameReady": "621.14",
+    "url": "https://www.nvidia.com/en-us/drivers/details/283968/",
+    "download": "https://us.download.nvidia.com/Windows/621.14/621.14-desktop-win10-win11-64bit-international-dch-whql.exe"
   }
 }
