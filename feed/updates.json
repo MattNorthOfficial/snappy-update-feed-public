@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-05T01:26:28Z",
+  "updated": "2026-11-05T18:13:56Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-05T01:26:30Z",
-    "amd.chipset": "2026-11-05T01:26:30Z",
-    "windowsBuilds": "2026-11-05T01:26:32Z",
-    "motherboards.msi": "2026-11-04T18:26:24Z",
-    "motherboards.gigabyte": "2026-11-04T18:26:24Z",
-    "motherboards.asrock": "2026-11-04T18:26:24Z",
-    "motherboards.asus": "2026-11-04T18:26:24Z",
-    "dell": "2026-11-04T18:26:30Z",
-    "intel.chipset": "2026-11-05T01:26:56Z",
-    "intel.arc": "2026-11-05T01:26:56Z",
-    "intel.xe": "2026-11-05T01:26:56Z",
-    "intel.rst20": "2026-11-05T01:26:56Z",
-    "intel.rst21": "2026-11-05T01:26:56Z",
-    "intel.chipsetInf": "2026-11-05T01:26:56Z",
-    "nvidia": "2026-11-05T01:26:58Z"
+    "amd.windows": "2026-11-05T18:13:58Z",
+    "amd.chipset": "2026-11-05T18:13:58Z",
+    "windowsBuilds": "2026-11-05T18:14:00Z",
+    "motherboards.msi": "2026-11-05T18:27:39Z",
+    "motherboards.gigabyte": "2026-11-05T18:27:39Z",
+    "motherboards.asrock": "2026-11-05T18:27:39Z",
+    "motherboards.asus": "2026-11-05T18:27:39Z",
+    "dell": "2026-11-05T18:27:45Z",
+    "intel.chipset": "2026-11-05T18:27:54Z",
+    "intel.arc": "2026-11-05T18:27:54Z",
+    "intel.xe": "2026-11-05T18:27:54Z",
+    "intel.rst20": "2026-11-05T18:27:54Z",
+    "intel.rst21": "2026-11-05T18:27:54Z",
+    "intel.chipsetInf": "2026-11-05T18:27:54Z",
+    "nvidia": "2026-11-05T18:27:55Z"
   },
   "amd": {
     "windows": {
@@ -3840,8 +3840,8 @@
       "vendor": "gigabyte"
     },
     "B860 GAMING PLUS WIFI": {
-      "bios": "7E41v2A90",
-      "date": "2026-07-24",
+      "bios": "7E41v2AA0",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "B860 GAMING X WIFI6E": {
@@ -10434,23 +10434,23 @@
       "vendor": "msi"
     },
     "PRO B860-P": {
-      "bios": "7E41v1AB0",
-      "date": "2026-07-24",
+      "bios": "7E41v1AC0",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "PRO B860-P WIFI": {
-      "bios": "7E41v1AB0",
-      "date": "2026-07-24",
+      "bios": "7E41v1AC0",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "PRO B860-VC WIFI": {
-      "bios": "7E41v1AB0",
-      "date": "2026-07-24",
+      "bios": "7E41v1AC0",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "PRO B860-VC WIFI6E": {
-      "bios": "7E41v1AB0",
-      "date": "2026-07-24",
+      "bios": "7E41v1AC0",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "PRO B860M-A WIFI": {
@@ -10701,13 +10701,13 @@
       "vendor": "msi"
     },
     "PRO H810M-B": {
-      "bios": "7E64v1A80",
-      "date": "2026-08-04",
+      "bios": "7E64v1A90",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "PRO H810M-B WIFI6E": {
-      "bios": "7E64v1A80",
-      "date": "2026-08-04",
+      "bios": "7E64v1A90",
+      "date": "2026-11-05",
       "vendor": "msi"
     },
     "PRO H810M-C EX": {
