@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-05T18:13:56Z",
+  "updated": "2026-11-06T17:40:23Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-05T18:13:58Z",
-    "amd.chipset": "2026-11-05T18:13:58Z",
-    "windowsBuilds": "2026-11-05T18:14:00Z",
-    "motherboards.msi": "2026-11-05T18:27:39Z",
-    "motherboards.gigabyte": "2026-11-05T18:27:39Z",
-    "motherboards.asrock": "2026-11-05T18:27:39Z",
-    "motherboards.asus": "2026-11-05T18:27:39Z",
-    "dell": "2026-11-05T18:27:45Z",
-    "intel.chipset": "2026-11-05T18:27:54Z",
-    "intel.arc": "2026-11-05T18:27:54Z",
-    "intel.xe": "2026-11-05T18:27:54Z",
-    "intel.rst20": "2026-11-05T18:27:54Z",
-    "intel.rst21": "2026-11-05T18:27:54Z",
-    "intel.chipsetInf": "2026-11-05T18:27:54Z",
-    "nvidia": "2026-11-05T18:27:55Z"
+    "amd.windows": "2026-11-06T17:40:25Z",
+    "amd.chipset": "2026-11-06T17:40:26Z",
+    "windowsBuilds": "2026-11-06T17:40:28Z",
+    "motherboards.msi": "2026-11-06T17:54:10Z",
+    "motherboards.gigabyte": "2026-11-06T17:54:10Z",
+    "motherboards.asrock": "2026-11-06T17:54:10Z",
+    "motherboards.asus": "2026-11-06T17:54:10Z",
+    "dell": "2026-11-06T17:59:35Z",
+    "intel.chipset": "2026-11-06T17:59:46Z",
+    "intel.arc": "2026-11-06T17:59:46Z",
+    "intel.xe": "2026-11-06T17:59:46Z",
+    "intel.rst20": "2026-11-06T17:59:46Z",
+    "intel.rst21": "2026-11-06T17:59:46Z",
+    "intel.chipsetInf": "2026-11-06T17:59:46Z",
+    "nvidia": "2026-11-06T17:59:47Z"
   },
   "amd": {
     "windows": {
@@ -10496,8 +10496,8 @@
       "vendor": "msi"
     },
     "PRO B860M-P WIFI6E": {
-      "bios": "7F01v1A30",
-      "date": "2026-06-25",
+      "bios": "7F01v1A40",
+      "date": "2026-11-06",
       "vendor": "msi"
     },
     "PRO B860M-S": {
@@ -11098,8 +11098,8 @@
       "vendor": "asus"
     },
     "ProArt B760-CREATOR": {
-      "bios": "3202",
-      "date": "2026-08-19",
+      "bios": "3301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ProArt%20B760-CREATOR/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11110,8 +11110,8 @@
       "vendor": "asus"
     },
     "ProArt B760-CREATOR WIFI": {
-      "bios": "3202",
-      "date": "2026-08-17",
+      "bios": "3301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ProArt%20B760-CREATOR%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11464,8 +11464,8 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS XII EXTREME": {
-      "bios": "3401",
-      "date": "2026-08-19",
+      "bios": "3302",
+      "date": "2026-03-24",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20XII%20EXTREME/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11542,14 +11542,14 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 APEX ENCORE": {
-      "bios": "2202",
-      "date": "2026-08-20",
+      "bios": "2301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20APEX%20ENCORE/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 DARK HERO": {
-      "bios": "2202",
-      "date": "2026-08-21",
+      "bios": "2301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20DARK%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11560,14 +11560,14 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 FORMULA": {
-      "bios": "2202",
-      "date": "2026-08-17",
+      "bios": "2301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20FORMULA/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 HERO": {
-      "bios": "3202",
-      "date": "2026-08-17",
+      "bios": "3301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20HERO/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12394,8 +12394,8 @@
       "vendor": "asus"
     },
     "ROG Strix Z790-A Gaming WiFi II": {
-      "bios": "2202",
-      "date": "2026-08-27",
+      "bios": "2301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20Strix%20Z790-A%20Gaming%20WiFi%20II/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12406,8 +12406,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z790-E GAMING WIFI II": {
-      "bios": "2202",
-      "date": "2026-08-21",
+      "bios": "2301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-E%20GAMING%20WIFI%20II/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12430,8 +12430,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z790-I GAMING WIFI": {
-      "bios": "3202",
-      "date": "2026-08-21",
+      "bios": "3301",
+      "date": "2026-11-06",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-I%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -20241,9 +20241,9 @@
       "url": "https://downloads.dell.com/FOLDER14970677M/1/Latitude_3420_Latitude_3520_1.50.0.exe"
     },
     "0A7D": {
-      "bios": "2.41.0",
-      "date": "2026-07-21",
-      "url": "https://downloads.dell.com/FOLDER14609188M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.41.0.exe"
+      "bios": "2.42.0",
+      "date": "2026-10-16",
+      "url": "https://downloads.dell.com/FOLDER14963909M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.42.0.exe"
     },
     "0A7E": {
       "bios": "2.42.0",
@@ -20371,9 +20371,9 @@
       "url": "https://downloads.dell.com/FOLDER14988083M/1/XPS_8950_1.34.0_x64.exe"
     },
     "0AAF": {
-      "bios": "1.30.0",
-      "date": "2026-08-13",
-      "url": "https://downloads.dell.com/FOLDER14752938M/1/Inspiron_3510_1.30.0.exe"
+      "bios": "1.31.0",
+      "date": "2026-10-22",
+      "url": "https://downloads.dell.com/FOLDER14989314M/1/Inspiron_3510_1.31.0.exe"
     },
     "0AB0": {
       "bios": "1.50.0",
@@ -20526,9 +20526,9 @@
       "url": "https://downloads.dell.com/FOLDER14963749M/1/Inspiron_Vostro_3511_1500.exe"
     },
     "0ADF": {
-      "bios": "2.41.0",
-      "date": "2026-07-21",
-      "url": "https://downloads.dell.com/FOLDER14609188M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.41.0.exe"
+      "bios": "2.42.0",
+      "date": "2026-10-16",
+      "url": "https://downloads.dell.com/FOLDER14963909M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.42.0.exe"
     },
     "0AE0": {
       "bios": "2.42.0",
@@ -20761,14 +20761,14 @@
       "url": "https://downloads.dell.com/FOLDER14970677M/1/Latitude_3420_Latitude_3520_1.50.0.exe"
     },
     "0B22": {
-      "bios": "1.29.0",
-      "date": "2026-09-08",
-      "url": "https://downloads.dell.com/FOLDER14809776M/1/Precision_7865_1.29.0.exe"
+      "bios": "1.30.0",
+      "date": "2026-11-04",
+      "url": "https://downloads.dell.com/FOLDER15059376M/1/Precision_7865_1.30.0.exe"
     },
     "0B23": {
-      "bios": "2.41.0",
-      "date": "2026-07-21",
-      "url": "https://downloads.dell.com/FOLDER14609188M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.41.0.exe"
+      "bios": "2.42.0",
+      "date": "2026-10-16",
+      "url": "https://downloads.dell.com/FOLDER14963909M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.42.0.exe"
     },
     "0B24": {
       "bios": "2.42.0",
@@ -20811,9 +20811,9 @@
       "url": "https://downloads.dell.com/FOLDER14965655M/1/Precision_7x70_1.41.0.exe"
     },
     "0B30": {
-      "bios": "2.41.0",
-      "date": "2026-07-21",
-      "url": "https://downloads.dell.com/FOLDER14609188M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.41.0.exe"
+      "bios": "2.42.0",
+      "date": "2026-10-16",
+      "url": "https://downloads.dell.com/FOLDER14963909M/1/Inspiron_Vostro_5410_5418_5510_5518_5410_5510_2.42.0.exe"
     },
     "0B31": {
       "bios": "2.42.0",
@@ -22401,14 +22401,14 @@
       "url": "https://downloads.dell.com/FOLDER14965049M/1/Dell_Tower_Plus_EBT2250_1.21.0.exe"
     },
     "0CD9": {
-      "bios": "1.20.0",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER14948102M/1/Dell_Pro_Rugged_RB14250_RA13250_1.20.0.exe"
+      "bios": "1.21.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15079242M/1/Dell_Pro_Rugged_RB14250_RA13250_1.21.0.exe"
     },
     "0CDA": {
-      "bios": "1.20.0",
-      "date": "2026-10-19",
-      "url": "https://downloads.dell.com/FOLDER14948102M/1/Dell_Pro_Rugged_RB14250_RA13250_1.20.0.exe"
+      "bios": "1.21.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15079242M/1/Dell_Pro_Rugged_RB14250_RA13250_1.21.0.exe"
     },
     "0CDB": {
       "bios": "2.19.0",
@@ -22431,9 +22431,9 @@
       "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0CE2": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0CE3": {
       "bios": "2.19.0",
@@ -22541,64 +22541,64 @@
       "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0CFE": {
-      "bios": "1.18.3",
-      "date": "2026-09-04",
-      "url": "https://downloads.dell.com/FOLDER14926334M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.18.3.exe"
+      "bios": "1.19.1",
+      "date": "2026-10-26",
+      "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0CFF": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D00": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D01": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D02": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D03": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D05": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D06": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D07": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D08": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D09": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D0A": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D0B": {
       "bios": "1.35.0",
@@ -22646,34 +22646,34 @@
       "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0D18": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D19": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D1A": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D1B": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D1C": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D1D": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D1E": {
       "bios": "1.19.3",
@@ -23131,9 +23131,9 @@
       "url": "https://downloads.dell.com/FOLDER14978132M/1/Alienware_Area-51_AAT2265_1.10.0.exe"
     },
     "0DD6": {
-      "bios": "1.8.0",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER15059033M/1/Dell_Pro_14_Premium_PA14260_1.8.0.exe"
+      "bios": "1.9.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15092602M/1/Dell_Pro_14_Premium_PA14260_1.9.0.exe"
     },
     "0DD7": {
       "bios": "2.8.0",
@@ -23191,9 +23191,9 @@
       "url": "https://downloads.dell.com/FOLDER14969258M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.6.0.exe"
     },
     "0DF0": {
-      "bios": "1.8.1",
-      "date": "2026-09-23",
-      "url": "https://downloads.dell.com/FOLDER14972639M/1/Dell_Pro_5_P5M1260_1.8.1.exe"
+      "bios": "1.9.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120578M/1/Dell_Pro_5_P5M1260_1.9.0.exe"
     },
     "0DF4": {
       "bios": "2.5.3",
@@ -23206,24 +23206,24 @@
       "url": "https://downloads.dell.com/FOLDER15123124M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.5.3.exe"
     },
     "0DF6": {
-      "bios": "1.18.2",
-      "date": "2026-09-06",
-      "url": "https://downloads.dell.com/FOLDER14897773M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.18.2.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0DF9": {
-      "bios": "1.19.3",
-      "date": "2026-10-08",
-      "url": "https://downloads.dell.com/FOLDER15029279M/1/Dell_Pro_Precision_Tower_PW7T1260_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15123781M/1/Dell_Pro_Precision_Tower_PW7T1260_1.20.0.exe"
     },
     "0DFA": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15027099M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123943M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.20.0.exe"
     },
     "0DFB": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15027099M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123943M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.20.0.exe"
     },
     "0DFC": {
       "bios": "2.9.0",
@@ -23236,14 +23236,14 @@
       "url": "https://downloads.dell.com/FOLDER15096814M/1/Alienware_Area-51_AA16250_AA18250_2.9.0_64.exe"
     },
     "0DFE": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15027099M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123943M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.20.0.exe"
     },
     "0DFF": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15027099M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123943M/1/Dell_Pro_Essential_QVT1260_QVS1260_1.20.0.exe"
     },
     "0E00": {
       "bios": "1.9.1",
@@ -23601,34 +23601,34 @@
       "url": "https://downloads.dell.com/FOLDER15007886M/1/Dell_Pro_QCT1255_QCS1255_QCM1255_SEMB_2.3.0.exe"
     },
     "0E6E": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0E6F": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0E70": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0E71": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0E72": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0E73": {
-      "bios": "1.19.3",
-      "date": "2026-10-05",
-      "url": "https://downloads.dell.com/FOLDER15027232M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0E75": {
       "bios": "1.19.1",
@@ -23646,9 +23646,9 @@
       "url": "https://downloads.dell.com/FOLDER15098107M/1/Dell_Pro_Max_FCM2250_FCS1250_FCT2250_1.19.1.exe"
     },
     "0E78": {
-      "bios": "1.19.3",
-      "date": "2026-10-08",
-      "url": "https://downloads.dell.com/FOLDER15029279M/1/Dell_Pro_Precision_Tower_PW7T1260_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER15123781M/1/Dell_Pro_Precision_Tower_PW7T1260_1.20.0.exe"
     },
     "0E79": {
       "bios": "1.20.0",
@@ -23736,14 +23736,14 @@
       "url": "https://downloads.dell.com/FOLDER14892761M/2/Dell_D14261_D15261_PV14261_PV15261_1.2.0.exe"
     },
     "0E90": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0E91": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0E92": {
       "bios": "1.2.0",
@@ -23756,49 +23756,49 @@
       "url": "https://downloads.dell.com/FOLDER14892761M/2/Dell_D14261_D15261_PV14261_PV15261_1.2.0.exe"
     },
     "0E94": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0E96": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0E97": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0E9B": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0E9C": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0E9D": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0E9E": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0E9F": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0EA0": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0EA3": {
       "bios": "2.5.3",
@@ -23831,44 +23831,44 @@
       "url": "https://downloads.dell.com/FOLDER14987799M/1/Dell_14S_DS14270_1.1.0.exe"
     },
     "0ECD": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0ECE": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0ECF": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0ED0": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0ED1": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0ED2": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0ED3": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873335M/1/Dell_D14265_D15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987794M/1/Dell_D14265_D15266_1.3.0.exe"
     },
     "0ED4": {
-      "bios": "1.2.1",
-      "date": "2026-08-18",
-      "url": "https://downloads.dell.com/FOLDER14873320M/1/Dell_PV14265_PV15266_1.2.1.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-03",
+      "url": "https://downloads.dell.com/FOLDER14987986M/1/Dell_PV14265_PV15266_1.3.0.exe"
     },
     "0EFB": {
       "bios": "2.1.2",
