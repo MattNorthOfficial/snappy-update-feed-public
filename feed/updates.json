@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-06T17:40:23Z",
+  "updated": "2026-11-07T00:51:41Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-06T17:40:25Z",
-    "amd.chipset": "2026-11-06T17:40:26Z",
-    "windowsBuilds": "2026-11-06T17:40:28Z",
+    "amd.windows": "2026-11-07T00:51:43Z",
+    "amd.chipset": "2026-11-07T00:51:43Z",
+    "windowsBuilds": "2026-11-07T00:51:45Z",
     "motherboards.msi": "2026-11-06T17:54:10Z",
     "motherboards.gigabyte": "2026-11-06T17:54:10Z",
     "motherboards.asrock": "2026-11-06T17:54:10Z",
     "motherboards.asus": "2026-11-06T17:54:10Z",
     "dell": "2026-11-06T17:59:35Z",
-    "intel.chipset": "2026-11-06T17:59:46Z",
-    "intel.arc": "2026-11-06T17:59:46Z",
-    "intel.xe": "2026-11-06T17:59:46Z",
-    "intel.rst20": "2026-11-06T17:59:46Z",
-    "intel.rst21": "2026-11-06T17:59:46Z",
-    "intel.chipsetInf": "2026-11-06T17:59:46Z",
-    "nvidia": "2026-11-06T17:59:47Z"
+    "intel.chipset": "2026-11-07T00:52:04Z",
+    "intel.arc": "2026-11-07T00:52:04Z",
+    "intel.xe": "2026-11-07T00:52:04Z",
+    "intel.rst20": "2026-11-07T00:52:04Z",
+    "intel.rst21": "2026-11-07T00:52:04Z",
+    "intel.chipsetInf": "2026-11-07T00:52:04Z",
+    "nvidia": "2026-11-07T00:52:05Z"
   },
   "amd": {
     "windows": {
@@ -23900,7 +23900,7 @@
     "arc": {
       "version": "32.0.101.9175",
       "url": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-      "download": "https://downloadmirror.intel.com/932273/gfx_win_101.9175.exe"
+      "download": "https://downloadmirror.intel.com/932449/gfx_win_101.9175.exe"
     },
     "xe": {
       "version": "32.0.101.7092",
