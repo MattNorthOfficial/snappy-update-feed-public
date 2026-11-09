@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-07T00:51:41Z",
+  "updated": "2026-11-09T21:00:57Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-07T00:51:43Z",
-    "amd.chipset": "2026-11-07T00:51:43Z",
-    "windowsBuilds": "2026-11-07T00:51:45Z",
-    "motherboards.msi": "2026-11-06T17:54:10Z",
-    "motherboards.gigabyte": "2026-11-06T17:54:10Z",
-    "motherboards.asrock": "2026-11-06T17:54:10Z",
-    "motherboards.asus": "2026-11-06T17:54:10Z",
-    "dell": "2026-11-06T17:59:35Z",
-    "intel.chipset": "2026-11-07T00:52:04Z",
-    "intel.arc": "2026-11-07T00:52:04Z",
-    "intel.xe": "2026-11-07T00:52:04Z",
-    "intel.rst20": "2026-11-07T00:52:04Z",
-    "intel.rst21": "2026-11-07T00:52:04Z",
-    "intel.chipsetInf": "2026-11-07T00:52:04Z",
-    "nvidia": "2026-11-07T00:52:05Z"
+    "amd.windows": "2026-11-09T21:00:58Z",
+    "amd.chipset": "2026-11-09T21:00:58Z",
+    "windowsBuilds": "2026-11-09T21:00:59Z",
+    "motherboards.msi": "2026-11-09T21:21:30Z",
+    "motherboards.gigabyte": "2026-11-09T21:21:30Z",
+    "motherboards.asrock": "2026-11-09T21:21:30Z",
+    "motherboards.asus": "2026-11-09T21:21:30Z",
+    "dell": "2026-11-09T21:28:54Z",
+    "intel.chipset": "2026-11-09T21:29:06Z",
+    "intel.arc": "2026-11-09T21:29:06Z",
+    "intel.xe": "2026-11-09T21:29:06Z",
+    "intel.rst20": "2026-11-09T21:29:06Z",
+    "intel.rst21": "2026-11-09T21:29:06Z",
+    "intel.chipsetInf": "2026-11-09T21:29:06Z",
+    "nvidia": "2026-11-09T21:29:07Z"
   },
   "amd": {
     "windows": {
@@ -3101,6 +3101,18 @@
       "bios": "9.02",
       "date": "2026-07-14",
       "url": "https://www.asrock.com/mb/Intel/B760M%20Pro-AD4/BIOS.html",
+      "vendor": "asrock"
+    },
+    "B760M Pro-A/D4 Gen5": {
+      "bios": "1.07",
+      "date": "2026-11-09",
+      "url": "https://www.asrock.com/mb/Intel/B760M%20Pro-AD4%20Gen5/BIOS.html",
+      "vendor": "asrock"
+    },
+    "B760M Pro-A/D4 Gen5 WiFi": {
+      "bios": "1.07",
+      "date": "2026-11-09",
+      "url": "https://www.asrock.com/mb/Intel/B760M%20Pro-AD4%20Gen5%20WiFi/BIOS.html",
       "vendor": "asrock"
     },
     "B760M Pro-A/D4 WiFi": {
@@ -10516,8 +10528,8 @@
       "vendor": "msi"
     },
     "PRO B860M-X": {
-      "bios": "7E68v3A60",
-      "date": "2026-07-06",
+      "bios": "7E68v3A70",
+      "date": "2026-11-09",
       "vendor": "msi"
     },
     "PRO H310M-R R2.0 WI-FI": {
