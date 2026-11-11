@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-11T01:13:09Z",
+  "updated": "2026-11-11T18:01:15Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-11T01:13:10Z",
-    "amd.chipset": "2026-11-11T01:13:10Z",
-    "windowsBuilds": "2026-11-11T01:13:10Z",
-    "motherboards.msi": "2026-11-10T18:24:40Z",
-    "motherboards.gigabyte": "2026-11-10T18:24:40Z",
-    "motherboards.asrock": "2026-11-10T18:24:40Z",
-    "motherboards.asus": "2026-11-10T18:24:40Z",
-    "dell": "2026-11-10T18:24:45Z",
-    "intel.chipset": "2026-11-11T01:13:36Z",
-    "intel.arc": "2026-11-11T01:13:36Z",
-    "intel.xe": "2026-11-11T01:13:36Z",
-    "intel.rst20": "2026-11-11T01:13:36Z",
-    "intel.rst21": "2026-11-11T01:13:36Z",
-    "intel.chipsetInf": "2026-11-11T01:13:36Z",
-    "nvidia": "2026-11-11T01:13:36Z"
+    "amd.windows": "2026-11-11T18:01:16Z",
+    "amd.chipset": "2026-11-11T18:01:16Z",
+    "windowsBuilds": "2026-11-11T18:01:16Z",
+    "motherboards.msi": "2026-11-11T18:15:14Z",
+    "motherboards.gigabyte": "2026-11-11T18:15:14Z",
+    "motherboards.asrock": "2026-11-11T18:15:14Z",
+    "motherboards.asus": "2026-11-11T18:15:14Z",
+    "dell": "2026-11-11T18:22:49Z",
+    "intel.chipset": "2026-11-11T18:23:05Z",
+    "intel.arc": "2026-11-11T18:23:05Z",
+    "intel.xe": "2026-11-11T18:23:05Z",
+    "intel.rst20": "2026-11-11T18:23:05Z",
+    "intel.rst21": "2026-11-11T18:23:05Z",
+    "intel.chipsetInf": "2026-11-11T18:23:05Z",
+    "nvidia": "2026-11-11T18:23:05Z"
   },
   "amd": {
     "windows": {
@@ -2475,9 +2475,10 @@
       "vendor": "gigabyte"
     },
     "B760 DS3H DDR4": {
-      "bios": "F17",
-      "date": "2026-09-29",
-      "url": "https://www.gigabyte.com/Motherboard/B760-DS3H-DDR4-rev-10/support#Support-Bios",
+      "bios": "F18",
+      "date": "2026-10-27",
+      "url": "https://www.gigabyte.com/Motherboard/B760-DS3H-DDR4-rev-11/support#Support-Bios",
+      "revisionsShareBios": true,
       "vendor": "gigabyte"
     },
     "B760 DS3H GEN5": {
@@ -3339,9 +3340,9 @@
       "vendor": "asrock"
     },
     "B850 AI TOP": {
-      "bios": "FA2",
-      "date": "2026-05-26",
-      "url": "https://www.gigabyte.com/Motherboard/B850-AI-TOP-rev-11/support#Support-Bios",
+      "bios": "F1",
+      "date": "2026-10-27",
+      "url": "https://www.gigabyte.com/Motherboard/B850-AI-TOP-rev-12/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
@@ -4124,8 +4125,8 @@
       "vendor": "asrock"
     },
     "B860M MAX GAMING AX": {
-      "bios": "3211",
-      "date": "2026-08-14",
+      "bios": "3021",
+      "date": "2026-05-28",
       "url": "https://www.asus.com/supportonly/B860M%20MAX%20GAMING%20AX/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -8700,50 +8701,50 @@
       "vendor": "asus"
     },
     "PRIME B860-PLUS": {
-      "bios": "3212",
-      "date": "2026-08-13",
+      "bios": "3011",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/PRIME%20B860-PLUS/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860-PLUS WIFI": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3022",
+      "date": "2026-06-01",
       "url": "https://www.asus.com/supportonly/PRIME%20B860-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860-PLUS WIFI-CSM": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3022",
+      "date": "2026-06-01",
       "url": "https://www.asus.com/supportonly/PRIME%20B860-PLUS%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860-PLUS-CSM": {
-      "bios": "3212",
-      "date": "2026-08-13",
+      "bios": "3011",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/PRIME%20B860-PLUS-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860M-A": {
-      "bios": "3212",
-      "date": "2026-08-14",
+      "bios": "3011",
+      "date": "2026-04-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B860M-A/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860M-A WIFI": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-20",
       "url": "https://www.asus.com/supportonly/PRIME%20B860M-A%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860M-A WIFI-CSM": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-20",
       "url": "https://www.asus.com/supportonly/PRIME%20B860M-A%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B860M-A-CSM": {
-      "bios": "3212",
-      "date": "2026-08-14",
+      "bios": "3011",
+      "date": "2026-04-21",
       "url": "https://www.asus.com/supportonly/PRIME%20B860M-A-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -9864,38 +9865,38 @@
       "vendor": "asus"
     },
     "PRIME Z890-P": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3022",
+      "date": "2026-06-17",
       "url": "https://www.asus.com/supportonly/PRIME%20Z890-P/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME Z890-P WIFI": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/PRIME%20Z890-P%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME Z890-P WIFI-CSM": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/PRIME%20Z890-P%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME Z890-P-CSM": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3022",
+      "date": "2026-06-17",
       "url": "https://www.asus.com/supportonly/PRIME%20Z890-P-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME Z890M-PLUS WIFI": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/PRIME%20Z890M-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME Z890M-PLUS WIFI-CSM": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/PRIME%20Z890M-PLUS%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10491,8 +10492,8 @@
       "vendor": "msi"
     },
     "Pro B860M-C-CSM": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-10",
       "url": "https://www.asus.com/supportonly/Pro%20B860M-C-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10793,14 +10794,14 @@
       "vendor": "asus"
     },
     "Pro Q870M-C V2-CSM": {
-      "bios": "3212",
-      "date": "2026-08-14",
+      "bios": "3013",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/Pro%20Q870M-C%20V2-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "Pro Q870M-C-CSM": {
-      "bios": "3212",
-      "date": "2026-08-14",
+      "bios": "3011",
+      "date": "2026-04-21",
       "url": "https://www.asus.com/supportonly/Pro%20Q870M-C-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11194,8 +11195,8 @@
       "vendor": "gigabyte"
     },
     "Q670M D3H DDR4": {
-      "bios": "F32",
-      "date": "2025-12-02",
+      "bios": "F35",
+      "date": "2026-10-12",
       "url": "https://www.gigabyte.com/Motherboard/Q670M-D3H-DDR4-rev-10/support#Support-Bios",
       "vendor": "gigabyte"
     },
@@ -11548,8 +11549,8 @@
       "vendor": "asus"
     },
     "ROG MAXIMUS Z790 APEX": {
-      "bios": "3202",
-      "date": "2026-08-20",
+      "bios": "3301",
+      "date": "2026-11-10",
       "url": "https://www.asus.com/supportonly/ROG%20MAXIMUS%20Z790%20APEX/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -11974,20 +11975,20 @@
       "vendor": "asus"
     },
     "ROG STRIX B860-A GAMING WIFI": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B860-A%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B860-F GAMING WIFI": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B860-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "ROG STRIX B860-G GAMING WIFI": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B860-G%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -12424,8 +12425,8 @@
       "vendor": "asus"
     },
     "ROG STRIX Z790-F GAMING WIFI": {
-      "bios": "3202",
-      "date": "2026-08-20",
+      "bios": "3301",
+      "date": "2026-11-10",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20Z790-F%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13128,20 +13129,20 @@
       "vendor": "asus"
     },
     "TUF GAMING B860-PLUS WIFI": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-08",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B860-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING B860M-PLUS": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B860M-PLUS/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING B860M-PLUS WIFI": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3011",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B860M-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13314,14 +13315,14 @@
       "vendor": "asus"
     },
     "TUF GAMING Z890-PLUS WIFI": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20Z890-PLUS%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
     "TUF GAMING Z890-PRO WIFI": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20Z890-PRO%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -15547,8 +15548,8 @@
       "vendor": "gigabyte"
     },
     "Z890 AYW GAMING WIFI W": {
-      "bios": "3211",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-16",
       "url": "https://www.asus.com/supportonly/Z890%20AYW%20GAMING%20WIFI%20W/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -15621,8 +15622,8 @@
       "vendor": "asrock"
     },
     "Z890 MAX GAMING WIFI7": {
-      "bios": "3212",
-      "date": "2026-08-10",
+      "bios": "3012",
+      "date": "2026-04-14",
       "url": "https://www.asus.com/supportonly/Z890%20MAX%20GAMING%20WIFI7/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -20348,14 +20349,14 @@
       "url": "https://downloads.dell.com/FOLDER14984897M/1/Alienware_x15_x17_R1_1.35.0.exe"
     },
     "0A9D": {
-      "bios": "1.46.0",
-      "date": "2026-10-14",
-      "url": "https://downloads.dell.com/FOLDER14948175M/1/Latitude_5430_7330_Rugged_1.46.0.exe"
+      "bios": "1.47.0",
+      "date": "2026-11-06",
+      "url": "https://downloads.dell.com/FOLDER15060201M/1/Latitude_5430_7330_Rugged_1.47.0.exe"
     },
     "0A9E": {
-      "bios": "1.46.0",
-      "date": "2026-10-14",
-      "url": "https://downloads.dell.com/FOLDER14948175M/1/Latitude_5430_7330_Rugged_1.46.0.exe"
+      "bios": "1.47.0",
+      "date": "2026-11-06",
+      "url": "https://downloads.dell.com/FOLDER15060201M/1/Latitude_5430_7330_Rugged_1.47.0.exe"
     },
     "0A9F": {
       "bios": "2.40.0",
@@ -20638,14 +20639,14 @@
       "url": "https://downloads.dell.com/FOLDER14969915M/1/Precision_5770_XPS_9720_1.42.0.exe"
     },
     "0B02": {
-      "bios": "1.39.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14969949M/1/Latitude_5330_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15076121M/1/Latitude_5330_1.40.0.exe"
     },
     "0B03": {
-      "bios": "1.39.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14969949M/1/Latitude_5330_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15076121M/1/Latitude_5330_1.40.0.exe"
     },
     "0B04": {
       "bios": "1.42.0",
@@ -20658,19 +20659,19 @@
       "url": "https://downloads.dell.com/FOLDER14963780M/1/Latitude_5430_1.42.0.exe"
     },
     "0B06": {
-      "bios": "1.39.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14970061M/1/Precision_3570_Latitude_5530_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15076236M/1/Precision_3570_Latitude_5530_1.40.0.exe"
     },
     "0B07": {
-      "bios": "1.39.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14970061M/1/Precision_3570_Latitude_5530_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15076236M/1/Precision_3570_Latitude_5530_1.40.0.exe"
     },
     "0B08": {
-      "bios": "1.39.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14970061M/1/Precision_3570_Latitude_5530_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15076236M/1/Precision_3570_Latitude_5530_1.40.0.exe"
     },
     "0B09": {
       "bios": "1.43.0",
@@ -21578,14 +21579,14 @@
       "url": "https://downloads.dell.com/FOLDER14963510M/1/Latitude_5440_Precision_3480_1.35.0.exe"
     },
     "0C03": {
-      "bios": "1.32.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14964240M/1/Latitude_5340_1.32.0.exe"
+      "bios": "1.33.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15075261M/1/Latitude_5340_1.33.0.exe"
     },
     "0C04": {
-      "bios": "1.32.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14964240M/1/Latitude_5340_1.32.0.exe"
+      "bios": "1.33.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15075261M/1/Latitude_5340_1.33.0.exe"
     },
     "0C05": {
       "bios": "1.32.0",
@@ -21928,9 +21929,9 @@
       "url": "https://downloads.dell.com/FOLDER14858118M/1/Dell_G15_5535_1.22.0.exe"
     },
     "0C61": {
-      "bios": "02.14.00",
-      "date": "2026-10-20",
-      "url": "https://downloads.dell.com/FOLDER15076404M/1/Precision_7875_SHP_02.14.00.exe"
+      "bios": "02.15.00",
+      "date": "2026-11-06",
+      "url": "https://downloads.dell.com/FOLDER15172000M/1/Precision_7875_SHP_02.15.00.exe"
     },
     "0C62": {
       "bios": "1.26.0",
@@ -22253,24 +22254,24 @@
       "url": "https://downloads.dell.com/FOLDER14963580M/1/Latitude_5450_Precision_3490_1.27.1.exe"
     },
     "0CB5": {
-      "bios": "1.27.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14963869M/1/Latitude_5350_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15086759M/1/Latitude_5350_1.28.0.exe"
     },
     "0CB6": {
-      "bios": "1.27.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14963869M/1/Latitude_5350_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15086759M/1/Latitude_5350_1.28.0.exe"
     },
     "0CB7": {
-      "bios": "1.27.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14963869M/1/Latitude_5350_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15086759M/1/Latitude_5350_1.28.0.exe"
     },
     "0CB8": {
-      "bios": "1.27.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14963869M/1/Latitude_5350_1.27.0.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-09",
+      "url": "https://downloads.dell.com/FOLDER15086759M/1/Latitude_5350_1.28.0.exe"
     },
     "0CB9": {
       "bios": "1.27.0",
@@ -22618,24 +22619,24 @@
       "url": "https://downloads.dell.com/FOLDER14963510M/1/Latitude_5440_Precision_3480_1.35.0.exe"
     },
     "0D0E": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D0F": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D10": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D11": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D12": {
       "bios": "3.5.2",
@@ -22688,24 +22689,24 @@
       "url": "https://downloads.dell.com/FOLDER15120324M/1/Dell_Pro_QBT1250_QBS1250_QBM1250_QCT1250_QCS1250_QCM1250_SEMB_1.20.0.exe"
     },
     "0D1E": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D1F": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D20": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D21": {
-      "bios": "1.19.3",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER15026998M/1/Dell_ECT1250_ECS1250_1.19.3.exe"
+      "bios": "1.20.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D22": {
       "bios": "1.14.0",
@@ -23273,14 +23274,14 @@
       "url": "https://downloads.dell.com/FOLDER14964808M/1/Dell_Pro_Precision_7_R1_PW7R1260_1.4.0.exe"
     },
     "0E04": {
-      "bios": "1.2.0",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14977409M/1/Dell_Pro_Rugged_PR514260_PR713260_1.2.0.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15075318M/1/Dell_Pro_Rugged_PR514260_PR713260_1.3.0.exe"
     },
     "0E05": {
-      "bios": "1.2.0",
-      "date": "2026-09-29",
-      "url": "https://downloads.dell.com/FOLDER14977409M/1/Dell_Pro_Rugged_PR514260_PR713260_1.2.0.exe"
+      "bios": "1.3.0",
+      "date": "2026-11-05",
+      "url": "https://downloads.dell.com/FOLDER15075318M/1/Dell_Pro_Rugged_PR514260_PR713260_1.3.0.exe"
     },
     "0E06": {
       "bios": "1.5.1",
