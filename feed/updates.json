@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-12T18:33:56Z",
+  "updated": "2026-11-13T18:00:32Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-12T18:33:57Z",
-    "amd.chipset": "2026-11-12T18:33:57Z",
-    "windowsBuilds": "2026-11-12T18:33:58Z",
-    "motherboards.msi": "2026-11-12T18:48:04Z",
-    "motherboards.gigabyte": "2026-11-12T18:48:04Z",
-    "motherboards.asrock": "2026-11-12T18:48:04Z",
-    "motherboards.asus": "2026-11-12T18:48:04Z",
-    "dell": "2026-11-12T18:48:14Z",
-    "intel.chipset": "2026-11-12T18:48:24Z",
-    "intel.arc": "2026-11-12T18:48:24Z",
-    "intel.xe": "2026-11-12T18:48:24Z",
-    "intel.rst20": "2026-11-12T18:48:24Z",
-    "intel.rst21": "2026-11-12T18:48:24Z",
-    "intel.chipsetInf": "2026-11-12T18:48:24Z",
-    "nvidia": "2026-11-12T18:48:25Z"
+    "amd.windows": "2026-11-13T18:00:33Z",
+    "amd.chipset": "2026-11-13T18:00:33Z",
+    "windowsBuilds": "2026-11-13T18:00:34Z",
+    "motherboards.msi": "2026-11-13T18:14:23Z",
+    "motherboards.gigabyte": "2026-11-13T18:14:23Z",
+    "motherboards.asrock": "2026-11-13T18:14:23Z",
+    "motherboards.asus": "2026-11-13T18:14:23Z",
+    "dell": "2026-11-13T18:14:29Z",
+    "intel.chipset": "2026-11-13T18:14:38Z",
+    "intel.arc": "2026-11-13T18:14:38Z",
+    "intel.xe": "2026-11-13T18:14:38Z",
+    "intel.rst20": "2026-11-13T18:14:38Z",
+    "intel.rst21": "2026-11-13T18:14:38Z",
+    "intel.chipsetInf": "2026-11-13T18:14:38Z",
+    "nvidia": "2026-11-13T18:14:39Z"
   },
   "amd": {
     "windows": {
@@ -4393,8 +4393,8 @@
       "vendor": "asus"
     },
     "EX-B860M-V5": {
-      "bios": "3212",
-      "date": "2026-08-13",
+      "bios": "3410",
+      "date": "2026-11-13",
       "url": "https://www.asus.com/supportonly/EX-B860M-V5/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -4405,8 +4405,8 @@
       "vendor": "asus"
     },
     "EX-B860M-V5-CSM": {
-      "bios": "3212",
-      "date": "2026-08-13",
+      "bios": "3410",
+      "date": "2026-11-13",
       "url": "https://www.asus.com/supportonly/EX-B860M-V5-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10788,8 +10788,8 @@
       "vendor": "asus"
     },
     "Pro Q870I-C-CSM": {
-      "bios": "3212",
-      "date": "2026-08-14",
+      "bios": "3411",
+      "date": "2026-11-13",
       "url": "https://www.asus.com/supportonly/Pro%20Q870I-C-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -15594,8 +15594,8 @@
       "vendor": "msi"
     },
     "Z890 GAMING WIFI": {
-      "bios": "7E54v2A90",
-      "date": "2026-07-22",
+      "bios": "7E54v2AA0",
+      "date": "2026-11-13",
       "vendor": "msi"
     },
     "Z890 GAMING WIFI6E": {
