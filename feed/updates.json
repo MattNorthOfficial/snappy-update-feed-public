@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-14T16:42:36Z",
+  "updated": "2026-11-16T20:39:34Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-14T16:42:37Z",
-    "amd.chipset": "2026-11-14T16:42:37Z",
-    "windowsBuilds": "2026-11-14T16:42:38Z",
-    "motherboards.msi": "2026-11-14T16:56:41Z",
-    "motherboards.gigabyte": "2026-11-14T16:56:41Z",
-    "motherboards.asrock": "2026-11-14T16:56:41Z",
-    "motherboards.asus": "2026-11-14T16:56:41Z",
-    "dell": "2026-11-14T16:59:34Z",
-    "intel.chipset": "2026-11-14T16:59:42Z",
-    "intel.arc": "2026-11-14T16:59:42Z",
-    "intel.xe": "2026-11-14T16:59:42Z",
-    "intel.rst20": "2026-11-14T16:59:42Z",
-    "intel.rst21": "2026-11-14T16:59:42Z",
-    "intel.chipsetInf": "2026-11-14T16:59:42Z",
-    "nvidia": "2026-11-14T16:59:43Z"
+    "amd.windows": "2026-11-16T20:39:35Z",
+    "amd.chipset": "2026-11-16T20:39:35Z",
+    "windowsBuilds": "2026-11-16T20:39:36Z",
+    "motherboards.msi": "2026-11-16T20:53:21Z",
+    "motherboards.gigabyte": "2026-11-16T20:53:21Z",
+    "motherboards.asrock": "2026-11-16T20:53:21Z",
+    "motherboards.asus": "2026-11-16T20:53:21Z",
+    "dell": "2026-11-16T20:53:27Z",
+    "intel.chipset": "2026-11-16T20:53:38Z",
+    "intel.arc": "2026-11-16T20:53:38Z",
+    "intel.xe": "2026-11-16T20:53:38Z",
+    "intel.rst20": "2026-11-16T20:53:38Z",
+    "intel.rst21": "2026-11-16T20:53:38Z",
+    "intel.chipsetInf": "2026-11-16T20:53:38Z",
+    "nvidia": "2026-11-16T20:53:38Z"
   },
   "amd": {
     "windows": {
@@ -1319,8 +1319,12 @@
       "vendor": "msi"
     },
     "B550M PRO-VDH WIFI (CEC)": {
-      "bios": "7C95vHG2",
-      "date": "2026-08-31",
+      "bios": "7C95vHG",
+      "date": "2026-11-16",
+      "supersedes": [
+        "7C95vHG2",
+        "7C95vHG1"
+      ],
       "vendor": "msi"
     },
     "B550M Pro4": {
@@ -3517,9 +3521,9 @@
       "vendor": "asrock"
     },
     "B850I AORUS PRO": {
-      "bios": "F12",
-      "date": "2026-05-21",
-      "url": "https://www.gigabyte.com/Motherboard/B850I-AORUS-PRO-rev-10/support#Support-Bios",
+      "bios": "F1",
+      "date": "2026-10-16",
+      "url": "https://www.gigabyte.com/Motherboard/B850I-AORUS-PRO-rev-12/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
     },
@@ -7399,8 +7403,8 @@
       "vendor": "msi"
     },
     "MEG Z890 UNIFY-X": {
-      "bios": "7E20v1AA0",
-      "date": "2026-07-15",
+      "bios": "7E20v1AB0",
+      "date": "2026-11-16",
       "vendor": "msi"
     },
     "MPG B460I GAMING EDGE WIFI": {
@@ -10045,8 +10049,12 @@
       "vendor": "msi"
     },
     "PRO B550M-VC WIFI": {
-      "bios": "7C95vHG2",
-      "date": "2026-08-31",
+      "bios": "7C95vHG",
+      "date": "2026-11-16",
+      "supersedes": [
+        "7C95vHG2",
+        "7C95vHG1"
+      ],
       "vendor": "msi"
     },
     "Pro B560M-C/CSM": {
@@ -11078,13 +11086,13 @@
       "vendor": "msi"
     },
     "PRO Z890-S WIFI6E": {
-      "bios": "7E54v1B30",
-      "date": "2026-07-21",
+      "bios": "7E54v1B40",
+      "date": "2026-11-13",
       "vendor": "msi"
     },
     "PRO Z890-S WIFI6E W": {
-      "bios": "7E54v1B30",
-      "date": "2026-07-21",
+      "bios": "7E54v1B40",
+      "date": "2026-11-13",
       "vendor": "msi"
     },
     "PRO Z890-VC WIFI6E": {
@@ -15599,8 +15607,8 @@
       "vendor": "msi"
     },
     "Z890 GAMING WIFI6E": {
-      "bios": "7E54v2B30",
-      "date": "2026-07-21",
+      "bios": "7E54v2B40",
+      "date": "2026-11-16",
       "vendor": "msi"
     },
     "Z890 GAMING X WIFI7": {
