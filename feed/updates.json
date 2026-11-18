@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-17T19:19:02Z",
+  "updated": "2026-11-18T19:00:28Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-17T19:19:05Z",
-    "amd.chipset": "2026-11-17T19:19:05Z",
-    "windowsBuilds": "2026-11-17T19:19:06Z",
-    "motherboards.msi": "2026-11-17T19:40:50Z",
-    "motherboards.gigabyte": "2026-11-17T19:40:50Z",
-    "motherboards.asrock": "2026-11-17T19:40:50Z",
-    "motherboards.asus": "2026-11-17T19:40:50Z",
-    "dell": "2026-11-17T19:58:35Z",
-    "intel.chipset": "2026-11-17T19:58:46Z",
-    "intel.arc": "2026-11-17T19:58:46Z",
-    "intel.xe": "2026-11-17T19:58:46Z",
-    "intel.rst20": "2026-11-17T19:58:46Z",
-    "intel.rst21": "2026-11-17T19:58:46Z",
-    "intel.chipsetInf": "2026-11-17T19:58:46Z",
-    "nvidia": "2026-11-17T19:58:47Z"
+    "amd.windows": "2026-11-18T19:00:29Z",
+    "amd.chipset": "2026-11-18T19:00:30Z",
+    "windowsBuilds": "2026-11-18T19:00:30Z",
+    "motherboards.msi": "2026-11-18T19:14:14Z",
+    "motherboards.gigabyte": "2026-11-18T19:14:14Z",
+    "motherboards.asrock": "2026-11-18T19:14:15Z",
+    "motherboards.asus": "2026-11-18T19:14:15Z",
+    "dell": "2026-11-18T19:14:21Z",
+    "intel.chipset": "2026-11-18T19:14:36Z",
+    "intel.arc": "2026-11-18T19:14:36Z",
+    "intel.xe": "2026-11-18T19:14:36Z",
+    "intel.rst20": "2026-11-18T19:14:36Z",
+    "intel.rst21": "2026-11-18T19:14:36Z",
+    "intel.chipsetInf": "2026-11-18T19:14:36Z",
+    "nvidia": "2026-11-18T19:14:37Z"
   },
   "amd": {
     "windows": {
@@ -7032,8 +7032,8 @@
       "vendor": "msi"
     },
     "MAG B850M MORTAR MAX WIFI": {
-      "bios": "7E92v4A22",
-      "date": "2026-09-09",
+      "bios": "7E92v2A35",
+      "date": "2026-11-18",
       "revisionAmbiguous": true,
       "vendor": "msi"
     },
@@ -7103,8 +7103,8 @@
       "vendor": "msi"
     },
     "MAG X870E TOMAHAWK MAX WIFI": {
-      "bios": "7E59v5A33",
-      "date": "2026-09-07",
+      "bios": "7E59v5A34",
+      "date": "2026-11-18",
       "vendor": "msi"
     },
     "MAG X870E TOMAHAWK MAX WIFI PZ": {
@@ -7295,13 +7295,13 @@
       "vendor": "msi"
     },
     "MEG X870E GODLIKE MAX": {
-      "bios": "7E48v2A35",
-      "date": "2026-09-03",
+      "bios": "7E48v2A36",
+      "date": "2026-11-18",
       "vendor": "msi"
     },
     "MEG X870E GODLIKE X EDITION": {
-      "bios": "7E48v2A35",
-      "date": "2026-09-03",
+      "bios": "7E48v2A36",
+      "date": "2026-11-18",
       "vendor": "msi"
     },
     "MEG X870E UNIFY-X MAX": {
@@ -7495,8 +7495,8 @@
       "vendor": "msi"
     },
     "MPG B850M EDGE TI MAX WIFI": {
-      "bios": "7E92v5A11",
-      "date": "2026-09-09",
+      "bios": "7E92v1A34",
+      "date": "2026-11-18",
       "revisionAmbiguous": true,
       "vendor": "msi"
     },
@@ -7531,8 +7531,8 @@
       "vendor": "msi"
     },
     "MPG X870E CARBON MAX WIFI": {
-      "bios": "7E49v2A25",
-      "date": "2026-09-03",
+      "bios": "7E49v2A26",
+      "date": "2026-11-18",
       "vendor": "msi"
     },
     "MPG X870E CARBON WIFI": {
@@ -11063,8 +11063,8 @@
       "vendor": "msi"
     },
     "PRO Z890-A WIFI": {
-      "bios": "7E32v2AD0",
-      "date": "2026-07-27",
+      "bios": "7E32v2AE0",
+      "date": "2026-11-18",
       "vendor": "msi"
     },
     "PRO Z890-P": {
