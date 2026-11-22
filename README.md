@@ -129,6 +129,8 @@ fetched key alone can never move a machine's trust root.
                      "rst20": {...}, "rst21": {...}, "chipsetInf": {...} },
   "windowsBuilds": { "25H2": { "build": "...", "date": "...", "kb": "...",
                                "eosHome": "...", "eosEnterprise": "..." } },
+  "windows10Builds": { "22H2": { "build": "19045.7846", "date": "...", "kb": "...",
+                                 "consumerEsuEnds": "2027-10-12" } },
   "motherboards":  { "B650 AORUS ELITE": { "bios": "F41", "date": "...",
                                            "url": "...", "vendor": "gigabyte" } },
   "motherboardConflicts": { "...": { "msi": {...}, "gigabyte": {...} } },
@@ -152,14 +154,29 @@ fetched key alone can never move a machine's trust root.
   them are the two Rapid Storage branches, `rst20` (12th-15th gen) and `rst21`
   (Core Ultra Series 3), and `chipsetInf`, the per-device INF versions.
 - `windowsBuilds` maps each Windows 11 version to its latest *required*
-  build. Patch Tuesday (B) and out-of-band releases count; optional D-week
-  previews do not, so a fully patched machine is never flagged as outdated.
+  build. Patch Tuesday (B) releases count, and an out-of-band release only
+  when Microsoft's Security Update Guide lists it as a security update for
+  that version at that build (since 2026-10-19; until then every one
+  counted); optional D-week previews do not, so a fully patched machine is
+  never flagged as outdated.
   A version that has just launched has no such release yet, and is listed
   with the build it launched with and no `kb` until its first Patch Tuesday
   (26H2, from 2026-09-30).
   `eosHome` and `eosEnterprise` are the dates servicing ends for each edition
   tier. A `windows10` section sat beside this one until 2026-09-21 and was
   removed with the app's last use of it; a consumer should not expect it.
+- `windows10Builds` holds one entry, `22H2`: the newest build of Windows 10
+  22H2 that Windows Update itself delivers, with its `date` and `kb`. A PC at
+  or above it is up to date. An out-of-band release counts only when
+  Microsoft's Security Update Guide lists it as a security update for that
+  version at that build, so a release that only the Update Catalog carries is
+  never the line. `consumerEsuEnds` is the last day of Microsoft's consumer
+  Extended Security Updates program: these builds reach only a PC enrolled in
+  it, and the app stops judging Windows 10 the day after. The section is
+  optional (since 2026-11-22), so a consumer should take its absence as no
+  verdict, and it has no `freshness` key of its own. Windows 10 Enterprise
+  LTSC 2021 (build 19044) has no entry. It is not the retired `windows10`
+  section, which stays gone.
 - `motherboards` is keyed by the clean marketing name, without the
   "(MS-7E51)"-style suffix WMI appends, and holds the latest non-beta BIOS.
   ASUS, Gigabyte and ASRock entries carry a `url` to the board's page on the
