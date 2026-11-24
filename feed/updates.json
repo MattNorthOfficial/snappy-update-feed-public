@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-23T22:12:29Z",
+  "updated": "2026-11-24T20:50:13Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-23T22:12:30Z",
-    "amd.chipset": "2026-11-23T22:12:30Z",
-    "windowsBuilds": "2026-11-23T22:12:31Z",
-    "motherboards.msi": "2026-11-23T22:26:25Z",
-    "motherboards.gigabyte": "2026-11-23T22:26:25Z",
-    "motherboards.asrock": "2026-11-23T22:26:25Z",
-    "motherboards.asus": "2026-11-23T22:26:25Z",
-    "dell": "2026-11-23T22:26:31Z",
-    "intel.chipset": "2026-11-23T22:26:41Z",
-    "intel.arc": "2026-11-23T22:26:41Z",
-    "intel.xe": "2026-11-23T22:26:41Z",
-    "intel.rst20": "2026-11-23T22:26:41Z",
-    "intel.rst21": "2026-11-23T22:26:41Z",
-    "intel.chipsetInf": "2026-11-23T22:26:41Z",
-    "nvidia": "2026-11-23T22:26:42Z"
+    "amd.windows": "2026-11-24T20:50:14Z",
+    "amd.chipset": "2026-11-24T20:50:14Z",
+    "windowsBuilds": "2026-11-24T20:50:15Z",
+    "motherboards.msi": "2026-11-24T21:03:52Z",
+    "motherboards.gigabyte": "2026-11-24T21:03:52Z",
+    "motherboards.asrock": "2026-11-24T21:03:52Z",
+    "motherboards.asus": "2026-11-24T21:03:52Z",
+    "dell": "2026-11-24T21:07:51Z",
+    "intel.chipset": "2026-11-24T21:08:05Z",
+    "intel.arc": "2026-11-24T21:08:05Z",
+    "intel.xe": "2026-11-24T21:08:05Z",
+    "intel.rst20": "2026-11-24T21:08:05Z",
+    "intel.rst21": "2026-11-24T21:08:05Z",
+    "intel.chipsetInf": "2026-11-24T21:08:05Z",
+    "nvidia": "2026-11-24T21:08:06Z"
   },
   "amd": {
     "windows": {
@@ -7056,13 +7056,13 @@
       "vendor": "msi"
     },
     "MAG B860M MORTAR": {
-      "bios": "7E40v1AA0",
-      "date": "2026-07-24",
+      "bios": "7E40v1AB0",
+      "date": "2026-11-24",
       "vendor": "msi"
     },
     "MAG B860M MORTAR WIFI": {
-      "bios": "7E40v1AA0",
-      "date": "2026-07-24",
+      "bios": "7E40v1AB0",
+      "date": "2026-11-24",
       "vendor": "msi"
     },
     "MAG H670 TOMAHAWK WIFI DDR4": {
@@ -7509,8 +7509,8 @@
       "vendor": "msi"
     },
     "MPG B860I EDGE TI WIFI": {
-      "bios": "7E43v1A60",
-      "date": "2026-07-14",
+      "bios": "7E43v1A70",
+      "date": "2026-11-24",
       "vendor": "msi"
     },
     "MPG X570 GAMING EDGE WIFI": {
@@ -7684,8 +7684,8 @@
       "vendor": "msi"
     },
     "MPG Z890 CARBON WIFI": {
-      "bios": "7E17v1AB0",
-      "date": "2026-07-09",
+      "bios": "7E17v1AC0",
+      "date": "2026-11-24",
       "vendor": "msi"
     },
     "MPG Z890 EDGE TI WIFI": {
@@ -8467,20 +8467,20 @@
       "vendor": "asus"
     },
     "PRIME B760M-A II": {
-      "bios": "1836",
-      "date": "2026-05-19",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/PRIME%20B760M-A%20II/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B760M-A II-CSM": {
-      "bios": "1836",
-      "date": "2026-05-19",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/PRIME%20B760M-A%20II-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B760M-A WIFI": {
-      "bios": "1836",
-      "date": "2026-05-22",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/PRIME%20B760M-A%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -8497,20 +8497,20 @@
       "vendor": "asus"
     },
     "PRIME B760M-A WIFI II": {
-      "bios": "1836",
-      "date": "2026-05-19",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/PRIME%20B760M-A%20WIFI%20II/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B760M-A WIFI II-CSM": {
-      "bios": "1836",
-      "date": "2026-05-19",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/PRIME%20B760M-A%20WIFI%20II-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
     "PRIME B760M-A WIFI-CSM": {
-      "bios": "1836",
-      "date": "2026-05-22",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/PRIME%20B760M-A%20WIFI-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10313,8 +10313,8 @@
       "vendor": "msi"
     },
     "Pro B760M-C-CSM": {
-      "bios": "1836",
-      "date": "2026-05-26",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/Pro%20B760M-C-CSM/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -10752,8 +10752,8 @@
       "vendor": "msi"
     },
     "PRO H810M-C EX": {
-      "bios": "7E38v1A80",
-      "date": "2026-07-08",
+      "bios": "7E38v1A90",
+      "date": "2026-11-24",
       "vendor": "msi"
     },
     "Pro H810M-C II-CSM": {
@@ -11937,8 +11937,8 @@
       "vendor": "asus"
     },
     "ROG STRIX B760-G GAMING WIFI": {
-      "bios": "1836",
-      "date": "2026-05-26",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/ROG%20STRIX%20B760-G%20GAMING%20WIFI/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13025,8 +13025,8 @@
       "vendor": "asus"
     },
     "TUF GAMING B760-PLUS WIFI D4": {
-      "bios": "1836",
-      "date": "2026-05-26",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B760-PLUS%20WIFI%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -13043,8 +13043,8 @@
       "vendor": "asus"
     },
     "TUF GAMING B760M-E D4": {
-      "bios": "1836",
-      "date": "2026-05-18",
+      "bios": "1846",
+      "date": "2026-11-24",
       "url": "https://www.asus.com/supportonly/TUF%20GAMING%20B760M-E%20D4/helpdesk_bios/",
       "vendor": "asus"
     },
@@ -19982,29 +19982,29 @@
       "url": "https://downloads.dell.com/FOLDER15005273M/1/Latitude_3120_1.41.1.exe"
     },
     "0A34": {
-      "bios": "1.53.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963322M/1/Latitude_7X20_1.53.0.exe"
+      "bios": "1.54.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15058961M/1/Latitude_7X20_1.54.0.exe"
     },
     "0A35": {
-      "bios": "1.53.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963322M/1/Latitude_7X20_1.53.0.exe"
+      "bios": "1.54.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15058961M/1/Latitude_7X20_1.54.0.exe"
     },
     "0A36": {
-      "bios": "1.53.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963322M/1/Latitude_7X20_1.53.0.exe"
+      "bios": "1.54.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15058961M/1/Latitude_7X20_1.54.0.exe"
     },
     "0A37": {
-      "bios": "1.53.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963322M/1/Latitude_7X20_1.53.0.exe"
+      "bios": "1.54.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15058961M/1/Latitude_7X20_1.54.0.exe"
     },
     "0A38": {
-      "bios": "1.53.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963322M/1/Latitude_7X20_1.53.0.exe"
+      "bios": "1.54.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15058961M/1/Latitude_7X20_1.54.0.exe"
     },
     "0A3A": {
       "bios": "2.24.1",
@@ -20017,14 +20017,14 @@
       "url": "https://downloads.dell.com/FOLDER15120618M/1/Precision_5860_3.12.1.exe"
     },
     "0A3E": {
-      "bios": "1.50.0",
-      "date": "2026-10-26",
-      "url": "https://downloads.dell.com/FOLDER14963382M/1/Latitude_9520_1.50.0.exe"
+      "bios": "1.51.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15059009M/1/Latitude_9520_1.51.0.exe"
     },
     "0A3F": {
-      "bios": "1.50.0",
-      "date": "2026-10-26",
-      "url": "https://downloads.dell.com/FOLDER14963382M/1/Latitude_9520_1.50.0.exe"
+      "bios": "1.51.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15059009M/1/Latitude_9520_1.51.0.exe"
     },
     "0A40": {
       "bios": "1.59.0",
@@ -20142,14 +20142,14 @@
       "url": "https://downloads.dell.com/FOLDER14953220M/1/Precision_3450_1.45.0.exe"
     },
     "0A58": {
-      "bios": "1.50.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14959328M/1/Precision_3650_1.50.0.exe"
+      "bios": "1.51.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076238M/1/Precision_3650_1.51.0.exe"
     },
     "0A59": {
-      "bios": "1.50.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14959328M/1/Precision_3650_1.50.0.exe"
+      "bios": "1.51.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076238M/1/Precision_3650_1.51.0.exe"
     },
     "0A5B": {
       "bios": "1.50.0",
@@ -20227,19 +20227,19 @@
       "url": "https://downloads.dell.com/FOLDER14835758M/1/Alienware_m15_R5_1.33.0.exe"
     },
     "0A70": {
-      "bios": "1.46.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963890M/1/Dell_G15_5511_1.46.0.exe"
+      "bios": "1.47.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075344M/1/Dell_G15_5511_1.47.0.exe"
     },
     "0A71": {
-      "bios": "1.46.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963890M/1/Dell_G15_5511_1.46.0.exe"
+      "bios": "1.47.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075344M/1/Dell_G15_5511_1.47.0.exe"
     },
     "0A73": {
-      "bios": "1.47.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963829M/1/Alienware_m15_R6_1.47.0.exe"
+      "bios": "1.48.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075268M/1/Alienware_m15_R6_1.48.0.exe"
     },
     "0A74": {
       "bios": "1.36.0",
@@ -20447,9 +20447,9 @@
       "url": "https://downloads.dell.com/FOLDER14835851M/1/Inspiron_3515_1.39.0.exe"
     },
     "0ABA": {
-      "bios": "1.47.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963829M/1/Alienware_m15_R6_1.47.0.exe"
+      "bios": "1.48.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075268M/1/Alienware_m15_R6_1.48.0.exe"
     },
     "0AC1": {
       "bios": "1.44.0",
@@ -20742,14 +20742,14 @@
       "url": "https://downloads.dell.com/FOLDER14969534M/1/Precision_3571_Latitude_5531_1.38.0.exe"
     },
     "0B11": {
-      "bios": "1.43.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963747M/1/Latitude_9430_1.43.0.exe"
+      "bios": "1.44.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15060912M/1/Latitude_9430_1.44.0.exe"
     },
     "0B12": {
-      "bios": "1.43.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963747M/1/Latitude_9430_1.43.0.exe"
+      "bios": "1.44.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15060912M/1/Latitude_9430_1.44.0.exe"
     },
     "0B13": {
       "bios": "1.33.0",
@@ -20962,54 +20962,54 @@
       "url": "https://downloads.dell.com/FOLDER15128921M/1/Inspiron_7420_7620_Vostro_7620_1.40.0.exe"
     },
     "0B54": {
-      "bios": "1.43.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965903M/1/Alienware_m15_R7_1.43.0.exe"
+      "bios": "1.44.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075685M/1/Alienware_m15_R7_1.44.0.exe"
     },
     "0B55": {
-      "bios": "1.43.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965903M/1/Alienware_m15_R7_1.43.0.exe"
+      "bios": "1.44.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075685M/1/Alienware_m15_R7_1.44.0.exe"
     },
     "0B56": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965978M/1/Dell_G15_5520_5521_G16_7620_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075801M/1/Dell_G15_5520_5521_G16_7620_1.45.0.exe"
     },
     "0B57": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965978M/1/Dell_G15_5520_5521_G16_7620_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075801M/1/Dell_G15_5520_5521_G16_7620_1.45.0.exe"
     },
     "0B58": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965978M/1/Dell_G15_5520_5521_G16_7620_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075801M/1/Dell_G15_5520_5521_G16_7620_1.45.0.exe"
     },
     "0B59": {
-      "bios": "1.29.0",
-      "date": "2026-10-23",
-      "url": "https://downloads.dell.com/FOLDER14993869M/1/Alienware_m15_R7_m17_R5_AMD_1.29.0.exe"
+      "bios": "1.30.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15101162M/1/Alienware_m15_R7_m17_R5_AMD_1.30.0.exe"
     },
     "0B5A": {
-      "bios": "1.29.0",
-      "date": "2026-10-23",
-      "url": "https://downloads.dell.com/FOLDER14993869M/1/Alienware_m15_R7_m17_R5_AMD_1.29.0.exe"
+      "bios": "1.30.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15101162M/1/Alienware_m15_R7_m17_R5_AMD_1.30.0.exe"
     },
     "0B5B": {
-      "bios": "1.29.0",
-      "date": "2026-10-23",
-      "url": "https://downloads.dell.com/FOLDER14993869M/1/Alienware_m15_R7_m17_R5_AMD_1.29.0.exe"
+      "bios": "1.30.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15101162M/1/Alienware_m15_R7_m17_R5_AMD_1.30.0.exe"
     },
     "0B5C": {
-      "bios": "1.29.0",
-      "date": "2026-10-23",
-      "url": "https://downloads.dell.com/FOLDER14993869M/1/Alienware_m15_R7_m17_R5_AMD_1.29.0.exe"
+      "bios": "1.30.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15101162M/1/Alienware_m15_R7_m17_R5_AMD_1.30.0.exe"
     },
     "0B5D": {
-      "bios": "1.29.0",
-      "date": "2026-10-23",
-      "url": "https://downloads.dell.com/FOLDER14993869M/1/Alienware_m15_R7_m17_R5_AMD_1.29.0.exe"
+      "bios": "1.30.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15101162M/1/Alienware_m15_R7_m17_R5_AMD_1.30.0.exe"
     },
     "0B5E": {
       "bios": "1.30.0",
@@ -21027,39 +21027,39 @@
       "url": "https://downloads.dell.com/FOLDER15075491M/1/Latitude_3420_Latitude_3520_1.51.0.exe"
     },
     "0B64": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965978M/1/Dell_G15_5520_5521_G16_7620_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075801M/1/Dell_G15_5520_5521_G16_7620_1.45.0.exe"
     },
     "0B65": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B66": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B67": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B68": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B69": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B6A": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B6B": {
       "bios": "1.36.0",
@@ -21097,34 +21097,34 @@
       "url": "https://downloads.dell.com/FOLDER15128921M/1/Inspiron_7420_7620_Vostro_7620_1.40.0.exe"
     },
     "0B75": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B76": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B77": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B78": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B79": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B7A": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B7B": {
       "bios": "1.36.0",
@@ -21182,49 +21182,49 @@
       "url": "https://downloads.dell.com/FOLDER14971319M/1/OptiPlex_3090_2.31.0.exe"
     },
     "0B8C": {
-      "bios": "1.40.0",
-      "date": "2026-10-28",
-      "url": "https://downloads.dell.com/FOLDER14964193M/1/Latitude_9330_1.40.0.exe"
+      "bios": "1.41.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15078458M/1/Latitude_9330_1.41.0.exe"
     },
     "0B92": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B93": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B94": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B95": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B96": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B97": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0B99": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965978M/1/Dell_G15_5520_5521_G16_7620_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075801M/1/Dell_G15_5520_5521_G16_7620_1.45.0.exe"
     },
     "0B9B": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14965978M/1/Dell_G15_5520_5521_G16_7620_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075801M/1/Dell_G15_5520_5521_G16_7620_1.45.0.exe"
     },
     "0B9E": {
       "bios": "2.2.5",
@@ -21277,19 +21277,19 @@
       "url": "https://downloads.dell.com/FOLDER15075930M/1/Inspiron_Vostro_5420_5620_1.39.0.exe"
     },
     "0BB2": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BB3": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BB4": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BB6": {
       "bios": "1.51.0",
@@ -21297,39 +21297,39 @@
       "url": "https://downloads.dell.com/FOLDER15075463M/1/Inspiron_Vostro_3511_1510.exe"
     },
     "0BB7": {
-      "bios": "1.35.0",
-      "date": "2026-10-16",
-      "url": "https://downloads.dell.com/FOLDER14963697M/1/Latitude_7230_1.35.0.exe"
+      "bios": "1.36.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075731M/1/Latitude_7230_1.36.0.exe"
     },
     "0BB8": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BB9": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BBA": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BBB": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BBC": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BBD": {
-      "bios": "1.44.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14964600M/1/Inspiron_Vostro_3420_3520_1.44.0.exe"
+      "bios": "1.45.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15082519M/1/Inspiron_Vostro_3420_3520_1.45.0.exe"
     },
     "0BBF": {
       "bios": "1.30.0",
@@ -21452,14 +21452,14 @@
       "url": "https://downloads.dell.com/FOLDER15075240M/1/Vostro_3020_1.40.0.exe"
     },
     "0BD7": {
-      "bios": "1.39.0",
-      "date": "2026-10-12",
-      "url": "https://downloads.dell.com/FOLDER14963819M/1/Vostro_3020_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075240M/1/Vostro_3020_1.40.0.exe"
     },
     "0BD8": {
-      "bios": "1.39.0",
-      "date": "2026-10-12",
-      "url": "https://downloads.dell.com/FOLDER14963819M/1/Vostro_3020_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075240M/1/Vostro_3020_1.40.0.exe"
     },
     "0BD9": {
       "bios": "1.28.0",
@@ -21547,24 +21547,24 @@
       "url": "https://downloads.dell.com/FOLDER15059101M/1/Inspiron_5420_5421_7720_1.33.0.exe"
     },
     "0BF7": {
-      "bios": "1.36.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14967202M/1/Dell_G15_5530_G16_7630_1.36.0.exe"
+      "bios": "1.37.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075566M/1/Dell_G15_5530_G16_7630_1.37.0.exe"
     },
     "0BF8": {
-      "bios": "1.36.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14967202M/1/Dell_G15_5530_G16_7630_1.36.0.exe"
+      "bios": "1.37.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075566M/1/Dell_G15_5530_G16_7630_1.37.0.exe"
     },
     "0BF9": {
-      "bios": "1.36.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14967202M/1/Dell_G15_5530_G16_7630_1.36.0.exe"
+      "bios": "1.37.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075566M/1/Dell_G15_5530_G16_7630_1.37.0.exe"
     },
     "0BFA": {
-      "bios": "1.36.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14967202M/1/Dell_G15_5530_G16_7630_1.36.0.exe"
+      "bios": "1.37.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075566M/1/Dell_G15_5530_G16_7630_1.37.0.exe"
     },
     "0BFB": {
       "bios": "1.37.0",
@@ -21647,24 +21647,24 @@
       "url": "https://downloads.dell.com/FOLDER15075444M/1/Latitude_7340_1.35.0.exe"
     },
     "0C0B": {
-      "bios": "1.35.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963545M/1/Latitude_7X40_1.35.0.exe"
+      "bios": "1.36.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15125653M/1/Latitude_7X40_1.36.0.exe"
     },
     "0C0C": {
-      "bios": "1.35.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963545M/1/Latitude_7X40_1.35.0.exe"
+      "bios": "1.36.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15125653M/1/Latitude_7X40_1.36.0.exe"
     },
     "0C0D": {
-      "bios": "1.35.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963545M/1/Latitude_7X40_1.35.0.exe"
+      "bios": "1.36.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15125653M/1/Latitude_7X40_1.36.0.exe"
     },
     "0C0E": {
-      "bios": "1.35.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963545M/1/Latitude_7X40_1.35.0.exe"
+      "bios": "1.36.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15125653M/1/Latitude_7X40_1.36.0.exe"
     },
     "0C0F": {
       "bios": "1.32.0",
@@ -21897,9 +21897,9 @@
       "url": "https://downloads.dell.com/FOLDER15083409M/1/Precision_7X80_1.34.0.exe"
     },
     "0C43": {
-      "bios": "1.39.0",
-      "date": "2026-10-12",
-      "url": "https://downloads.dell.com/FOLDER14963907M/1/Inspiron_3020_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075409M/1/Inspiron_3020_1.40.0.exe"
     },
     "0C48": {
       "bios": "1.37.0",
@@ -21937,9 +21937,9 @@
       "url": "https://downloads.dell.com/FOLDER15075409M/1/Inspiron_3020_1.40.0.exe"
     },
     "0C51": {
-      "bios": "1.39.0",
-      "date": "2026-10-12",
-      "url": "https://downloads.dell.com/FOLDER14963907M/1/Inspiron_3020_1.39.0.exe"
+      "bios": "1.40.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075409M/1/Inspiron_3020_1.40.0.exe"
     },
     "0C52": {
       "bios": "1.39.1",
@@ -22147,9 +22147,9 @@
       "url": "https://downloads.dell.com/FOLDER14960211M/1/Precision3680_1.30.0.exe"
     },
     "0C90": {
-      "bios": "1.26.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963782M/1/Alienware_x16_R2_1.26.0.exe"
+      "bios": "1.27.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075711M/1/Alienware_x16_R2_1.27.0.exe"
     },
     "0C91": {
       "bios": "1.25.0",
@@ -22207,19 +22207,19 @@
       "url": "https://downloads.dell.com/FOLDER15084903M/1/Alienware_m18_R2_1.26.0.exe"
     },
     "0C9E": {
-      "bios": "1.21.1",
-      "date": "2026-09-10",
-      "url": "https://downloads.dell.com/FOLDER14879835M/1/Inspiron_16_5645_1.21.1.exe"
+      "bios": "1.22.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15092796M/1/Inspiron_16_5645_1.22.0.exe"
     },
     "0C9F": {
-      "bios": "1.24.0",
-      "date": "2026-10-20",
-      "url": "https://downloads.dell.com/FOLDER14964284M/1/Inspiron_16_5640_Vostro_16_5640_1240_RPL.exe"
+      "bios": "1.25.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075602M/1/Inspiron_16_5640_Vostro_16_5640_1250_RPL.exe"
     },
     "0CA0": {
-      "bios": "1.24.0",
-      "date": "2026-10-20",
-      "url": "https://downloads.dell.com/FOLDER14964284M/1/Inspiron_16_5640_Vostro_16_5640_1240_RPL.exe"
+      "bios": "1.25.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075602M/1/Inspiron_16_5640_Vostro_16_5640_1250_RPL.exe"
     },
     "0CA1": {
       "bios": "1.26.0",
@@ -22267,24 +22267,24 @@
       "url": "https://downloads.dell.com/FOLDER15129095M/1/Inspiron_14_5445_7445_1.23.0.exe"
     },
     "0CAB": {
-      "bios": "1.21.1",
-      "date": "2026-09-10",
-      "url": "https://downloads.dell.com/FOLDER14879835M/1/Inspiron_16_5645_1.21.1.exe"
+      "bios": "1.22.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15092796M/1/Inspiron_16_5645_1.22.0.exe"
     },
     "0CB2": {
-      "bios": "1.27.1",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER14963580M/1/Latitude_5450_Precision_3490_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075593M/1/Latitude_5450_Precision_3490_1.28.0.exe"
     },
     "0CB3": {
-      "bios": "1.27.1",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER14963580M/1/Latitude_5450_Precision_3490_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075593M/1/Latitude_5450_Precision_3490_1.28.0.exe"
     },
     "0CB4": {
-      "bios": "1.27.1",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER14963580M/1/Latitude_5450_Precision_3490_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075593M/1/Latitude_5450_Precision_3490_1.28.0.exe"
     },
     "0CB5": {
       "bios": "1.28.0",
@@ -22347,39 +22347,39 @@
       "url": "https://downloads.dell.com/FOLDER15087082M/1/Latitude_7350_1.28.0.exe"
     },
     "0CC1": {
-      "bios": "1.27.1",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963788M/1/Latitude_7X50_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076263M/1/Latitude_7X50_1.28.0.exe"
     },
     "0CC2": {
-      "bios": "1.27.1",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963788M/1/Latitude_7X50_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076263M/1/Latitude_7X50_1.28.0.exe"
     },
     "0CC3": {
-      "bios": "1.27.1",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963788M/1/Latitude_7X50_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076263M/1/Latitude_7X50_1.28.0.exe"
     },
     "0CC4": {
-      "bios": "1.27.1",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963788M/1/Latitude_7X50_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076263M/1/Latitude_7X50_1.28.0.exe"
     },
     "0CC5": {
-      "bios": "1.27.1",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14963788M/1/Latitude_7X50_1.27.1.exe"
+      "bios": "1.28.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076263M/1/Latitude_7X50_1.28.0.exe"
     },
     "0CC6": {
-      "bios": "1.25.1",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER14963452M/1/Latitude_9450_1.25.1.exe"
+      "bios": "1.26.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075247M/1/Latitude_9450_1.26.0.exe"
     },
     "0CC7": {
-      "bios": "1.25.1",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER14963428M/1/Precision_5490_1.25.1.exe"
+      "bios": "1.26.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15075195M/1/Precision_5490_1.26.0.exe"
     },
     "0CC8": {
       "bios": "1.27.0",
@@ -22742,14 +22742,14 @@
       "url": "https://downloads.dell.com/FOLDER15123725M/1/Dell_ECT1250_ECS1250_1.20.0.exe"
     },
     "0D22": {
-      "bios": "1.14.0",
-      "date": "2026-10-20",
-      "url": "https://downloads.dell.com/FOLDER14964382M/1/Dell_DC16251_DC16250_1.14.0.exe"
+      "bios": "1.15.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075568M/1/Dell_DC16251_DC16250_1.15.0.exe"
     },
     "0D23": {
-      "bios": "1.14.0",
-      "date": "2026-10-20",
-      "url": "https://downloads.dell.com/FOLDER14964382M/1/Dell_DC16251_DC16250_1.14.0.exe"
+      "bios": "1.15.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15075568M/1/Dell_DC16251_DC16250_1.15.0.exe"
     },
     "0D2B": {
       "bios": "1.18.0",
@@ -23032,14 +23032,14 @@
       "url": "https://downloads.dell.com/FOLDER15152260M/1/Dell_DC15255_1.14.1.exe"
     },
     "0D7D": {
-      "bios": "1.6.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14969258M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.6.0.exe"
+      "bios": "1.7.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076790M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.7.0.exe"
     },
     "0D7E": {
-      "bios": "1.6.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14969258M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.6.0.exe"
+      "bios": "1.7.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076790M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.7.0.exe"
     },
     "0D80": {
       "bios": "2.9.0",
@@ -23072,19 +23072,19 @@
       "url": "https://downloads.dell.com/FOLDER15023346M/1/Dell_14_DC14255_1.16.0.exe"
     },
     "0D93": {
-      "bios": "1.13.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14975757M/1/DELL_DC16255_DC16256_1.13.0.exe"
+      "bios": "1.14.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15092897M/1/DELL_DC16255_DC16256_1.14.0.exe"
     },
     "0D94": {
-      "bios": "1.13.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14975757M/1/DELL_DC16255_DC16256_1.13.0.exe"
+      "bios": "1.14.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15092897M/1/DELL_DC16255_DC16256_1.14.0.exe"
     },
     "0D95": {
-      "bios": "1.13.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14975757M/1/DELL_DC16255_DC16256_1.13.0.exe"
+      "bios": "1.14.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15092897M/1/DELL_DC16255_DC16256_1.14.0.exe"
     },
     "0D98": {
       "bios": "1.2.0",
@@ -23102,9 +23102,9 @@
       "url": "https://downloads.dell.com/FOLDER15092897M/1/DELL_DC16255_DC16256_1.14.0.exe"
     },
     "0D9F": {
-      "bios": "1.13.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14975757M/1/DELL_DC16255_DC16256_1.13.0.exe"
+      "bios": "1.14.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15092897M/1/DELL_DC16255_DC16256_1.14.0.exe"
     },
     "0DAA": {
       "bios": "1.25.0",
@@ -23117,9 +23117,9 @@
       "url": "https://downloads.dell.com/FOLDER14947565M/1/XPS_13_9350_1.25.0_64.exe"
     },
     "0DB0": {
-      "bios": "1.8.1",
-      "date": "2026-10-21",
-      "url": "https://downloads.dell.com/FOLDER15102389M/1/Dell_Pro_TC_Q9M1260_1.8.1.exe"
+      "bios": "1.9.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15126151M/1/Dell_Pro_TC_Q9M1260_1.9.0.exe"
     },
     "0DB1": {
       "bios": "1.12.0",
@@ -23232,9 +23232,9 @@
       "url": "https://downloads.dell.com/FOLDER15136190M/1/Dell_Pro_14_Essential_PV14255_1.17.0.exe"
     },
     "0DED": {
-      "bios": "1.6.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER14969258M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.6.0.exe"
+      "bios": "1.7.0",
+      "date": "2026-11-19",
+      "url": "https://downloads.dell.com/FOLDER15076790M/1/Dell_Pro_Education_11_PE11260_14_PE14260_1.7.0.exe"
     },
     "0DF0": {
       "bios": "1.9.0",
@@ -23532,14 +23532,14 @@
       "url": "https://downloads.dell.com/FOLDER14714340M/1/Dell_Pro_P31x260_P51x260_P7xx260_Dell_Pro_Precision_PW51x260_2.2.3.exe"
     },
     "0E48": {
-      "bios": "1.8.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER15134572M/1/Alienware_15_DA15265_1.8.0.exe"
+      "bios": "1.9.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15144288M/1/Alienware_15_DA15265_1.9.0.exe"
     },
     "0E4A": {
-      "bios": "1.8.0",
-      "date": "2026-10-22",
-      "url": "https://downloads.dell.com/FOLDER15134572M/1/Alienware_15_DA15265_1.8.0.exe"
+      "bios": "1.9.0",
+      "date": "2026-11-18",
+      "url": "https://downloads.dell.com/FOLDER15144288M/1/Alienware_15_DA15265_1.9.0.exe"
     },
     "0E4F": {
       "bios": "1.5.1",
@@ -26958,8 +26958,8 @@
     }
   },
   "nvidia": {
-    "gameReady": "621.24",
-    "url": "https://www.nvidia.com/en-us/drivers/details/285320/",
-    "download": "https://us.download.nvidia.com/Windows/621.24/621.24-desktop-win10-win11-64bit-international-dch-whql.exe"
+    "gameReady": "621.40",
+    "url": "https://www.nvidia.com/en-us/drivers/details/288689/",
+    "download": "https://us.download.nvidia.com/Windows/621.40/621.40-desktop-win10-win11-64bit-international-dch-whql.exe"
   }
 }
