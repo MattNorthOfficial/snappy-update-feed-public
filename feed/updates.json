@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "license": "Compilation (c) 2026 Matt North. Facts belong to their vendors and are not claimed; the compilation is licensed. Reuse or redistribution needs permission: https://github.com/MattNorthOfficial/snappy-update-feed-public/blob/main/LICENSE.md",
-  "updated": "2026-11-24T20:50:13Z",
+  "updated": "2026-11-25T20:07:00Z",
   "communitySources": {
     "intelChipsetInf": {
       "repository": "FirstEverTech/Universal-Intel-Chipset-Updater",
@@ -13,21 +13,21 @@
     }
   },
   "freshness": {
-    "amd.windows": "2026-11-24T20:50:14Z",
-    "amd.chipset": "2026-11-24T20:50:14Z",
-    "windowsBuilds": "2026-11-24T20:50:15Z",
-    "motherboards.msi": "2026-11-24T21:03:52Z",
-    "motherboards.gigabyte": "2026-11-24T21:03:52Z",
-    "motherboards.asrock": "2026-11-24T21:03:52Z",
-    "motherboards.asus": "2026-11-24T21:03:52Z",
-    "dell": "2026-11-24T21:07:51Z",
-    "intel.chipset": "2026-11-24T21:08:05Z",
-    "intel.arc": "2026-11-24T21:08:05Z",
-    "intel.xe": "2026-11-24T21:08:05Z",
-    "intel.rst20": "2026-11-24T21:08:05Z",
-    "intel.rst21": "2026-11-24T21:08:05Z",
-    "intel.chipsetInf": "2026-11-24T21:08:05Z",
-    "nvidia": "2026-11-24T21:08:06Z"
+    "amd.windows": "2026-11-25T09:05:02Z",
+    "amd.chipset": "2026-11-25T20:07:02Z",
+    "windowsBuilds": "2026-11-25T20:07:03Z",
+    "motherboards.msi": "2026-11-25T20:28:20Z",
+    "motherboards.gigabyte": "2026-11-25T20:28:20Z",
+    "motherboards.asrock": "2026-11-25T20:28:20Z",
+    "motherboards.asus": "2026-11-25T20:28:20Z",
+    "dell": "2026-11-25T20:35:20Z",
+    "intel.chipset": "2026-11-25T20:35:29Z",
+    "intel.arc": "2026-11-25T20:35:29Z",
+    "intel.xe": "2026-11-25T20:35:29Z",
+    "intel.rst20": "2026-11-25T20:35:29Z",
+    "intel.rst21": "2026-11-25T20:35:29Z",
+    "intel.chipsetInf": "2026-11-25T20:35:29Z",
+    "nvidia": "2026-11-25T20:35:30Z"
   },
   "amd": {
     "windows": {
@@ -325,8 +325,12 @@
       "vendor": "gigabyte"
     },
     "A520M-A PRO": {
-      "bios": "7C96v1L9",
-      "date": "2026-08-21",
+      "bios": "7C96v1L",
+      "date": "2026-11-25",
+      "supersedes": [
+        "7C96v1L9",
+        "7C96v1L8"
+      ],
       "vendor": "msi"
     },
     "A520M-HDV": {
@@ -1378,8 +1382,12 @@
       "vendor": "gigabyte"
     },
     "B550M-A PRO": {
-      "bios": "7C96v2J4",
-      "date": "2026-08-21",
+      "bios": "7C96v2J",
+      "date": "2026-11-25",
+      "supersedes": [
+        "7C96v2J4",
+        "7C96v2J3"
+      ],
       "vendor": "msi"
     },
     "B550M-HDV": {
@@ -3715,8 +3723,8 @@
       "vendor": "msi"
     },
     "B850M GAMING WIFI": {
-      "bios": "7E82v2A33",
-      "date": "2026-09-03",
+      "bios": "7E82v2A34",
+      "date": "2026-11-25",
       "vendor": "msi"
     },
     "B850M GAMING WIFI6E": {
@@ -6351,8 +6359,8 @@
       "vendor": "gigabyte"
     },
     "H610M K DDR4": {
-      "bios": "FJ",
-      "date": "2026-09-29",
+      "bios": "FK",
+      "date": "2026-10-27",
       "url": "https://www.gigabyte.com/Motherboard/H610M-K-DDR4-rev-20/support#Support-Bios",
       "revisionAmbiguous": true,
       "vendor": "gigabyte"
@@ -7554,8 +7562,8 @@
       "vendor": "msi"
     },
     "MPG X870I EDGE TI EVO WIFI": {
-      "bios": "7E50v1A43",
-      "date": "2026-09-07",
+      "bios": "7E50v1A44",
+      "date": "2026-11-25",
       "vendor": "msi"
     },
     "MPG Z490 CARBON EK X": {
@@ -10450,8 +10458,8 @@
       "vendor": "msi"
     },
     "PRO B850M-G": {
-      "bios": "7E82v1A43",
-      "date": "2026-09-03",
+      "bios": "7E82v1A44",
+      "date": "2026-11-25",
       "vendor": "msi"
     },
     "PRO B850M-P": {
@@ -10470,8 +10478,8 @@
       "vendor": "msi"
     },
     "PRO B850M-X": {
-      "bios": "7E82v1A43",
-      "date": "2026-09-03",
+      "bios": "7E82v1A44",
+      "date": "2026-11-25",
       "vendor": "msi"
     },
     "PRO B860-P": {
