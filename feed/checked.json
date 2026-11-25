@@ -1,21 +1,21 @@
 {
-  "checked": "2026-11-25T04:06:48Z",
+  "checked": "2026-11-25T09:05:38Z",
   "feedUpdated": "2026-11-24T20:50:13Z",
   "freshness": {
-    "amd.windows": "2026-11-25T04:06:19Z",
-    "amd.chipset": "2026-11-25T04:06:19Z",
-    "windowsBuilds": "2026-11-25T04:06:20Z",
+    "amd.windows": "2026-11-25T09:05:02Z",
+    "amd.chipset": "2026-11-25T09:05:03Z",
+    "windowsBuilds": "2026-11-25T09:05:03Z",
     "motherboards.msi": "2026-11-24T21:03:52Z",
     "motherboards.gigabyte": "2026-11-24T21:03:52Z",
     "motherboards.asrock": "2026-11-24T21:03:52Z",
     "motherboards.asus": "2026-11-24T21:03:52Z",
     "dell": "2026-11-24T21:07:51Z",
-    "intel.chipset": "2026-11-25T04:06:44Z",
-    "intel.arc": "2026-11-25T04:06:44Z",
-    "intel.xe": "2026-11-25T04:06:44Z",
-    "intel.rst20": "2026-11-25T04:06:44Z",
-    "intel.rst21": "2026-11-25T04:06:44Z",
-    "intel.chipsetInf": "2026-11-25T04:06:44Z",
-    "nvidia": "2026-11-25T04:06:45Z"
+    "intel.chipset": "2026-11-25T09:05:35Z",
+    "intel.arc": "2026-11-25T09:05:35Z",
+    "intel.xe": "2026-11-25T09:05:35Z",
+    "intel.rst20": "2026-11-25T09:05:35Z",
+    "intel.rst21": "2026-11-25T09:05:35Z",
+    "intel.chipsetInf": "2026-11-25T09:05:35Z",
+    "nvidia": "2026-11-25T09:05:35Z"
   }
 }
